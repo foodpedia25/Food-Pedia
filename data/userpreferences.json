@@ -1,31 +1,31 @@
 [
-  {
-    "user_id": "688f2ccb192c06d06024420a",
-    "country": "Switzerland",
-    "continent": "Europe",
-    "dietary_preference": "none",
-    "allowed_categories": [
-      "red_meat",
-      "poultry",
-      "fish_seafood",
-      "dairy",
-      "eggs",
-      "vegetables",
-      "fruits",
-      "grains",
-      "nuts",
-      "oils_fats",
-      "spices_herbs",
-      "beverages"
-    ],
-    "excluded_ingredients": [],
-    "allergies": [],
-    "preferred_currency": "USD",
-    "id": "6894ca0d3b1c9a9a6bd83e93",
-    "created_date": "2025-08-07T15:45:17.482000",
-    "updated_date": "2025-08-11T18:55:31.820000",
-    "created_by_id": "688f2ccb192c06d06024420a",
-    "created_by": "zubair_zm@hotmail.com",
-    "is_sample": false
-  }
+ {
+  "user_id": "688f2ccb192c06d06024420a",
+  "country": "Switzerland",
+  "continent": "Europe",
+  "dietary_preference": "none",
+  "allowed_categories": [
+   "red_meat",
+   "poultry",
+   "fish_seafood",
+   "dairy",
+   "eggs",
+   "vegetables",
+   "fruits",
+   "grains",
+   "nuts",
+   "oils_fats",
+   "spices_herbs",
+   "beverages"
+  ],
+  "excluded_ingredients": [],
+  "allergies": [],
+  "preferred_currency": "USD",
+  "id": "6894ca0d3b1c9a9a6bd83e93",
+  "created_date": "2025-08-07T15:45:17.482000",
+  "updated_date": "2025-08-11T18:55:31.820000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ }
 ]

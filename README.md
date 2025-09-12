@@ -1,12 +1,12 @@
 # 🍽️ Food-Pedia - Sauvegarde Complète
 
-## 📊 Synchronisation Complète du 12 septembre 2025 à 16:30
+## 📊 Synchronisation Complète du 12 septembre 2025 à 16:31
 
 Cette sauvegarde automatique contient **TOUTES** les données de l'application Food-Pedia.
 
 ### 🎯 Statistiques Globales
-- **📁 Fichiers créés :** 25
-- **📊 Total entités exportées :** 3,755
+- **📁 Fichiers créés :** 24
+- **📊 Total entités exportées :** 1,755
 - **🚀 Opérations :** export_data_complet, export_structure
 
 ### 📈 Détail par Base de Données
@@ -14,7 +14,7 @@ Cette sauvegarde automatique contient **TOUTES** les données de l'application F
 | Entité | Nombre d'Enregistrements |
 |--------|---------------------------|
 | Product | 1,271 |
-| Recipe | 2,000 |
+| Recipe | ERREUR |
 | Beverage | 16 |
 | Country | 13 |
 | Store | 104 |
@@ -104,6 +104,7 @@ Cette sauvegarde automatique contient **TOUTES** les données de l'application F
 ```
 
 ### ⚠️ Erreurs et Avertissements
+- Recipe: Échec écriture fichier data/recipe.json: {"message":"is at 4ec024028bf213570d2d63d1648ff085851527bd but expected 0217b799633a3ac6785e006c454d11e91c821cad","documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file-contents","status":"409"}
 - GoogleWorkspaceConfig: Échec écriture fichier data/googleworkspaceconfig.json: {"message":"Repository rule violations found\n\nSecret detected in content\n\n","metadata":{"secret_scanning":{"bypass_placeholders":[{"placeholder_id":"32bczyDMIuPI2KRfAAtKRyKbaJ1","token_type":"GOOGLE_OAUTH_CLIENT_ID"},{"placeholder_id":"32bczy50rwhPItvq6v90lj8xJvV","token_type":"GOOGLE_OAUTH_CLIENT_SECRET"}]}},"documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file-contents","status":"409"}
 
 ### 🔗 Liens Utiles
@@ -113,4 +114,4 @@ Cette sauvegarde automatique contient **TOUTES** les données de l'application F
 
 ---
 *🤖 Sauvegarde générée automatiquement par le système Food-Pedia*  
-*📅 Dernière mise à jour : 12 septembre 2025 à 16:30*
+*📅 Dernière mise à jour : 12 septembre 2025 à 16:31*

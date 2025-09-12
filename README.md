@@ -5,9 +5,9 @@
 Cette sauvegarde automatique contient toutes les données de l'application Food-Pedia.
 
 ### 📈 Statistiques
-- **Entités exportées:** 0
-- **Fichiers créés:** 0
-- **Opérations:** 
+- **Entités exportées:** 1283
+- **Fichiers créés:** 13
+- **Opérations:** data_export
 
 ### 📁 Structure
 ```

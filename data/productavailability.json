@@ -1,0 +1,294 @@
+[
+  {
+    "product_id": "689a3cff1c2d47300cb7f783",
+    "country": "Brésil",
+    "continent": "Unknown",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a3cff732942903c7fbf76",
+    "created_date": "2025-08-11T18:57:03.949000",
+    "updated_date": "2025-08-11T18:57:03.949000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a297d46c2743e816f7257",
+    "country": "Greece",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a297d49e17b7aff848033",
+    "created_date": "2025-08-11T17:33:49.815000",
+    "updated_date": "2025-08-11T17:33:49.815000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a297d46c2743e816f7257",
+    "country": "France",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a297dfddb92bba20f2e17",
+    "created_date": "2025-08-11T17:33:49.504000",
+    "updated_date": "2025-08-11T17:33:49.504000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a2923bd9c939c06892577",
+    "country": "Greece",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a29240bebe58e23bf1e79",
+    "created_date": "2025-08-11T17:32:20.434000",
+    "updated_date": "2025-08-11T17:32:20.434000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a2923bd9c939c06892577",
+    "country": "France",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a29242dc054959cee92f1",
+    "created_date": "2025-08-11T17:32:20.108000",
+    "updated_date": "2025-08-11T17:32:20.108000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a27915ab69f2ded6a7d1b",
+    "country": "Pérou",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a279195292ecf07187021",
+    "created_date": "2025-08-11T17:25:37.709000",
+    "updated_date": "2025-08-11T17:25:37.709000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a26a849fc33547e69271d",
+    "country": "Greece",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a26a8742f288d7a0c8162",
+    "created_date": "2025-08-11T17:21:44.400000",
+    "updated_date": "2025-08-11T17:21:44.400000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a263d4972a2dbcac7ab86",
+    "country": "Greece",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a263ee8a98791aa805af5",
+    "created_date": "2025-08-11T17:19:58.118000",
+    "updated_date": "2025-08-11T17:19:58.118000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a263d4972a2dbcac7ab86",
+    "country": "France",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a263d833abcb5f73355a8",
+    "created_date": "2025-08-11T17:19:57.796000",
+    "updated_date": "2025-08-11T17:19:57.796000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a24d51c2d47300cb7b588",
+    "country": "Greece",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a24d5552b15a69737bf0d",
+    "created_date": "2025-08-11T17:13:57.755000",
+    "updated_date": "2025-08-11T17:13:57.755000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a24b17dbabfec87dd9b34",
+    "country": "Greece",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a24b246c2743e816f2e27",
+    "created_date": "2025-08-11T17:13:22.023000",
+    "updated_date": "2025-08-11T17:13:22.023000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a234d89e1e8843cf96417",
+    "country": "Greece",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a234e6fb49cbd492136f7",
+    "created_date": "2025-08-11T17:07:26.051000",
+    "updated_date": "2025-08-11T17:07:26.051000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a2266fddb92bba20f1d54",
+    "country": "Grèce",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a22664c11a272158e6964",
+    "created_date": "2025-08-11T17:03:34.955000",
+    "updated_date": "2025-08-11T17:03:34.955000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a221d1c2d47300cb7b019",
+    "country": "Divers pays",
+    "continent": "Europe",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a221e4c11a272158e669b",
+    "created_date": "2025-08-11T17:02:22.059000",
+    "updated_date": "2025-08-11T17:02:22.059000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a207233e4ee7bcd7f5c41",
+    "country": "Grèce",
+    "continent": "Unknown",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a2073be9f84acaeb07c65",
+    "created_date": "2025-08-11T16:55:15.382000",
+    "updated_date": "2025-08-11T16:55:15.382000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "product_id": "689a2010732942903c7ec698",
+    "country": "Grèce",
+    "continent": "Unknown",
+    "availability_status": "widely_available",
+    "store_types": [
+      "supermarket",
+      "specialty_store"
+    ],
+    "average_price": null,
+    "currency": "USD",
+    "popular_brands": [],
+    "id": "689a2011b5d519b8c819ff3e",
+    "created_date": "2025-08-11T16:53:37.183000",
+    "updated_date": "2025-08-11T16:53:37.183000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  }
+]

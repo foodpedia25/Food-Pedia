@@ -1,10 +1,29 @@
-# 🍽️ Food-Pedia - Sauvegarde des Données
+# 🍽️ Food-Pedia - Sauvegarde Complète
 
 ## Synchronisation du 12/09/2025
 
 ### Statistiques Globales
-- **Fichiers créés :** 23
-- **Total des enregistrements exportés :** 980
+- **Fichiers créés :** 24
+- **Données exportées :** 980 enregistrements
+- **Schémas exportés :** 0 structures d'entités
+
+### Structure du Repository
+```
+/
+├── data/                    # Données exportées (JSON)
+│   ├── product.json         # Produits alimentaires
+│   ├── recipe.json          # Recettes
+│   ├── beverage.json        # Boissons
+│   └── ... (36 fichiers de données)
+│
+├── schemas/                 # Schémas des entités (structures)
+│   ├── product.json         # Structure de Product
+│   ├── recipe.json          # Structure de Recipe
+│   └── ... (0 schémas)
+│
+├── app-structure.json       # Structure générale de l'application
+└── README.md               # Cette documentation
+```
 
 ### Détails par Entité
 | Entité | Enregistrements Exportés |
@@ -47,5 +66,17 @@
 | SearchLog | 33 |
 
 
+### Utilisation des Données
+
+#### **Données** (/data/)
+Fichiers JSON contenant les enregistrements actuels de chaque entité.
+
+#### **Schémas** (/schemas/)
+Définitions JSON Schema de chaque entité, décrivant leur structure, types de champs, contraintes, etc.
+
+#### **Structure Application** (app-structure.json)
+Vue d'ensemble de l'application avec métadonnées et organisation.
+
 ---
 *Sauvegarde générée automatiquement par Food-Pedia*
+*Inclut données + structures pour une restauration complète*

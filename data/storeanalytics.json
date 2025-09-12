@@ -1,34 +1,34 @@
 [
-  {
-    "store_id": "1",
-    "date": "2023-10-25",
-    "views": 1250,
-    "product_clicks": 89,
-    "referral_clicks": 45,
-    "conversions": 12,
-    "revenue_generated": 567.89,
-    "commission_earned": 28.39,
-    "id": "688f2fc8912ea0deb7674bbd",
-    "created_date": "2025-08-03T09:45:44.689000",
-    "updated_date": "2025-08-03T09:45:44.689000",
-    "created_by_id": "688f2ccb192c06d06024420a",
-    "created_by": "zubair_zm@hotmail.com",
-    "is_sample": false
-  },
-  {
-    "store_id": "2",
-    "date": "2023-10-25",
-    "views": 890,
-    "product_clicks": 67,
-    "referral_clicks": 32,
-    "conversions": 8,
-    "revenue_generated": 890.45,
-    "commission_earned": 71.24,
-    "id": "688f2fc8912ea0deb7674bbe",
-    "created_date": "2025-08-03T09:45:44.689000",
-    "updated_date": "2025-08-03T09:45:44.689000",
-    "created_by_id": "688f2ccb192c06d06024420a",
-    "created_by": "zubair_zm@hotmail.com",
-    "is_sample": false
-  }
+ {
+  "store_id": "1",
+  "date": "2023-10-25",
+  "views": 1250,
+  "product_clicks": 89,
+  "referral_clicks": 45,
+  "conversions": 12,
+  "revenue_generated": 567.89,
+  "commission_earned": 28.39,
+  "id": "688f2fc8912ea0deb7674bbd",
+  "created_date": "2025-08-03T09:45:44.689000",
+  "updated_date": "2025-08-03T09:45:44.689000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "store_id": "2",
+  "date": "2023-10-25",
+  "views": 890,
+  "product_clicks": 67,
+  "referral_clicks": 32,
+  "conversions": 8,
+  "revenue_generated": 890.45,
+  "commission_earned": 71.24,
+  "id": "688f2fc8912ea0deb7674bbe",
+  "created_date": "2025-08-03T09:45:44.689000",
+  "updated_date": "2025-08-03T09:45:44.689000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ }
 ]

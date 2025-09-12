@@ -2,26 +2,50 @@
 
 ## Synchronisation du 12/09/2025
 
-### Statistiques
-- **Fichiers créés :** 9
-- **Données exportées :** 837 enregistrements
-- **Entités :** Product, Recipe, Beverage, Country, Store, CommunityRecipe, SeasonalCollection, CookingTip, CantonSpecialty, User, Newsletter
+### Statistiques Globales
+- **Fichiers créés :** 23
+- **Total des enregistrements exportés :** 980
 
-### Structure
-```
-/data/
-├── product.json          # Produits alimentaires
-├── recipe.json           # Recettes
-├── beverage.json         # Boissons
-├── country.json          # Pays et cuisines
-├── store.json            # Magasins
-├── communityrecipe.json  # Recettes communauté
-├── seasonalcollection.json # Collections saisonnières
-├── cookingtip.json       # Conseils cuisine
-├── cantonspecialty.json  # Spécialités suisses
-├── user.json             # Utilisateurs
-└── newsletter.json       # Newsletter
-```
+### Détails par Entité
+| Entité | Enregistrements Exportés |
+|---|---|
+| Product | 300 |
+| Recipe | 300 |
+| Beverage | 16 |
+| Country | 13 |
+| Store | 104 |
+| CommunityRecipe | 0 |
+| SeasonalCollection | 5 |
+| CookingTip | 6 |
+| CantonSpecialty | 87 |
+| User | 6 |
+| Newsletter | 0 |
+| ProductPrice | 14 |
+| Review | 0 |
+| Partnership | 7 |
+| StoreAnalytics | 2 |
+| Advertisement | 2 |
+| Language | 10 |
+| Translation | 15 |
+| University | 6 |
+| CommunityPost | 0 |
+| CommunityMedia | 0 |
+| Comment | 0 |
+| UserFavorite | 0 |
+| UserPreferences | 1 |
+| ProductAvailability | 16 |
+| ProductImage | 0 |
+| AffiliateProgram | 0 |
+| Promotion | 3 |
+| YouTubeChannel | 4 |
+| YouTubeVideo | 3 |
+| TikTokChannel | 0 |
+| TikTokVideo | 0 |
+| SocialMediaConnection | 0 |
+| GoogleWorkspaceConfig | Erreur |
+| SiteSettings | 27 |
+| SearchLog | 33 |
+
 
 ---
 *Sauvegarde générée automatiquement par Food-Pedia*

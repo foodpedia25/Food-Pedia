@@ -1,0 +1,113 @@
+{
+  "Product": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Recipe": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Beverage": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Country": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Store": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "CommunityRecipe": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "CommunityPost": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "CommunityMedia": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Comment": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "RecipeReview": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "SeasonalCollection": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "CookingTip": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "CantonSpecialty": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "User": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "UserFavorite": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "UserPreferences": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Newsletter": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "ProductPrice": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Review": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Partnership": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "StoreAnalytics": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Advertisement": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "AffiliateProgram": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Promotion": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "ProductAvailability": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "ProductImage": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Language": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "Translation": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "University": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "YouTubeChannel": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "YouTubeVideo": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "TikTokChannel": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "TikTokVideo": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "SocialMediaConnection": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "GoogleWorkspaceConfig": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "SiteSettings": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  },
+  "SearchLog": {
+    "error": "Schéma non disponible: base44.asServiceRole.entities[entityName].schema is not a function"
+  }
+}

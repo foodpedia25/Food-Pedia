@@ -2,7 +2,7 @@
 
 ## 📊 Statistiques de Synchronisation
 
-- **Dernière mise à jour :** 13/09/2025 21:56:55
+- **Dernière mise à jour :** 13/09/2025 21:57:17
 - **Total d'enregistrements (échantillon) :** 1 772
 - **Entités synchronisées :** 19
 

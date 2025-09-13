@@ -1,29 +1,24 @@
 [
  {
-  "canton_name": "Vaud",
-  "specialty_name": "Papet Vaudois et Saucisse aux Choux",
-  "type": "Plat Principal",
-  "description": "Un plat emblématique du canton, consistant en une compotée de poireaux et de pommes de terre, traditionnellement servie avec une Saucisse aux Choux IGP. Particulièrement apprécié lorsque les températures baissent.",
-  "preparation": "Faire revenir les poireaux et l'oignon. Ajouter vin blanc et bouillon et mijoter. Incorporer les pommes de terre et la saucisse aux choux et mijoter jusqu'à tendreté. Ajouter la crème en fin de cuisson. Traditionnellement, la saucisse est percée pour diffuser ses saveurs.",
+  "canton_name": "Valais",
+  "specialty_name": "Assiette Valaisanne",
+  "type": "Plat Principal / Entrée",
+  "description": "Une composition emblématique du canton, présentant un assortiment de produits locaux de haute qualité : charcuteries, fromage et pain de seigle.",
+  "preparation": "Disposer harmonieusement sur une assiette la viande séchée, le jambon, le lard et le fromage coupés en morceaux. Ajouter des cornichons et des petits oignons sur le côté. Servir avec du pain de seigle et un verre de Fendant.",
   "ingredients": [
-   "Poireaux",
-   "pommes de terre",
-   "beurre ou saindoux",
-   "oignon",
-   "vin blanc",
-   "bouillon",
-   "crème",
-   "Saucisse aux Choux IGP"
+   "Pain de seigle valaisan AOP",
+   "viande séchée du Valais IGP",
+   "jambon cru du Valais IGP",
+   "lard sec du Valais IGP",
+   "fromage raclette du Valais AOP",
+   "saucisse sèche du Valais"
   ],
   "locations": [
-   "Pinte Besson, Lausanne",
-   "Le Vaudois, Lausanne",
-   "Café Romand, Lausanne",
-   "Au Bon Vin, Chardonne",
-   "Brasserie du Grand-Chêne, Lausanne"
+   "Château de Villa, Sierre",
+   "Le Relais du Valais, Vissoie"
   ],
   "image_url": null,
-  "id": "689f57fe1d559490ee5ca8e4",
+  "id": "689f57fe1d559490ee5ca8e7",
   "created_date": "2025-08-15T15:53:34.826000",
   "updated_date": "2025-08-15T15:53:34.826000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -31,23 +26,27 @@
   "is_sample": false
  },
  {
-  "canton_name": "Grisons",
-  "specialty_name": "Viande séchée des Grisons (Bündnerfleisch)",
-  "type": "Charcuterie",
-  "description": "Une spécialité emblématique du canton, consistant en une viande de bœuf frottée au sel et aux épices, puis séchée à l'air libre pendant plusieurs mois. Elle bénéficie d'une Indication Géographique Protégée (IGP).",
-  "preparation": "Frotter la viande de bœuf avec du sel et un mélange d'épices, puis la laisser sécher à l'air libre pendant plusieurs mois. Ce long processus de séchage confère à la viande sa texture ferme et ses saveurs concentrées.",
+  "canton_name": "Tessin",
+  "specialty_name": "Risotto",
+  "type": "Plat Principal",
+  "description": "Un classique culinaire au Tessin, où le riz est cultivé localement. De nombreuses variations existent, notamment avec des champignons, du safran ou du vin Merlot.",
+  "preparation": "Faire revenir l'oignon haché dans du beurre. Ajouter le riz et le sauter jusqu'à ce qu'il devienne opaque. Incorporer progressivement le consommé chaud et le vin, en remuant constamment, jusqu'à ce que le riz soit tendre. Servir avec du fromage râpé.",
   "ingredients": [
-   "Viande de bœuf",
-   "sel",
-   "mélange d'épices"
+   "Riz (Carnaroli)",
+   "oignon",
+   "vin blanc sec",
+   "bouillon chaud",
+   "fromage (Parmesan/Suisse)",
+   "champignons (facultatif)"
   ],
   "locations": [
-   "Supermarchés (Coop)",
-   "Boucherie Zanetti, Sent",
-   "Boucherie Hatecke"
+   "Flamel Restaurant, Lugano",
+   "Ristorante Badalucci, Lugano",
+   "Ristorante Salotto Brè, Brè sopra Lugano",
+   "Grotto La Baita, Magadino"
   ],
   "image_url": null,
-  "id": "689f57fe1d559490ee5ca8e5",
+  "id": "689f57fe1d559490ee5ca8e0",
   "created_date": "2025-08-15T15:53:34.826000",
   "updated_date": "2025-08-15T15:53:34.826000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -79,33 +78,30 @@
   "is_sample": false
  },
  {
-  "canton_name": "Berne",
-  "specialty_name": "Berner Platte (Plat Bernois)",
+  "canton_name": "Vaud",
+  "specialty_name": "Papet Vaudois et Saucisse aux Choux",
   "type": "Plat Principal",
-  "description": "Un festin de viandes et de charcuteries fumées, servi avec de la choucroute, des pommes de terre et des haricots secs. Son origine remonte à une célébration de victoire en 1798. Ce plat copieux incarne la générosité de la cuisine bernoise.",
-  "preparation": "Le jarret de porc est d'abord cuit dans l'eau salée. La choucroute est revenue avec les oignons et les baies de genièvre, puis mouillée au vin ou au jus de pomme avant de mijoter avec le carré de porc et le lard. La saucisse de langue est ajoutée environ 30 minutes avant la fin de la cuisson. Les haricots secs, préalablement trempés une nuit, sont revenus avec des lardons et de l'ail, puis mijotés dans du bouillon de légumes. Juste avant de servir, les viandes sont tranchées et disposées sur la choucroute et les haricots.",
+  "description": "Un plat emblématique du canton, consistant en une compotée de poireaux et de pommes de terre, traditionnellement servie avec une Saucisse aux Choux IGP. Particulièrement apprécié lorsque les températures baissent.",
+  "preparation": "Faire revenir les poireaux et l'oignon. Ajouter vin blanc et bouillon et mijoter. Incorporer les pommes de terre et la saucisse aux choux et mijoter jusqu'à tendreté. Ajouter la crème en fin de cuisson. Traditionnellement, la saucisse est percée pour diffuser ses saveurs.",
   "ingredients": [
-   "jarret de porc",
+   "Poireaux",
+   "pommes de terre",
+   "beurre ou saindoux",
    "oignon",
-   "baies de genièvre",
-   "choucroute",
    "vin blanc",
-   "carré de porc fumé",
-   "lard",
-   "saucisse de langue bernoise",
-   "haricots secs",
-   "ail",
-   "sarriette"
+   "bouillon",
+   "crème",
+   "Saucisse aux Choux IGP"
   ],
   "locations": [
-   "Restaurant Kornhauskeller, Berne",
-   "Restaurant Della Casa, Berne",
-   "Restaurant Blapbach, Trubschachen",
-   "Gasthof Kreuz Wohlen, Wohlen",
-   "Restaurant Bären Oberbottigen, Bern"
+   "Pinte Besson, Lausanne",
+   "Le Vaudois, Lausanne",
+   "Café Romand, Lausanne",
+   "Au Bon Vin, Chardonne",
+   "Brasserie du Grand-Chêne, Lausanne"
   ],
   "image_url": null,
-  "id": "689f57fe1d559490ee5ca8d9",
+  "id": "689f57fe1d559490ee5ca8e4",
   "created_date": "2025-08-15T15:53:34.826000",
   "updated_date": "2025-08-15T15:53:34.826000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -129,6 +125,57 @@
   ],
   "image_url": null,
   "id": "689f57fe1d559490ee5ca8e2",
+  "created_date": "2025-08-15T15:53:34.826000",
+  "updated_date": "2025-08-15T15:53:34.826000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Berne",
+  "specialty_name": "Suure Mocke (Rôti Mariné)",
+  "type": "Plat Principal",
+  "description": "Équivalent suisse du Sauerbraten allemand, c'est un rôti de bœuf braisé dans une marinade au vin rouge et au vinaigre. Cette longue marinade exhausse les saveurs et rend la viande exceptionnellement tendre.",
+  "preparation": "Mariner la viande pendant 4 à 7 jours dans un mélange bouilli et refroidi de vin, vinaigre, légumes et épices. Sécher et dorer la viande dans une cocotte. Faire revenir les légumes de la marinade, déglacer avec la marinade. Mijoter la viande au four pendant environ 3 heures. Épaissir la sauce avec de la fécule.",
+  "ingredients": [
+   "Bœuf (rôti ou épaule)",
+   "vin rouge",
+   "vinaigre de vin rouge",
+   "carottes",
+   "oignons",
+   "épices (poivre, clous de girofle, laurier)"
+  ],
+  "locations": [
+   "Restaurant Klötzlikeller, Berne",
+   "Restaurant Goldener Schlüssel, Berne",
+   "Gasthof zum Brunnen, Fraubrunnen",
+   "Restaurant Hirschen, Langnau"
+  ],
+  "image_url": null,
+  "id": "689f57fe1d559490ee5ca8db",
+  "created_date": "2025-08-15T15:53:34.826000",
+  "updated_date": "2025-08-15T15:53:34.826000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Tessin",
+  "specialty_name": "Luganighe / Luganighetta",
+  "type": "Charcuterie",
+  "description": "Une saucisse typique du Tessin, souvent grillée ou bouillie, et traditionnellement servie avec des pommes de terre.",
+  "preparation": "Les luganighe peuvent être bouillies pendant environ 20 minutes ou cuites au four avec des pommes de terre nouvelles et du pesto d'herbes.",
+  "ingredients": [
+   "Saucisses Luganighe",
+   "pommes de terre résistantes à la cuisson"
+  ],
+  "locations": [
+   "Grottos traditionnels",
+   "Grotto del Paolin, Figino",
+   "Restaurants de grillades"
+  ],
+  "image_url": null,
+  "id": "689f57fe1d559490ee5ca8e1",
   "created_date": "2025-08-15T15:53:34.826000",
   "updated_date": "2025-08-15T15:53:34.826000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -166,39 +213,6 @@
   "is_sample": false
  },
  {
-  "canton_name": "Tessin",
-  "specialty_name": "Torta di Pane (Gâteau de Pain)",
-  "type": "Dessert",
-  "description": "Un gâteau riche élaboré à partir de pain rassis, de cacao en poudre, de fruits secs et de pignons de pin. C'est le dessert tessinois par excellence, issu d'une cuisine ingénieuse et sans gaspillage.",
-  "preparation": "Couper le pain rassis en dés et le tremper dans du lait chaud. Ajouter le cacao, le sucre, et les autres ingrédients. Verser dans un moule beurré, parsemer de pignons et cuire au four. Laisser reposer au moins deux jours après cuisson.",
-  "ingredients": [
-   "Pain rassis",
-   "lait",
-   "œufs",
-   "sucre",
-   "fruits confits",
-   "raisins secs",
-   "grappa (facultatif)",
-   "amandes moulues",
-   "pignons de pin",
-   "cacao en poudre",
-   "zeste de citron"
-  ],
-  "locations": [
-   "Tresa Bay Hotel, Caslano",
-   "Ristorante Fiore di pietra",
-   "Triticum Bakery, Lugano",
-   "Boulangeries et pâtisseries locales"
-  ],
-  "image_url": null,
-  "id": "689f57fe1d559490ee5ca8e3",
-  "created_date": "2025-08-15T15:53:34.826000",
-  "updated_date": "2025-08-15T15:53:34.826000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
   "canton_name": "Berne",
   "specialty_name": "Nidletäfeli (Caramels à la Crème Bernois)",
   "type": "Confiserie",
@@ -219,87 +233,6 @@
   ],
   "image_url": null,
   "id": "689f57fe1d559490ee5ca8de",
-  "created_date": "2025-08-15T15:53:34.826000",
-  "updated_date": "2025-08-15T15:53:34.826000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Fribourg",
-  "specialty_name": "Fondue Moitié-Moitié",
-  "type": "Plat au Fromage",
-  "description": "Une spécialité fromagère emblématique du canton de Fribourg, réputée pour sa texture crémeuse et son goût équilibré. Elle est composée de moitié Gruyère AOP et de moitié Vacherin Fribourgeois AOP.",
-  "preparation": "Frotter le caquelon avec de l'ail. Délayer la maïzena dans le vin blanc et porter à ébullition. Ajouter les fromages râpés et fondre à feu doux en remuant. Ajouter kirsch et poivre. Déguster en y trempant des morceaux de pain.",
-  "ingredients": [
-   "Gruyère AOP",
-   "Vacherin Fribourgeois AOP",
-   "vin blanc sec",
-   "ail",
-   "maïzena",
-   "kirsch (facultatif)"
-  ],
-  "locations": [
-   "Café-Restaurant Au Fribourgeois, Bulle",
-   "Café du Gothard, Fribourg",
-   "Le Chalet de Gruyères, Gruyères",
-   "Café du Midi, Fribourg",
-   "Le Tsalè, Châtel-Saint-Denis"
-  ],
-  "image_url": null,
-  "id": "689f57fe1d559490ee5ca8e9",
-  "created_date": "2025-08-15T15:53:34.826000",
-  "updated_date": "2025-08-15T15:53:34.826000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Berne",
-  "specialty_name": "Berner Rösti (Röstis Bernois)",
-  "type": "Accompagnement",
-  "description": "Le Rösti est un plat national suisse, une galette de pommes de terre râpées et frites. La version bernoise se distingue par son côté croustillant, traditionnellement obtenu grâce à la cuisson au saindoux et au lard.",
-  "preparation": "Cuire les pommes de terre la veille, puis les râper grossièrement. Faire revenir les lardons dans une poêle. Ajouter les pommes de terre râpées et salées, mélanger, puis presser pour former une galette compacte. Cuire à feu doux jusqu'à ce qu'une belle croûte dorée se forme, puis retourner la galette pour dorer l'autre côté.",
-  "ingredients": [
-   "Pommes de terre fermes",
-   "sel",
-   "lardons",
-   "beurre ou saindoux"
-  ],
-  "locations": [
-   "Restaurant Lötschberg, Berne",
-   "Restaurant Röschtigrabe, Berne",
-   "Landgasthof Bären Ranflüh, Ranflüh",
-   "Restaurant Bütschelegg, Oberbütschel"
-  ],
-  "image_url": null,
-  "id": "689f57fe1d559490ee5ca8da",
-  "created_date": "2025-08-15T15:53:34.826000",
-  "updated_date": "2025-08-15T15:53:34.826000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Valais",
-  "specialty_name": "Assiette Valaisanne",
-  "type": "Plat Principal / Entrée",
-  "description": "Une composition emblématique du canton, présentant un assortiment de produits locaux de haute qualité : charcuteries, fromage et pain de seigle.",
-  "preparation": "Disposer harmonieusement sur une assiette la viande séchée, le jambon, le lard et le fromage coupés en morceaux. Ajouter des cornichons et des petits oignons sur le côté. Servir avec du pain de seigle et un verre de Fendant.",
-  "ingredients": [
-   "Pain de seigle valaisan AOP",
-   "viande séchée du Valais IGP",
-   "jambon cru du Valais IGP",
-   "lard sec du Valais IGP",
-   "fromage raclette du Valais AOP",
-   "saucisse sèche du Valais"
-  ],
-  "locations": [
-   "Château de Villa, Sierre",
-   "Le Relais du Valais, Vissoie"
-  ],
-  "image_url": null,
-  "id": "689f57fe1d559490ee5ca8e7",
   "created_date": "2025-08-15T15:53:34.826000",
   "updated_date": "2025-08-15T15:53:34.826000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -360,26 +293,32 @@
  },
  {
   "canton_name": "Berne",
-  "specialty_name": "Suure Mocke (Rôti Mariné)",
+  "specialty_name": "Berner Platte (Plat Bernois)",
   "type": "Plat Principal",
-  "description": "Équivalent suisse du Sauerbraten allemand, c'est un rôti de bœuf braisé dans une marinade au vin rouge et au vinaigre. Cette longue marinade exhausse les saveurs et rend la viande exceptionnellement tendre.",
-  "preparation": "Mariner la viande pendant 4 à 7 jours dans un mélange bouilli et refroidi de vin, vinaigre, légumes et épices. Sécher et dorer la viande dans une cocotte. Faire revenir les légumes de la marinade, déglacer avec la marinade. Mijoter la viande au four pendant environ 3 heures. Épaissir la sauce avec de la fécule.",
+  "description": "Un festin de viandes et de charcuteries fumées, servi avec de la choucroute, des pommes de terre et des haricots secs. Son origine remonte à une célébration de victoire en 1798. Ce plat copieux incarne la générosité de la cuisine bernoise.",
+  "preparation": "Le jarret de porc est d'abord cuit dans l'eau salée. La choucroute est revenue avec les oignons et les baies de genièvre, puis mouillée au vin ou au jus de pomme avant de mijoter avec le carré de porc et le lard. La saucisse de langue est ajoutée environ 30 minutes avant la fin de la cuisson. Les haricots secs, préalablement trempés une nuit, sont revenus avec des lardons et de l'ail, puis mijotés dans du bouillon de légumes. Juste avant de servir, les viandes sont tranchées et disposées sur la choucroute et les haricots.",
   "ingredients": [
-   "Bœuf (rôti ou épaule)",
-   "vin rouge",
-   "vinaigre de vin rouge",
-   "carottes",
-   "oignons",
-   "épices (poivre, clous de girofle, laurier)"
+   "jarret de porc",
+   "oignon",
+   "baies de genièvre",
+   "choucroute",
+   "vin blanc",
+   "carré de porc fumé",
+   "lard",
+   "saucisse de langue bernoise",
+   "haricots secs",
+   "ail",
+   "sarriette"
   ],
   "locations": [
-   "Restaurant Klötzlikeller, Berne",
-   "Restaurant Goldener Schlüssel, Berne",
-   "Gasthof zum Brunnen, Fraubrunnen",
-   "Restaurant Hirschen, Langnau"
+   "Restaurant Kornhauskeller, Berne",
+   "Restaurant Della Casa, Berne",
+   "Restaurant Blapbach, Trubschachen",
+   "Gasthof Kreuz Wohlen, Wohlen",
+   "Restaurant Bären Oberbottigen, Bern"
   ],
   "image_url": null,
-  "id": "689f57fe1d559490ee5ca8db",
+  "id": "689f57fe1d559490ee5ca8d9",
   "created_date": "2025-08-15T15:53:34.826000",
   "updated_date": "2025-08-15T15:53:34.826000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -387,22 +326,84 @@
   "is_sample": false
  },
  {
-  "canton_name": "Tessin",
-  "specialty_name": "Luganighe / Luganighetta",
-  "type": "Charcuterie",
-  "description": "Une saucisse typique du Tessin, souvent grillée ou bouillie, et traditionnellement servie avec des pommes de terre.",
-  "preparation": "Les luganighe peuvent être bouillies pendant environ 20 minutes ou cuites au four avec des pommes de terre nouvelles et du pesto d'herbes.",
+  "canton_name": "Berne",
+  "specialty_name": "Chäschueche (Gâteau au Fromage Bernois)",
+  "type": "Quiche",
+  "description": "Une quiche au fromage salée et réconfortante, très appréciée par toutes les générations.",
+  "preparation": "Préparer une pâte brisée. Râper le fromage et le mélanger avec de la farine. Préparer une garniture avec de la crème, du lait, des œufs et des assaisonnements. Mélanger avec le fromage, verser sur la pâte et cuire au four.",
   "ingredients": [
-   "Saucisses Luganighe",
-   "pommes de terre résistantes à la cuisson"
+   "Farine",
+   "beurre",
+   "levure",
+   "Gruyère doux",
+   "Appenzeller ou Emmentaler",
+   "œufs",
+   "crème",
+   "lait",
+   "muscade"
   ],
   "locations": [
-   "Grottos traditionnels",
-   "Grotto del Paolin, Figino",
-   "Restaurants de grillades"
+   "Emmentaler Schaukäserei, Affoltern i.E.",
+   "Bread à porter, Berne",
+   "Reinhards Café Lounge Mösli, Ostermundigen"
   ],
   "image_url": null,
-  "id": "689f57fe1d559490ee5ca8e1",
+  "id": "689f57fe1d559490ee5ca8dd",
+  "created_date": "2025-08-15T15:53:34.826000",
+  "updated_date": "2025-08-15T15:53:34.826000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Berne",
+  "specialty_name": "Berner Rösti (Röstis Bernois)",
+  "type": "Accompagnement",
+  "description": "Le Rösti est un plat national suisse, une galette de pommes de terre râpées et frites. La version bernoise se distingue par son côté croustillant, traditionnellement obtenu grâce à la cuisson au saindoux et au lard.",
+  "preparation": "Cuire les pommes de terre la veille, puis les râper grossièrement. Faire revenir les lardons dans une poêle. Ajouter les pommes de terre râpées et salées, mélanger, puis presser pour former une galette compacte. Cuire à feu doux jusqu'à ce qu'une belle croûte dorée se forme, puis retourner la galette pour dorer l'autre côté.",
+  "ingredients": [
+   "Pommes de terre fermes",
+   "sel",
+   "lardons",
+   "beurre ou saindoux"
+  ],
+  "locations": [
+   "Restaurant Lötschberg, Berne",
+   "Restaurant Röschtigrabe, Berne",
+   "Landgasthof Bären Ranflüh, Ranflüh",
+   "Restaurant Bütschelegg, Oberbütschel"
+  ],
+  "image_url": null,
+  "id": "689f57fe1d559490ee5ca8da",
+  "created_date": "2025-08-15T15:53:34.826000",
+  "updated_date": "2025-08-15T15:53:34.826000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Fribourg",
+  "specialty_name": "Fondue Moitié-Moitié",
+  "type": "Plat au Fromage",
+  "description": "Une spécialité fromagère emblématique du canton de Fribourg, réputée pour sa texture crémeuse et son goût équilibré. Elle est composée de moitié Gruyère AOP et de moitié Vacherin Fribourgeois AOP.",
+  "preparation": "Frotter le caquelon avec de l'ail. Délayer la maïzena dans le vin blanc et porter à ébullition. Ajouter les fromages râpés et fondre à feu doux en remuant. Ajouter kirsch et poivre. Déguster en y trempant des morceaux de pain.",
+  "ingredients": [
+   "Gruyère AOP",
+   "Vacherin Fribourgeois AOP",
+   "vin blanc sec",
+   "ail",
+   "maïzena",
+   "kirsch (facultatif)"
+  ],
+  "locations": [
+   "Café-Restaurant Au Fribourgeois, Bulle",
+   "Café du Gothard, Fribourg",
+   "Le Chalet de Gruyères, Gruyères",
+   "Café du Midi, Fribourg",
+   "Le Tsalè, Châtel-Saint-Denis"
+  ],
+  "image_url": null,
+  "id": "689f57fe1d559490ee5ca8e9",
   "created_date": "2025-08-15T15:53:34.826000",
   "updated_date": "2025-08-15T15:53:34.826000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -439,26 +440,31 @@
  },
  {
   "canton_name": "Tessin",
-  "specialty_name": "Risotto",
-  "type": "Plat Principal",
-  "description": "Un classique culinaire au Tessin, où le riz est cultivé localement. De nombreuses variations existent, notamment avec des champignons, du safran ou du vin Merlot.",
-  "preparation": "Faire revenir l'oignon haché dans du beurre. Ajouter le riz et le sauter jusqu'à ce qu'il devienne opaque. Incorporer progressivement le consommé chaud et le vin, en remuant constamment, jusqu'à ce que le riz soit tendre. Servir avec du fromage râpé.",
+  "specialty_name": "Torta di Pane (Gâteau de Pain)",
+  "type": "Dessert",
+  "description": "Un gâteau riche élaboré à partir de pain rassis, de cacao en poudre, de fruits secs et de pignons de pin. C'est le dessert tessinois par excellence, issu d'une cuisine ingénieuse et sans gaspillage.",
+  "preparation": "Couper le pain rassis en dés et le tremper dans du lait chaud. Ajouter le cacao, le sucre, et les autres ingrédients. Verser dans un moule beurré, parsemer de pignons et cuire au four. Laisser reposer au moins deux jours après cuisson.",
   "ingredients": [
-   "Riz (Carnaroli)",
-   "oignon",
-   "vin blanc sec",
-   "bouillon chaud",
-   "fromage (Parmesan/Suisse)",
-   "champignons (facultatif)"
+   "Pain rassis",
+   "lait",
+   "œufs",
+   "sucre",
+   "fruits confits",
+   "raisins secs",
+   "grappa (facultatif)",
+   "amandes moulues",
+   "pignons de pin",
+   "cacao en poudre",
+   "zeste de citron"
   ],
   "locations": [
-   "Flamel Restaurant, Lugano",
-   "Ristorante Badalucci, Lugano",
-   "Ristorante Salotto Brè, Brè sopra Lugano",
-   "Grotto La Baita, Magadino"
+   "Tresa Bay Hotel, Caslano",
+   "Ristorante Fiore di pietra",
+   "Triticum Bakery, Lugano",
+   "Boulangeries et pâtisseries locales"
   ],
   "image_url": null,
-  "id": "689f57fe1d559490ee5ca8e0",
+  "id": "689f57fe1d559490ee5ca8e3",
   "created_date": "2025-08-15T15:53:34.826000",
   "updated_date": "2025-08-15T15:53:34.826000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -466,31 +472,375 @@
   "is_sample": false
  },
  {
-  "canton_name": "Berne",
-  "specialty_name": "Chäschueche (Gâteau au Fromage Bernois)",
-  "type": "Quiche",
-  "description": "Une quiche au fromage salée et réconfortante, très appréciée par toutes les générations.",
-  "preparation": "Préparer une pâte brisée. Râper le fromage et le mélanger avec de la farine. Préparer une garniture avec de la crème, du lait, des œufs et des assaisonnements. Mélanger avec le fromage, verser sur la pâte et cuire au four.",
+  "canton_name": "Grisons",
+  "specialty_name": "Viande séchée des Grisons (Bündnerfleisch)",
+  "type": "Charcuterie",
+  "description": "Une spécialité emblématique du canton, consistant en une viande de bœuf frottée au sel et aux épices, puis séchée à l'air libre pendant plusieurs mois. Elle bénéficie d'une Indication Géographique Protégée (IGP).",
+  "preparation": "Frotter la viande de bœuf avec du sel et un mélange d'épices, puis la laisser sécher à l'air libre pendant plusieurs mois. Ce long processus de séchage confère à la viande sa texture ferme et ses saveurs concentrées.",
+  "ingredients": [
+   "Viande de bœuf",
+   "sel",
+   "mélange d'épices"
+  ],
+  "locations": [
+   "Supermarchés (Coop)",
+   "Boucherie Zanetti, Sent",
+   "Boucherie Hatecke"
+  ],
+  "image_url": null,
+  "id": "689f57fe1d559490ee5ca8e5",
+  "created_date": "2025-08-15T15:53:34.826000",
+  "updated_date": "2025-08-15T15:53:34.826000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Grisons",
+  "specialty_name": "Pizokels",
+  "type": "Pâtes",
+  "description": "Des pâtes populaires des Grisons, comparables aux Spätzle ou aux Knöpfli. Elles sont souvent servies avec du lard, de la sauge, du poireau et du fromage, ou cuites au four avec du fromage.",
+  "preparation": "La préparation des Pizokels commence par la râpe des pommes de terre et leur mélange avec la farine pour former une pâte. De fines lamelles de pâte sont découpées et plongées dans l'eau bouillante. Une fois cuites, les Pizokels sont égouttées et mélangées avec le chou et la viande des Grisons préalablement revenus. Du beurre et du fromage sont ajoutés, et le tout est assaisonné et servi immédiatement.",
+  "ingredients": [
+   "Pommes de terre",
+   "farine",
+   "bolets séchés",
+   "lard",
+   "sauge",
+   "poireau",
+   "fromage"
+  ],
+  "locations": [
+   "Filli-Scuol",
+   "nombreux restaurants des Grisons"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3df",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Genève",
+  "specialty_name": "Fricassée de porc à la genevoise",
+  "type": "Ragoût",
+  "description": "Un ragoût à base de porc mariné au vin rouge, garni principalement de petits oignons glacés à brun et de lardons. Ce plat traditionnel est dégusté le 11 novembre en l'honneur de la Saint-Martin.",
+  "preparation": "La préparation nécessite une marinade du porc dans le vin rouge et les légumes pendant 48 heures. Après marinade, la viande est épongée et dorée dans une cocotte. Les lardons et petits oignons sont revenus séparément. La farine est saupoudrée sur la viande, déglacée avec le vin de la marinade, puis les lardons et oignons sont réintégrés. Le tout mijote doucement pendant environ 1h30. La sauce est passée, et du sang de porc (facultatif) et de la crème fraîche sont incorporés avant de napper la viande.",
+  "ingredients": [
+   "Ragoût de porc sans os",
+   "pied de porc",
+   "lardons",
+   "petits oignons",
+   "clous de girofle",
+   "vin rouge corsé (Pinot Noir)",
+   "légumes pour marinade",
+   "beurre",
+   "farine",
+   "crème fraîche",
+   "cognac"
+  ],
+  "locations": [
+   "Auberge des Vieux Chênes, Presinge",
+   "Au Pied de Cochon, Genève"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3e5",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Genève",
+  "specialty_name": "Rissole aux poires",
+  "type": "Pâtisserie",
+  "description": "Une petite pâtisserie genevoise, un chausson de pâte fourré d'une compote de poires à la cannelle. Sa particularité réside dans l'utilisation d'une variété spécifique de poires de cuisson, trouvée uniquement dans la région du bout du lac.",
+  "preparation": "La préparation de la farce consiste à peler, couper et cuire les poires dans de l'eau jusqu'à ce qu'elles soient tendres et rougeâtres. Elles sont ensuite écrasées en purée et mélangées avec le sucre, le zeste et le jus de citron, et les raisins. La pâte est abaissée, garnie de la préparation aux poires, pliée en demi-lunes, et cuite au four.",
+  "ingredients": [
+   "Poires (Louise-bonne ou Alexandre)",
+   "sucre",
+   "zeste et jus de citron",
+   "raisins secs",
+   "Grand Marnier ou rhum (facultatif)",
+   "pâte brisée ou feuilletée"
+  ],
+  "locations": [
+   "Boulangeries/pâtisseries locales",
+   "La Halle de Rive"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3e4",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Neuchâtel",
+  "specialty_name": "Jambon Cuit dans l'Asphalte",
+  "type": "Charcuterie / Spécialité Unique",
+  "description": "Une tradition culinaire unique du Val-de-Travers, où le jambon est cuit dans un bain d'asphalte naturel. Cette méthode de cuisson aide à préserver l'humidité du jambon.",
+  "preparation": "Le jambon est emballé dans du papier épais avant d'être plongé dans l'asphalte naturel chauffé pour cuire.",
+  "ingredients": [
+   "Jambon",
+   "asphalte naturel"
+  ],
+  "locations": [
+   "Café des Mines (Mines d'asphalte du Val-de-Travers), Travers"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3ee",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Valais",
+  "specialty_name": "Brisolée",
+  "type": "Tradition Automnale",
+  "description": "Une ancienne tradition épicurienne valaisanne, célébrée chaque automne. Elle consiste en des châtaignes grillées sur un feu de bois, accompagnées de divers fromages de montagne, de fruits de saison et de charcuteries.",
+  "preparation": "Rôtir les châtaignes au four ou sur un feu de bois. Servir chaud avec du pain de seigle, des fromages d'alpage, de la viande séchée, du beurre et des fruits de saison. Arroser de moût ou de vin nouveau.",
+  "ingredients": [
+   "Châtaignes",
+   "pain de seigle valaisan",
+   "fromage d'alpage",
+   "viande séchée",
+   "beurre",
+   "fruits de saison (raisins, pommes, poires)"
+  ],
+  "locations": [
+   "La Taverne Evolénarde, Evolène",
+   "Le Col du Torrent",
+   "Le Relais du Valais (brisolée royale), Vissoie"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3e8",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Neuchâtel",
+  "specialty_name": "Taillaule Neuchâteloise",
+  "type": "Brioche",
+  "description": "Sans doute le pain le plus célèbre de Neuchâtel. C'est une brioche rectangulaire avec des marques de coupe diagonales distinctives sur sa surface, d'où son nom probablement dérivé du verbe 'tailler'. Elle contient souvent du zeste de citron et des raisins secs.",
+  "preparation": "Préparer une pâte briochée enrichie au beurre et aux œufs. Incorporer le zeste de citron et les raisins secs. Façonner en forme rectangulaire et faire les incisions diagonales caractéristiques avant la cuisson au four.",
   "ingredients": [
    "Farine",
    "beurre",
-   "levure",
-   "Gruyère doux",
-   "Appenzeller ou Emmentaler",
    "œufs",
-   "crème",
    "lait",
-   "muscade"
+   "sucre",
+   "levure",
+   "zeste de citron",
+   "raisins secs"
   ],
   "locations": [
-   "Emmentaler Schaukäserei, Affoltern i.E.",
-   "Bread à porter, Berne",
-   "Reinhards Café Lounge Mösli, Ostermundigen"
+   "La Taverne neuchâteloise, Neuchâtel",
+   "La Fugue, Neuchâtel",
+   "Boulangeries du canton"
   ],
   "image_url": null,
-  "id": "689f57fe1d559490ee5ca8dd",
-  "created_date": "2025-08-15T15:53:34.826000",
-  "updated_date": "2025-08-15T15:53:34.826000",
+  "id": "689f5625ba4635dabbc5a3f1",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Genève",
+  "specialty_name": "Omble chevalier à la genevoise",
+  "type": "Poisson",
+  "description": "Une recette qui met en valeur le poisson du lac Léman, l'omble, une ressource de qualité pour la ville de Genève. Ce poisson est généralement préparé avec du beurre, du vin blanc genevois, du jaune d'œuf et de la crème.",
+  "preparation": "La préparation consiste à rincer et assaisonner le poisson, puis à le farcir d'herbes. Les échalotes sont revenues dans un plat beurré, le poisson est déposé dessus, arrosé de vin et de jus de citron, puis poché au four. Une sauce est préparée en faisant revenir la farine dans le beurre, mouillant avec le vin, puis incorporant la crème et le jaune d'œuf. La sauce est versée sur le poisson avant de servir.",
+  "ingredients": [
+   "Omble chevalier",
+   "échalote",
+   "beurre",
+   "persil",
+   "estragon",
+   "vin blanc de Genève",
+   "jus de citron",
+   "farine",
+   "jaune d'œuf"
+  ],
+  "locations": [
+   "Restaurant du Creux-de-Genthod, Genthod",
+   "Anouch, Genève"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3e6",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Fribourg",
+  "specialty_name": "Moutarde de Bénichon",
+  "type": "Condiment",
+  "description": "Une confiture aigre-douce, épicée, qui accompagne traditionnellement la Cuchaule AOP lors de la fête de la Bénichon.",
+  "preparation": "Faire tremper la moutarde en poudre dans le vin blanc pendant une demi-journée. L'eau, l'anis étoilé, la cannelle et le sucre candi sont cuits pendant environ deux heures et demie. La farine est délayée dans le vin cuit. Le jus de cuisson des épices est filtré, puis la farine et le vin cuit sont ajoutés et cuits pendant environ 15 minutes. La moutarde et le vin sont ensuite incorporés et cuits encore cinq minutes. La préparation est mise en bocaux à chaud.",
+  "ingredients": [
+   "Moutarde en poudre",
+   "vin blanc",
+   "eau",
+   "anis étoilé",
+   "cannelle",
+   "sucre candi",
+   "vin cuit",
+   "farine"
+  ],
+  "locations": [
+   "Restaurant des Trois Tours",
+   "Le Pérolles",
+   "Hôtel de Ville Fribourg",
+   "La Cène",
+   "L'Auberge de la Couronne à Enney"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3eb",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Jura",
+  "specialty_name": "Morbiflette",
+  "type": "Plat au Fromage",
+  "description": "Une spécialité du Jura à base de morbier, un fromage au lait cru de vache reconnaissable à sa croûte fine rose-orangé et à sa raie de cendres. Elle est préparée avec des pommes de terre et du lard.",
+  "preparation": "Faire cuire les pommes de terre, puis les couper en deux et les garnir de tranches de lard paysan et de morbier. Les pommes de terre garnies sont ensuite enfournées jusqu'à ce que le morbier soit coulant et le lard grillé.",
+  "ingredients": [
+   "Pommes de terre",
+   "morbier",
+   "lard paysan",
+   "poivre du moulin"
+  ],
+  "locations": [
+   "Restaurant du Fromage, Malbuisson"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3f3",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Grisons",
+  "specialty_name": "Capuns",
+  "type": "Plat Principal",
+  "description": "Un plat traditionnel des Grisons, composé de rouleaux de feuilles de bettes farcis d'une pâte à spätzli mélangée à des herbes et de la viande séchée, comme le Salsiz ou le Bündnerfleisch. Les rouleaux sont ensuite gratinés.",
+  "preparation": "Élaborer une pâte à spätzli avec herbes et viande séchée. Blanchir les feuilles de blette. Placer une boule de pâte sur chaque feuille, rouler pour former des paquets. Cuire dans l'eau frémissante et servir avec du Parmesan et des oignons dorés.",
+  "ingredients": [
+   "Feuilles de bettes",
+   "pâte à spätzli",
+   "herbes",
+   "viande séchée (Salsiz, Bündnerfleisch)"
+  ],
+  "locations": [
+   "Restaurant Ustria Parlatsch, Trin Mulin",
+   "Filli-Scuol, Scuol",
+   "Mountain Hotel Restaurant Sartons, Valbella",
+   "Casa Casutt, Ilanz",
+   "Berghaus Alpenrösli, Klosters-Serneus"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3de",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Grisons",
+  "specialty_name": "Maluns",
+  "type": "Plat de Pommes de Terre",
+  "description": "Une spécialité grisonne à base de pommes de terre, de farine et de beurre, qui sont râpées, combinées et rôties. Ce plat constitue un repas copieux lorsqu'il est servi avec de la purée de pommes, du fromage ou une salade.",
+  "preparation": "La préparation des Maluns implique d'éplucher les pommes de terre cuites la veille et de les râper. La farine et le sel sont ajoutés, puis la pâte est frottée entre les mains pour former de petits grumeaux. Le beurre est chauffé dans une poêle antiadhésive, et les grumeaux de pommes de terre sont rôtis par portions, en remuant constamment avec deux cuillères en bois, jusqu'à ce qu'ils soient dorés et s'émiettent. Les Maluns sont servis chauds avec de la compote de pruneaux et du fromage d'alpage.",
+  "ingredients": [
+   "Pommes de terre à chair farineuse",
+   "farine",
+   "beurre",
+   "sel"
+  ],
+  "locations": [
+   "Mountain Hotel Restaurant Sartons, Valbella",
+   "Gasthaus Höhwald, Klosters-Serneus",
+   "nombreux restaurants des Grisons"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3e0",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Neuchâtel",
+  "specialty_name": "Tripes à la neuchâteloise",
+  "type": "Plat Principal",
+  "description": "Un plat de tripes de bœuf cuites dans un bouillon de vin blanc et de légumes, servies avec une vinaigrette épaisse à part.",
+  "preparation": "Couper les tripes en carrés et les cuire doucement pendant deux heures avec du vin blanc, du bouillon et des légumes. Préparer une vinaigrette épaisse. Servir les tripes dans leur jus, accompagnées de pommes de terre nature et de la vinaigrette.",
+  "ingredients": [
+   "Tripes de bœuf",
+   "vin blanc sec",
+   "bouillon de bœuf",
+   "oignon",
+   "carotte",
+   "poireau",
+   "vinaigrette (échalotes, persil, câpres, cornichons)"
+  ],
+  "locations": [
+   "Restaurant des Poneys, Les Ponts-de-Martel",
+   "Brasserie Le Jura, Neuchâtel",
+   "Hôtel de l'Aigle"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3ef",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Jura",
+  "specialty_name": "Croûte aux morilles",
+  "type": "Plat Principal",
+  "description": "La Croûte aux morilles est un plat savoureux du Jura, mettant en vedette les morilles, souvent accompagnées d'une sauce crémeuse et de vin jaune.",
+  "preparation": "Les morilles sont nettoyées et sautées, puis incorporées dans une sauce crémeuse parfois rehaussée de vin jaune. Le tout est servi sur des croûtons de pain ou en vol-au-vent.",
+  "ingredients": [
+   "Morilles",
+   "crème",
+   "vin jaune (facultatif)",
+   "pain",
+   "échalotes",
+   "beurre"
+  ],
+  "locations": [
+   "Restaurant La Chaumière, Bellefontaine",
+   "Restaurants spécialisés du Jura"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3f4",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
   "created_by_id": "688f2ccb192c06d06024420a",
   "created_by": "zubair_zm@hotmail.com",
   "is_sample": false
@@ -530,30 +880,25 @@
   "is_sample": false
  },
  {
-  "canton_name": "Fribourg",
-  "specialty_name": "Moutarde de Bénichon",
-  "type": "Condiment",
-  "description": "Une confiture aigre-douce, épicée, qui accompagne traditionnellement la Cuchaule AOP lors de la fête de la Bénichon.",
-  "preparation": "Faire tremper la moutarde en poudre dans le vin blanc pendant une demi-journée. L'eau, l'anis étoilé, la cannelle et le sucre candi sont cuits pendant environ deux heures et demie. La farine est délayée dans le vin cuit. Le jus de cuisson des épices est filtré, puis la farine et le vin cuit sont ajoutés et cuits pendant environ 15 minutes. La moutarde et le vin sont ensuite incorporés et cuits encore cinq minutes. La préparation est mise en bocaux à chaud.",
+  "canton_name": "Neuchâtel",
+  "specialty_name": "Pain Neuchâtelois",
+  "type": "Pain",
+  "description": "Le pain cantonal de Neuchâtel, traditionnellement fabriqué avec de la farine mi-blanche. Sa particularité réside dans sa forme : deux grosses boules de pâte levée sont pressées ensemble avant la cuisson.",
+  "preparation": "Mélanger la farine, la levure et l'eau pour former une pâte souple, puis incorporer le sel et pétrir jusqu'à obtenir une pâte homogène. Après une première levée, la pâte est divisée en deux boules, qui sont pressées ensemble pour former une miche distinctive. Après une seconde levée, le pain est cuit au four.",
   "ingredients": [
-   "Moutarde en poudre",
-   "vin blanc",
-   "eau",
-   "anis étoilé",
-   "cannelle",
-   "sucre candi",
-   "vin cuit",
-   "farine"
+   "Farine mi-blanche",
+   "levure",
+   "eau tiède",
+   "sel"
   ],
   "locations": [
-   "Restaurant des Trois Tours",
-   "Le Pérolles",
-   "Hôtel de Ville Fribourg",
-   "La Cène",
-   "L'Auberge de la Couronne à Enney"
+   "Boulangerie de l'Orangerie, Neuchâtel",
+   "Boulangerie de la Côte, Neuchâtel",
+   "Aimé Pouly",
+   "Restaurant des Poneys"
   ],
   "image_url": null,
-  "id": "689f5625ba4635dabbc5a3eb",
+  "id": "689f5625ba4635dabbc5a3f0",
   "created_date": "2025-08-15T15:45:41.612000",
   "updated_date": "2025-08-15T15:45:41.612000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -561,78 +906,28 @@
   "is_sample": false
  },
  {
-  "canton_name": "Genève",
-  "specialty_name": "Rissole aux poires",
-  "type": "Pâtisserie",
-  "description": "Une petite pâtisserie genevoise, un chausson de pâte fourré d'une compote de poires à la cannelle. Sa particularité réside dans l'utilisation d'une variété spécifique de poires de cuisson, trouvée uniquement dans la région du bout du lac.",
-  "preparation": "La préparation de la farce consiste à peler, couper et cuire les poires dans de l'eau jusqu'à ce qu'elles soient tendres et rougeâtres. Elles sont ensuite écrasées en purée et mélangées avec le sucre, le zeste et le jus de citron, et les raisins. La pâte est abaissée, garnie de la préparation aux poires, pliée en demi-lunes, et cuite au four.",
+  "canton_name": "Vaud",
+  "specialty_name": "Beignets des Brandons",
+  "type": "Beignet Traditionnel",
+  "description": "De petits beignets traditionnels fabriqués dans les régions de Payerne et Moudon pour la fête des Brandons, une célébration proche du carnaval qui remonte au 15e siècle. Ils sont étirés finement au milieu et gonflent en forme de petits chapeaux à la friture.",
+  "preparation": "Les liquides (crème, lait, vin/kirsch tiédis) sont mélangés, puis le sel, le sucre et l'œuf sont ajoutés. La farine et la poudre à lever sont incorporées progressivement, suivies du beurre fondu. La pâte est travaillée jusqu'à devenir lisse et non collante, puis laissée à reposer. Elle est ensuite abaissée et découpée en disques, qui sont façonnés pour avoir un bord épais et un milieu fin. Les beignets sont frits dans l'huile chaude et trempés dans le sucre semoule avant d'être dégustés.",
   "ingredients": [
-   "Poires (Louise-bonne ou Alexandre)",
-   "sucre",
-   "zeste et jus de citron",
-   "raisins secs",
-   "Grand Marnier ou rhum (facultatif)",
-   "pâte brisée ou feuilletée"
-  ],
-  "locations": [
-   "Boulangeries/pâtisseries locales",
-   "La Halle de Rive"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3e4",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Grisons",
-  "specialty_name": "Pizokels",
-  "type": "Pâtes",
-  "description": "Des pâtes populaires des Grisons, comparables aux Spätzle ou aux Knöpfli. Elles sont souvent servies avec du lard, de la sauge, du poireau et du fromage, ou cuites au four avec du fromage.",
-  "preparation": "La préparation des Pizokels commence par la râpe des pommes de terre et leur mélange avec la farine pour former une pâte. De fines lamelles de pâte sont découpées et plongées dans l'eau bouillante. Une fois cuites, les Pizokels sont égouttées et mélangées avec le chou et la viande des Grisons préalablement revenus. Du beurre et du fromage sont ajoutés, et le tout est assaisonné et servi immédiatement.",
-  "ingredients": [
-   "Pommes de terre",
-   "farine",
-   "bolets séchés",
-   "lard",
-   "sauge",
-   "poireau",
-   "fromage"
-  ],
-  "locations": [
-   "Filli-Scuol",
-   "nombreux restaurants des Grisons"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3df",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Jura",
-  "specialty_name": "Croûte aux morilles",
-  "type": "Plat Principal",
-  "description": "La Croûte aux morilles est un plat savoureux du Jura, mettant en vedette les morilles, souvent accompagnées d'une sauce crémeuse et de vin jaune.",
-  "preparation": "Les morilles sont nettoyées et sautées, puis incorporées dans une sauce crémeuse parfois rehaussée de vin jaune. Le tout est servi sur des croûtons de pain ou en vol-au-vent.",
-  "ingredients": [
-   "Morilles",
+   "Farine",
+   "poudre à lever",
+   "lait",
    "crème",
-   "vin jaune (facultatif)",
-   "pain",
-   "échalotes",
-   "beurre"
+   "œuf",
+   "sel",
+   "sucre",
+   "beurre",
+   "vin blanc ou kirsch (facultatif)",
+   "huile pour friture"
   ],
   "locations": [
-   "Restaurant La Chaumière, Bellefontaine",
-   "Restaurants spécialisés du Jura"
+   "Boulangeries et pâtisseries locales (période des Brandons)"
   ],
   "image_url": null,
-  "id": "689f5625ba4635dabbc5a3f4",
+  "id": "689f5625ba4635dabbc5a3dd",
   "created_date": "2025-08-15T15:45:41.612000",
   "updated_date": "2025-08-15T15:45:41.612000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -657,109 +952,6 @@
   ],
   "image_url": null,
   "id": "689f5625ba4635dabbc5a3e7",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Neuchâtel",
-  "specialty_name": "Tripes à la neuchâteloise",
-  "type": "Plat Principal",
-  "description": "Un plat de tripes de bœuf cuites dans un bouillon de vin blanc et de légumes, servies avec une vinaigrette épaisse à part.",
-  "preparation": "Couper les tripes en carrés et les cuire doucement pendant deux heures avec du vin blanc, du bouillon et des légumes. Préparer une vinaigrette épaisse. Servir les tripes dans leur jus, accompagnées de pommes de terre nature et de la vinaigrette.",
-  "ingredients": [
-   "Tripes de bœuf",
-   "vin blanc sec",
-   "bouillon de bœuf",
-   "oignon",
-   "carotte",
-   "poireau",
-   "vinaigrette (échalotes, persil, câpres, cornichons)"
-  ],
-  "locations": [
-   "Restaurant des Poneys, Les Ponts-de-Martel",
-   "Brasserie Le Jura, Neuchâtel",
-   "Hôtel de l'Aigle"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3ef",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Fribourg",
-  "specialty_name": "Cuchaule AOP",
-  "type": "Pain Brioché",
-  "description": "Un pain brioché traditionnel au safran, bénéficiant d'une AOP. Elle est souvent consommée avec la Moutarde de Bénichon lors de la fête de la Bénichon.",
-  "preparation": "Mélanger les ingrédients pour obtenir une pâte souple. Laisser fermenter, puis façonner en demi-boules. Après un temps d'apprêt, dorer à l'œuf et inciser en losanges avant de cuire au four.",
-  "ingredients": [
-   "Lait entier",
-   "farine de froment",
-   "beurre",
-   "sucre",
-   "sel",
-   "safran",
-   "levure"
-  ],
-  "locations": [
-   "Boulangeries locales du canton de Fribourg",
-   "Boulangerie Pâtisserie Guillaume, Sugiez"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3ea",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Jura",
-  "specialty_name": "Saucisse d'Ajoie IGP",
-  "type": "Charcuterie",
-  "description": "Une saucisse à base de porc (maigre et lard) caractérisée par l'utilisation obligatoire de cumin, ce qui lui confère son goût unique. Elle bénéficie d'une Indication Géographique Protégée (IGP).",
-  "preparation": "La saucisse est généralement pochée dans l'eau frémissante ou grillée. Elle est souvent servie avec une salade de pommes de terre.",
-  "ingredients": [
-   "Viande de porc",
-   "lard",
-   "cumin",
-   "ail",
-   "muscade (facultatif)"
-  ],
-  "locations": [
-   "Brasserie des Deux Clefs, Porrentruy",
-   "Boucheries locales en Ajoie"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3f2",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Neuchâtel",
-  "specialty_name": "Saucisson Neuchâtelois (Torrée)",
-  "type": "Charcuterie / Tradition",
-  "description": "Une saucisse fumée, composée de viande de porc maigre et de lard. Une tradition populaire en automne est la 'Torrée neuchâteloise', où ces saucissons sont cuits en plein air dans les braises d'un feu.",
-  "preparation": "Emballer le saucisson neuchâtelois dans une feuille de chou et du papier (ou alu). Allumer un feu et attendre d'avoir une bonne couche de cendres. Placer le saucisson emballé sous les braises pour cuire. Déguster avec les doigts.",
-  "ingredients": [
-   "Saucisson neuchâtelois",
-   "feuille de chou",
-   "pommes de terre"
-  ],
-  "locations": [
-   "Sites de torrée cantonale (ex: La Sagne)",
-   "Restaurants proposant la torrée en saison"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3ed",
   "created_date": "2025-08-15T15:45:41.612000",
   "updated_date": "2025-08-15T15:45:41.612000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -794,26 +986,24 @@
   "is_sample": false
  },
  {
-  "canton_name": "Genève",
-  "specialty_name": "Gratin de Cardons",
-  "type": "Accompagnement / Gratin",
-  "description": "Les Cardons sont une spécialité genevoise, souvent préparés en gratin pendant les fêtes de Noël. Ces légumes sont apparentés aux artichauts épineux.",
-  "preparation": "Cuire les cardons jusqu'à tendreté. Préparer une sauce béchamel avec le liquide de cuisson. Napper les cardons de sauce dans un plat, saupoudrer de Gruyère râpé et gratiner au four.",
+  "canton_name": "Jura",
+  "specialty_name": "Saucisse d'Ajoie IGP",
+  "type": "Charcuterie",
+  "description": "Une saucisse à base de porc (maigre et lard) caractérisée par l'utilisation obligatoire de cumin, ce qui lui confère son goût unique. Elle bénéficie d'une Indication Géographique Protégée (IGP).",
+  "preparation": "La saucisse est généralement pochée dans l'eau frémissante ou grillée. Elle est souvent servie avec une salade de pommes de terre.",
   "ingredients": [
-   "Cardons",
-   "Gruyère AOP",
-   "beurre",
-   "farine",
-   "lait",
-   "noix de muscade"
+   "Viande de porc",
+   "lard",
+   "cumin",
+   "ail",
+   "muscade (facultatif)"
   ],
   "locations": [
-   "Brasserie Hôtel de Ville, Genève",
-   "Cave Valaisanne & Chalet Suisse, Genève",
-   "Le Café des Négociants, Carouge"
+   "Brasserie des Deux Clefs, Porrentruy",
+   "Boucheries locales en Ajoie"
   ],
   "image_url": null,
-  "id": "689f5625ba4635dabbc5a3e3",
+  "id": "689f5625ba4635dabbc5a3f2",
   "created_date": "2025-08-15T15:45:41.612000",
   "updated_date": "2025-08-15T15:45:41.612000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -822,27 +1012,24 @@
  },
  {
   "canton_name": "Genève",
-  "specialty_name": "Omble chevalier à la genevoise",
-  "type": "Poisson",
-  "description": "Une recette qui met en valeur le poisson du lac Léman, l'omble, une ressource de qualité pour la ville de Genève. Ce poisson est généralement préparé avec du beurre, du vin blanc genevois, du jaune d'œuf et de la crème.",
-  "preparation": "La préparation consiste à rincer et assaisonner le poisson, puis à le farcir d'herbes. Les échalotes sont revenues dans un plat beurré, le poisson est déposé dessus, arrosé de vin et de jus de citron, puis poché au four. Une sauce est préparée en faisant revenir la farine dans le beurre, mouillant avec le vin, puis incorporant la crème et le jaune d'œuf. La sauce est versée sur le poisson avant de servir.",
+  "specialty_name": "La Longeole",
+  "type": "Charcuterie",
+  "description": "Une saucisse à base de viande de porc caractérisée par son goût d'anis et sa couenne. Elle est traditionnellement servie avec une salade de pommes de terre ou un gratin.",
+  "preparation": "Cuire la longeole environ 2h30 à 3h dans un bouillon ou de l'eau frémissante (80°-85°C). Il est conseillé de la piquer légèrement avant cuisson pour faire sortir le gras.",
   "ingredients": [
-   "Omble chevalier",
-   "échalote",
-   "beurre",
-   "persil",
-   "estragon",
-   "vin blanc de Genève",
-   "jus de citron",
-   "farine",
-   "jaune d'œuf"
+   "Viande de porc (avec couenne)",
+   "anis (fenouil)",
+   "sel",
+   "poivre"
   ],
   "locations": [
-   "Restaurant du Creux-de-Genthod, Genthod",
-   "Anouch, Genève"
+   "Auberge des Vieux Chênes, Presinge",
+   "Brasserie Restaurant de l'Hôtel de Ville, Genève",
+   "Le Vignoble Doré, Russin",
+   "Au Pied de Cochon, Genève"
   ],
   "image_url": null,
-  "id": "689f5625ba4635dabbc5a3e6",
+  "id": "689f5625ba4635dabbc5a3e2",
   "created_date": "2025-08-15T15:45:41.612000",
   "updated_date": "2025-08-15T15:45:41.612000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -881,263 +1068,26 @@
   "is_sample": false
  },
  {
-  "canton_name": "Neuchâtel",
-  "specialty_name": "Pain Neuchâtelois",
-  "type": "Pain",
-  "description": "Le pain cantonal de Neuchâtel, traditionnellement fabriqué avec de la farine mi-blanche. Sa particularité réside dans sa forme : deux grosses boules de pâte levée sont pressées ensemble avant la cuisson.",
-  "preparation": "Mélanger la farine, la levure et l'eau pour former une pâte souple, puis incorporer le sel et pétrir jusqu'à obtenir une pâte homogène. Après une première levée, la pâte est divisée en deux boules, qui sont pressées ensemble pour former une miche distinctive. Après une seconde levée, le pain est cuit au four.",
-  "ingredients": [
-   "Farine mi-blanche",
-   "levure",
-   "eau tiède",
-   "sel"
-  ],
-  "locations": [
-   "Boulangerie de l'Orangerie, Neuchâtel",
-   "Boulangerie de la Côte, Neuchâtel",
-   "Aimé Pouly",
-   "Restaurant des Poneys"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3f0",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
   "canton_name": "Genève",
-  "specialty_name": "La Longeole",
-  "type": "Charcuterie",
-  "description": "Une saucisse à base de viande de porc caractérisée par son goût d'anis et sa couenne. Elle est traditionnellement servie avec une salade de pommes de terre ou un gratin.",
-  "preparation": "Cuire la longeole environ 2h30 à 3h dans un bouillon ou de l'eau frémissante (80°-85°C). Il est conseillé de la piquer légèrement avant cuisson pour faire sortir le gras.",
+  "specialty_name": "Gratin de Cardons",
+  "type": "Accompagnement / Gratin",
+  "description": "Les Cardons sont une spécialité genevoise, souvent préparés en gratin pendant les fêtes de Noël. Ces légumes sont apparentés aux artichauts épineux.",
+  "preparation": "Cuire les cardons jusqu'à tendreté. Préparer une sauce béchamel avec le liquide de cuisson. Napper les cardons de sauce dans un plat, saupoudrer de Gruyère râpé et gratiner au four.",
   "ingredients": [
-   "Viande de porc (avec couenne)",
-   "anis (fenouil)",
-   "sel",
-   "poivre"
-  ],
-  "locations": [
-   "Auberge des Vieux Chênes, Presinge",
-   "Brasserie Restaurant de l'Hôtel de Ville, Genève",
-   "Le Vignoble Doré, Russin",
-   "Au Pied de Cochon, Genève"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3e2",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Vaud",
-  "specialty_name": "Beignets des Brandons",
-  "type": "Beignet Traditionnel",
-  "description": "De petits beignets traditionnels fabriqués dans les régions de Payerne et Moudon pour la fête des Brandons, une célébration proche du carnaval qui remonte au 15e siècle. Ils sont étirés finement au milieu et gonflent en forme de petits chapeaux à la friture.",
-  "preparation": "Les liquides (crème, lait, vin/kirsch tiédis) sont mélangés, puis le sel, le sucre et l'œuf sont ajoutés. La farine et la poudre à lever sont incorporées progressivement, suivies du beurre fondu. La pâte est travaillée jusqu'à devenir lisse et non collante, puis laissée à reposer. Elle est ensuite abaissée et découpée en disques, qui sont façonnés pour avoir un bord épais et un milieu fin. Les beignets sont frits dans l'huile chaude et trempés dans le sucre semoule avant d'être dégustés.",
-  "ingredients": [
-   "Farine",
-   "poudre à lever",
-   "lait",
-   "crème",
-   "œuf",
-   "sel",
-   "sucre",
-   "beurre",
-   "vin blanc ou kirsch (facultatif)",
-   "huile pour friture"
-  ],
-  "locations": [
-   "Boulangeries et pâtisseries locales (période des Brandons)"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3dd",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Valais",
-  "specialty_name": "Brisolée",
-  "type": "Tradition Automnale",
-  "description": "Une ancienne tradition épicurienne valaisanne, célébrée chaque automne. Elle consiste en des châtaignes grillées sur un feu de bois, accompagnées de divers fromages de montagne, de fruits de saison et de charcuteries.",
-  "preparation": "Rôtir les châtaignes au four ou sur un feu de bois. Servir chaud avec du pain de seigle, des fromages d'alpage, de la viande séchée, du beurre et des fruits de saison. Arroser de moût ou de vin nouveau.",
-  "ingredients": [
-   "Châtaignes",
-   "pain de seigle valaisan",
-   "fromage d'alpage",
-   "viande séchée",
-   "beurre",
-   "fruits de saison (raisins, pommes, poires)"
-  ],
-  "locations": [
-   "La Taverne Evolénarde, Evolène",
-   "Le Col du Torrent",
-   "Le Relais du Valais (brisolée royale), Vissoie"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3e8",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Grisons",
-  "specialty_name": "Capuns",
-  "type": "Plat Principal",
-  "description": "Un plat traditionnel des Grisons, composé de rouleaux de feuilles de bettes farcis d'une pâte à spätzli mélangée à des herbes et de la viande séchée, comme le Salsiz ou le Bündnerfleisch. Les rouleaux sont ensuite gratinés.",
-  "preparation": "Élaborer une pâte à spätzli avec herbes et viande séchée. Blanchir les feuilles de blette. Placer une boule de pâte sur chaque feuille, rouler pour former des paquets. Cuire dans l'eau frémissante et servir avec du Parmesan et des oignons dorés.",
-  "ingredients": [
-   "Feuilles de bettes",
-   "pâte à spätzli",
-   "herbes",
-   "viande séchée (Salsiz, Bündnerfleisch)"
-  ],
-  "locations": [
-   "Restaurant Ustria Parlatsch, Trin Mulin",
-   "Filli-Scuol, Scuol",
-   "Mountain Hotel Restaurant Sartons, Valbella",
-   "Casa Casutt, Ilanz",
-   "Berghaus Alpenrösli, Klosters-Serneus"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3de",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Jura",
-  "specialty_name": "Morbiflette",
-  "type": "Plat au Fromage",
-  "description": "Une spécialité du Jura à base de morbier, un fromage au lait cru de vache reconnaissable à sa croûte fine rose-orangé et à sa raie de cendres. Elle est préparée avec des pommes de terre et du lard.",
-  "preparation": "Faire cuire les pommes de terre, puis les couper en deux et les garnir de tranches de lard paysan et de morbier. Les pommes de terre garnies sont ensuite enfournées jusqu'à ce que le morbier soit coulant et le lard grillé.",
-  "ingredients": [
-   "Pommes de terre",
-   "morbier",
-   "lard paysan",
-   "poivre du moulin"
-  ],
-  "locations": [
-   "Restaurant du Fromage, Malbuisson"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3f3",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Neuchâtel",
-  "specialty_name": "Jambon Cuit dans l'Asphalte",
-  "type": "Charcuterie / Spécialité Unique",
-  "description": "Une tradition culinaire unique du Val-de-Travers, où le jambon est cuit dans un bain d'asphalte naturel. Cette méthode de cuisson aide à préserver l'humidité du jambon.",
-  "preparation": "Le jambon est emballé dans du papier épais avant d'être plongé dans l'asphalte naturel chauffé pour cuire.",
-  "ingredients": [
-   "Jambon",
-   "asphalte naturel"
-  ],
-  "locations": [
-   "Café des Mines (Mines d'asphalte du Val-de-Travers), Travers"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3ee",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Neuchâtel",
-  "specialty_name": "Taillaule Neuchâteloise",
-  "type": "Brioche",
-  "description": "Sans doute le pain le plus célèbre de Neuchâtel. C'est une brioche rectangulaire avec des marques de coupe diagonales distinctives sur sa surface, d'où son nom probablement dérivé du verbe 'tailler'. Elle contient souvent du zeste de citron et des raisins secs.",
-  "preparation": "Préparer une pâte briochée enrichie au beurre et aux œufs. Incorporer le zeste de citron et les raisins secs. Façonner en forme rectangulaire et faire les incisions diagonales caractéristiques avant la cuisson au four.",
-  "ingredients": [
-   "Farine",
-   "beurre",
-   "œufs",
-   "lait",
-   "sucre",
-   "levure",
-   "zeste de citron",
-   "raisins secs"
-  ],
-  "locations": [
-   "La Taverne neuchâteloise, Neuchâtel",
-   "La Fugue, Neuchâtel",
-   "Boulangeries du canton"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3f1",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Grisons",
-  "specialty_name": "Maluns",
-  "type": "Plat de Pommes de Terre",
-  "description": "Une spécialité grisonne à base de pommes de terre, de farine et de beurre, qui sont râpées, combinées et rôties. Ce plat constitue un repas copieux lorsqu'il est servi avec de la purée de pommes, du fromage ou une salade.",
-  "preparation": "La préparation des Maluns implique d'éplucher les pommes de terre cuites la veille et de les râper. La farine et le sel sont ajoutés, puis la pâte est frottée entre les mains pour former de petits grumeaux. Le beurre est chauffé dans une poêle antiadhésive, et les grumeaux de pommes de terre sont rôtis par portions, en remuant constamment avec deux cuillères en bois, jusqu'à ce qu'ils soient dorés et s'émiettent. Les Maluns sont servis chauds avec de la compote de pruneaux et du fromage d'alpage.",
-  "ingredients": [
-   "Pommes de terre à chair farineuse",
-   "farine",
-   "beurre",
-   "sel"
-  ],
-  "locations": [
-   "Mountain Hotel Restaurant Sartons, Valbella",
-   "Gasthaus Höhwald, Klosters-Serneus",
-   "nombreux restaurants des Grisons"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3e0",
-  "created_date": "2025-08-15T15:45:41.612000",
-  "updated_date": "2025-08-15T15:45:41.612000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Genève",
-  "specialty_name": "Fricassée de porc à la genevoise",
-  "type": "Ragoût",
-  "description": "Un ragoût à base de porc mariné au vin rouge, garni principalement de petits oignons glacés à brun et de lardons. Ce plat traditionnel est dégusté le 11 novembre en l'honneur de la Saint-Martin.",
-  "preparation": "La préparation nécessite une marinade du porc dans le vin rouge et les légumes pendant 48 heures. Après marinade, la viande est épongée et dorée dans une cocotte. Les lardons et petits oignons sont revenus séparément. La farine est saupoudrée sur la viande, déglacée avec le vin de la marinade, puis les lardons et oignons sont réintégrés. Le tout mijote doucement pendant environ 1h30. La sauce est passée, et du sang de porc (facultatif) et de la crème fraîche sont incorporés avant de napper la viande.",
-  "ingredients": [
-   "Ragoût de porc sans os",
-   "pied de porc",
-   "lardons",
-   "petits oignons",
-   "clous de girofle",
-   "vin rouge corsé (Pinot Noir)",
-   "légumes pour marinade",
+   "Cardons",
+   "Gruyère AOP",
    "beurre",
    "farine",
-   "crème fraîche",
-   "cognac"
+   "lait",
+   "noix de muscade"
   ],
   "locations": [
-   "Auberge des Vieux Chênes, Presinge",
-   "Au Pied de Cochon, Genève"
+   "Brasserie Hôtel de Ville, Genève",
+   "Cave Valaisanne & Chalet Suisse, Genève",
+   "Le Café des Négociants, Carouge"
   ],
   "image_url": null,
-  "id": "689f5625ba4635dabbc5a3e5",
+  "id": "689f5625ba4635dabbc5a3e3",
   "created_date": "2025-08-15T15:45:41.612000",
   "updated_date": "2025-08-15T15:45:41.612000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -1145,33 +1095,51 @@
   "is_sample": false
  },
  {
-  "canton_name": "Tessin",
-  "specialty_name": "Panettone",
-  "type": "Dessert",
-  "description": "Bien que souvent associé à la période de Noël, le Panettone est disponible toute l'année au Tessin. C'est une pâte levée riche, garnie de fruits confits.",
-  "preparation": "La préparation du Panettone est un processus complexe qui s'étend sur plusieurs jours, impliquant diverses étapes de pétrissage et de levée de la pâte. Les fruits confits et les raisins secs sont incorporés à la pâte avant qu'elle ne soit cuite dans des moules cylindriques caractéristiques.",
+  "canton_name": "Neuchâtel",
+  "specialty_name": "Saucisson Neuchâtelois (Torrée)",
+  "type": "Charcuterie / Tradition",
+  "description": "Une saucisse fumée, composée de viande de porc maigre et de lard. Une tradition populaire en automne est la 'Torrée neuchâteloise', où ces saucissons sont cuits en plein air dans les braises d'un feu.",
+  "preparation": "Emballer le saucisson neuchâtelois dans une feuille de chou et du papier (ou alu). Allumer un feu et attendre d'avoir une bonne couche de cendres. Placer le saucisson emballé sous les braises pour cuire. Déguster avec les doigts.",
   "ingredients": [
-   "Farine forte",
-   "eau",
-   "jaunes d'œufs",
-   "œufs entiers",
-   "sucre semoule",
-   "beurre",
-   "sel",
-   "levure de bière fraîche",
-   "raisins secs",
-   "orange et cédrat confits",
-   "miel d'acacia",
-   "zestes d'orange et de citron",
-   "vanille"
+   "Saucisson neuchâtelois",
+   "feuille de chou",
+   "pommes de terre"
   ],
   "locations": [
-   "Boulangeries et pâtisseries locales du Tessin"
+   "Sites de torrée cantonale (ex: La Sagne)",
+   "Restaurants proposant la torrée en saison"
   ],
   "image_url": null,
-  "id": "689f5625ba4635dabbc5a3d3",
-  "created_date": "2025-08-15T15:45:41.611000",
-  "updated_date": "2025-08-15T15:45:41.611000",
+  "id": "689f5625ba4635dabbc5a3ed",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Fribourg",
+  "specialty_name": "Cuchaule AOP",
+  "type": "Pain Brioché",
+  "description": "Un pain brioché traditionnel au safran, bénéficiant d'une AOP. Elle est souvent consommée avec la Moutarde de Bénichon lors de la fête de la Bénichon.",
+  "preparation": "Mélanger les ingrédients pour obtenir une pâte souple. Laisser fermenter, puis façonner en demi-boules. Après un temps d'apprêt, dorer à l'œuf et inciser en losanges avant de cuire au four.",
+  "ingredients": [
+   "Lait entier",
+   "farine de froment",
+   "beurre",
+   "sucre",
+   "sel",
+   "safran",
+   "levure"
+  ],
+  "locations": [
+   "Boulangeries locales du canton de Fribourg",
+   "Boulangerie Pâtisserie Guillaume, Sugiez"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3ea",
+  "created_date": "2025-08-15T15:45:41.612000",
+  "updated_date": "2025-08-15T15:45:41.612000",
   "created_by_id": "688f2ccb192c06d06024420a",
   "created_by": "zubair_zm@hotmail.com",
   "is_sample": false
@@ -1192,6 +1160,33 @@
   ],
   "image_url": null,
   "id": "689f5625ba4635dabbc5a3d2",
+  "created_date": "2025-08-15T15:45:41.611000",
+  "updated_date": "2025-08-15T15:45:41.611000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Tessin",
+  "specialty_name": "Nocino",
+  "type": "Liqueur",
+  "description": "Une liqueur caractéristique du Tessin, élaborée à partir de noix vertes et reconnaissable à sa couleur brun foncé.",
+  "preparation": "La préparation implique de couper les noix vertes et de les faire macérer dans l'alcool avec les épices et le zeste de citron pendant plusieurs mois (au moins trois mois, mais idéalement plus longtemps) dans un endroit sombre. Un sirop de sucre est ensuite ajouté, et la liqueur est filtrée avant d'être embouteillée. Les saveurs du Nocino s'améliorent considérablement avec le vieillissement.",
+  "ingredients": [
+   "Noix vertes (récoltées fin juin-début juillet)",
+   "base d'alcool neutre (vodka/grappa)",
+   "bâton de cannelle",
+   "grains de 4-épices",
+   "clous de girofle",
+   "zeste de citron",
+   "sucre"
+  ],
+  "locations": [
+   "Restaurants et auberges du Tessin",
+   "Producteurs locaux"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3d5",
   "created_date": "2025-08-15T15:45:41.611000",
   "updated_date": "2025-08-15T15:45:41.611000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -1228,6 +1223,58 @@
  },
  {
   "canton_name": "Vaud",
+  "specialty_name": "Boutefas",
+  "type": "Charcuterie",
+  "description": "Une grosse saucisse de porc fumée, reconnaissable à sa forme unique due à son boyau naturel, le cæcum. Elle est composée de viande de porc crue, de lard, de sel et d'épices.",
+  "preparation": "La préparation traditionnelle du Boutefas implique de le cuire dans de l'eau tiède à petits bouillons pendant environ 1 heure et 15 minutes. Pendant ce temps, le chou nouveau est blanchi, et l'oignon et le lard sont revenus. Une vinaigrette est préparée avec le jus de coing, les huiles, le sel et le poivre. Le chou, les oignons et les lardons sont mélangés avec la vinaigrette. Le Boutefas est ensuite tranché et servi sur un lit de salade avec la garniture.",
+  "ingredients": [
+   "Boutefas AOP",
+   "chou nouveau",
+   "petit lard gras",
+   "oignon haché",
+   "huiles (pépins de raisin, noix)",
+   "jus de coing"
+  ],
+  "locations": [
+   "Au Bon Vin (fabrication), Chardonne",
+   "restaurants proposant spécialités vaudoises"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3d9",
+  "created_date": "2025-08-15T15:45:41.611000",
+  "updated_date": "2025-08-15T15:45:41.611000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Vaud",
+  "specialty_name": "Salée au Sucre",
+  "type": "Gâteau",
+  "description": "Un gâteau à la crème et au sucre, dont le nom 'salée' provient d'une ancienne désignation générique pour un gâteau. La version à la crème est la plus prisée.",
+  "preparation": "La préparation consiste à mélanger les ingrédients de la pâte, l'abaisser et la foncer dans un moule beurré. Le sucre, la farine et la crème sont mélangés et versés sur la pâte crue. Le tout est généreusement saupoudré de cannelle avant d'être cuit au four.",
+  "ingredients": [
+   "Pâte brisée",
+   "sucre",
+   "farine",
+   "crème à 35%",
+   "cannelle en poudre"
+  ],
+  "locations": [
+   "Boulangerie Chez Séverine et Luca",
+   "Le Romantica Confiserie Tea-room",
+   "Confiserie Christian Boillat"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3db",
+  "created_date": "2025-08-15T15:45:41.611000",
+  "updated_date": "2025-08-15T15:45:41.611000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Vaud",
   "specialty_name": "Malakoff",
   "type": "Entrée / Beignet au Fromage",
   "description": "Des beignets de fromage frits, originaires de Vinzel, caractérisés par leur extérieur croustillant et leur intérieur fondant.",
@@ -1247,6 +1294,38 @@
   ],
   "image_url": null,
   "id": "689f5625ba4635dabbc5a3d7",
+  "created_date": "2025-08-15T15:45:41.611000",
+  "updated_date": "2025-08-15T15:45:41.611000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Tessin",
+  "specialty_name": "Panettone",
+  "type": "Dessert",
+  "description": "Bien que souvent associé à la période de Noël, le Panettone est disponible toute l'année au Tessin. C'est une pâte levée riche, garnie de fruits confits.",
+  "preparation": "La préparation du Panettone est un processus complexe qui s'étend sur plusieurs jours, impliquant diverses étapes de pétrissage et de levée de la pâte. Les fruits confits et les raisins secs sont incorporés à la pâte avant qu'elle ne soit cuite dans des moules cylindriques caractéristiques.",
+  "ingredients": [
+   "Farine forte",
+   "eau",
+   "jaunes d'œufs",
+   "œufs entiers",
+   "sucre semoule",
+   "beurre",
+   "sel",
+   "levure de bière fraîche",
+   "raisins secs",
+   "orange et cédrat confits",
+   "miel d'acacia",
+   "zestes d'orange et de citron",
+   "vanille"
+  ],
+  "locations": [
+   "Boulangeries et pâtisseries locales du Tessin"
+  ],
+  "image_url": null,
+  "id": "689f5625ba4635dabbc5a3d3",
   "created_date": "2025-08-15T15:45:41.611000",
   "updated_date": "2025-08-15T15:45:41.611000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -1307,32 +1386,6 @@
   ],
   "image_url": null,
   "id": "689f5625ba4635dabbc5a3dc",
-  "created_date": "2025-08-15T15:45:41.611000",
-  "updated_date": "2025-08-15T15:45:41.611000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Vaud",
-  "specialty_name": "Boutefas",
-  "type": "Charcuterie",
-  "description": "Une grosse saucisse de porc fumée, reconnaissable à sa forme unique due à son boyau naturel, le cæcum. Elle est composée de viande de porc crue, de lard, de sel et d'épices.",
-  "preparation": "La préparation traditionnelle du Boutefas implique de le cuire dans de l'eau tiède à petits bouillons pendant environ 1 heure et 15 minutes. Pendant ce temps, le chou nouveau est blanchi, et l'oignon et le lard sont revenus. Une vinaigrette est préparée avec le jus de coing, les huiles, le sel et le poivre. Le chou, les oignons et les lardons sont mélangés avec la vinaigrette. Le Boutefas est ensuite tranché et servi sur un lit de salade avec la garniture.",
-  "ingredients": [
-   "Boutefas AOP",
-   "chou nouveau",
-   "petit lard gras",
-   "oignon haché",
-   "huiles (pépins de raisin, noix)",
-   "jus de coing"
-  ],
-  "locations": [
-   "Au Bon Vin (fabrication), Chardonne",
-   "restaurants proposant spécialités vaudoises"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3d9",
   "created_date": "2025-08-15T15:45:41.611000",
   "updated_date": "2025-08-15T15:45:41.611000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -1401,52 +1454,26 @@
   "is_sample": false
  },
  {
-  "canton_name": "Vaud",
-  "specialty_name": "Salée au Sucre",
-  "type": "Gâteau",
-  "description": "Un gâteau à la crème et au sucre, dont le nom 'salée' provient d'une ancienne désignation générique pour un gâteau. La version à la crème est la plus prisée.",
-  "preparation": "La préparation consiste à mélanger les ingrédients de la pâte, l'abaisser et la foncer dans un moule beurré. Le sucre, la farine et la crème sont mélangés et versés sur la pâte crue. Le tout est généreusement saupoudré de cannelle avant d'être cuit au four.",
-  "ingredients": [
-   "Pâte brisée",
-   "sucre",
-   "farine",
-   "crème à 35%",
-   "cannelle en poudre"
-  ],
-  "locations": [
-   "Boulangerie Chez Séverine et Luca",
-   "Le Romantica Confiserie Tea-room",
-   "Confiserie Christian Boillat"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3db",
-  "created_date": "2025-08-15T15:45:41.611000",
-  "updated_date": "2025-08-15T15:45:41.611000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
   "canton_name": "Tessin",
-  "specialty_name": "Nocino",
-  "type": "Liqueur",
-  "description": "Une liqueur caractéristique du Tessin, élaborée à partir de noix vertes et reconnaissable à sa couleur brun foncé.",
-  "preparation": "La préparation implique de couper les noix vertes et de les faire macérer dans l'alcool avec les épices et le zeste de citron pendant plusieurs mois (au moins trois mois, mais idéalement plus longtemps) dans un endroit sombre. Un sirop de sucre est ensuite ajouté, et la liqueur est filtrée avant d'être embouteillée. Les saveurs du Nocino s'améliorent considérablement avec le vieillissement.",
+  "specialty_name": "Risotto",
+  "type": "Plat Principal",
+  "description": "Un classique culinaire au Tessin, où le riz est cultivé localement. De nombreuses variations existent, notamment avec des champignons, du safran ou du vin Merlot.",
+  "preparation": "Faire revenir l'oignon haché dans du beurre. Ajouter le riz et le sauter jusqu'à ce qu'il devienne opaque. Incorporer progressivement le consommé chaud et le vin blanc, en remuant constamment, jusqu'à ce que le riz soit tendre. Servir avec du fromage râpé.",
   "ingredients": [
-   "Noix vertes (récoltées fin juin-début juillet)",
-   "base d'alcool neutre (vodka/grappa)",
-   "bâton de cannelle",
-   "grains de 4-épices",
-   "clous de girofle",
-   "zeste de citron",
-   "sucre"
+   "Riz (Carnaroli)",
+   "oignon",
+   "vin blanc sec",
+   "bouillon chaud",
+   "fromage (Parmesan/Suisse)"
   ],
   "locations": [
-   "Restaurants et auberges du Tessin",
-   "Producteurs locaux"
+   "Flamel Restaurant, Lugano",
+   "Ristorante Badalucci, Lugano",
+   "Ristorante Salotto Brè, Brè sopra Lugano",
+   "Grotto La Baita, Magadino"
   ],
   "image_url": null,
-  "id": "689f5625ba4635dabbc5a3d5",
+  "id": "689f5625ba4635dabbc5a3d1",
   "created_date": "2025-08-15T15:45:41.611000",
   "updated_date": "2025-08-15T15:45:41.611000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -1475,95 +1502,22 @@
   "is_sample": false
  },
  {
-  "canton_name": "Tessin",
-  "specialty_name": "Risotto",
-  "type": "Plat Principal",
-  "description": "Un classique culinaire au Tessin, où le riz est cultivé localement. De nombreuses variations existent, notamment avec des champignons, du safran ou du vin Merlot.",
-  "preparation": "Faire revenir l'oignon haché dans du beurre. Ajouter le riz et le sauter jusqu'à ce qu'il devienne opaque. Incorporer progressivement le consommé chaud et le vin blanc, en remuant constamment, jusqu'à ce que le riz soit tendre. Servir avec du fromage râpé.",
+  "canton_name": "Neuchâtel",
+  "specialty_name": "Saucisson Neuchâtelois (Torrée)",
+  "type": "Charcuterie / Tradition",
+  "description": "Une saucisse fumée, composée de viande de porc maigre et de lard. Une tradition populaire en automne est la \"Torrée neuchâteloise\", où ces saucissons sont cuits en plein air dans les braises d'un feu.",
+  "preparation": "Emballer le saucisson neuchâtelois dans une feuille de chou et du papier (ou alu). Allumer un feu et attendre d'avoir une bonne couche de cendres. Placer le saucisson emballé sous les braises pour cuire. Déguster avec les doigts.",
   "ingredients": [
-   "Riz (Carnaroli)",
-   "oignon",
-   "vin blanc sec",
-   "bouillon chaud",
-   "fromage (Parmesan/Suisse)"
-  ],
-  "locations": [
-   "Flamel Restaurant, Lugano",
-   "Ristorante Badalucci, Lugano",
-   "Ristorante Salotto Brè, Brè sopra Lugano",
-   "Grotto La Baita, Magadino"
-  ],
-  "image_url": null,
-  "id": "689f5625ba4635dabbc5a3d1",
-  "created_date": "2025-08-15T15:45:41.611000",
-  "updated_date": "2025-08-15T15:45:41.611000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Grisons",
-  "specialty_name": "Capuns",
-  "type": "Plat Principal",
-  "description": "Un plat traditionnel des Grisons, composé de rouleaux de feuilles de bettes farcis d'une pâte à spätzli mélangée à des herbes et de la viande séchée, comme le Salsiz ou le Bündnerfleisch. Les rouleaux sont ensuite gratinés.",
-  "preparation": "Élaborer une pâte à spätzli avec herbes et viande séchée. Blanchir les feuilles de blette. Placer une boule de pâte sur chaque feuille, rouler pour former des paquets. Cuire dans l'eau frémissante et servir avec du Parmesan et des oignons dorés.",
-  "ingredients": [
-   "Feuilles de bettes",
-   "pâte à spätzli",
-   "herbes",
-   "viande séchée (Salsiz, Bündnerfleisch)"
-  ],
-  "locations": [
-   "Restaurant Ustria Parlatsch, Trin Mulin",
-   "Filli-Scuol, Scuol",
-   "Mountain Hotel Restaurant Sartons, Valbella",
-   "Casa Casutt, Ilanz",
-   "Berghaus Alpenrösli, Klosters-Serneus"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c56",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Tessin",
-  "specialty_name": "Luganighe / Luganighetta",
-  "type": "Saucisse / Charcuterie",
-  "description": "Une saucisse typique du Tessin, souvent grillée ou bouillie, et traditionnellement servie avec des pommes de terre.",
-  "preparation": "Les luganighe peuvent être bouillies pendant environ 20 minutes ou cuites au four avec des pommes de terre nouvelles et du pesto d'herbes.",
-  "ingredients": [
-   "Saucisses Luganighe",
+   "Saucisson neuchâtelois",
+   "feuille de chou",
    "pommes de terre"
   ],
   "locations": [
-   "Grottos traditionnels",
-   "Grotto del Paolin, Figino"
+   "Sites de torrée cantonale (ex: La Sagne)",
+   "Restaurants proposant la torrée en saison"
   ],
   "image_url": null,
-  "id": "689f52f00bcfc9043cc28c4f",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Jura",
-  "specialty_name": "Damassine AOP",
-  "type": "Eau-de-vie",
-  "description": "Une eau-de-vie noble et aromatique obtenue par distillation de petites prunes rouges, les damassons. Cette spécialité bénéficie d'une Appellation d'Origine Protégée (AOP).",
-  "preparation": "Les damassons sont récoltés, mis à fermenter puis distillés. L'eau-de-vie est ensuite vieillie pour développer ses arômes complexes.",
-  "ingredients": [
-   "Damassons rouges"
-  ],
-  "locations": [
-   "Producteurs et distillateurs locaux en Ajoie"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c66",
+  "id": "689f52f00bcfc9043cc28c61",
   "created_date": "2025-08-15T15:32:00.158000",
   "updated_date": "2025-08-15T15:32:00.158000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -1620,21 +1574,25 @@
   "is_sample": false
  },
  {
-  "canton_name": "Genève",
-  "specialty_name": "Marmite de l'Escalade",
-  "type": "Confiserie / Tradition",
-  "description": "Une marmite en chocolat, remplie de légumes en massepain, qui commémore une attaque sur Genève en 1602. La légende raconte que \"Mère Royaume\" aurait tué un soldat ennemi en lançant une marmite de soupe de légumes depuis sa fenêtre.",
-  "preparation": "La marmite en chocolat est une confiserie, achetée et traditionnellement brisée en famille ou entre amis en décembre en récitant 'Ainsi périrent les ennemis de la République'.",
+  "canton_name": "Valais",
+  "specialty_name": "Assiette Valaisanne",
+  "type": "Entrée / Plat Froid",
+  "description": "Une composition emblématique du canton, présentant un assortiment de produits locaux de haute qualité.",
+  "preparation": "Disposer harmonieusement sur une assiette la viande séchée, le jambon, le lard et le fromage coupés en morceaux. Ajouter des cornichons et petits oignons, et accompagner de tranches de pain de seigle. Servir avec un verre de Fendant.",
   "ingredients": [
-   "Chocolat",
-   "légumes en massepain"
+   "Pain de seigle valaisan AOP",
+   "viande séchée du Valais IGP",
+   "jambon cru du Valais IGP",
+   "lard sec du Valais IGP",
+   "fromage Raclette du Valais AOP",
+   "saucisse sèche du Valais"
   ],
   "locations": [
-   "Chocolateries de Genève",
-   "Restaurant La Mère Royaume, Genève"
+   "Château de Villa, Sierre",
+   "Le Relais du Valais, Vissoie"
   ],
   "image_url": null,
-  "id": "689f52f00bcfc9043cc28c5a",
+  "id": "689f52f00bcfc9043cc28c5b",
   "created_date": "2025-08-15T15:32:00.158000",
   "updated_date": "2025-08-15T15:32:00.158000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -1642,26 +1600,177 @@
   "is_sample": false
  },
  {
-  "canton_name": "Genève",
-  "specialty_name": "Gratin de Cardons",
-  "type": "Accompagnement / Gratin",
-  "description": "Les Cardons sont une spécialité genevoise, souvent préparés en gratin pendant les fêtes de Noël. Ces légumes sont apparentés aux artichauts épineux.",
-  "preparation": "Cuire les cardons jusqu'à tendreté. Préparer une sauce béchamel avec le liquide de cuisson. Napper les cardons de sauce dans un plat, saupoudrer de Gruyère râpé et gratiner au four.",
+  "canton_name": "Fribourg",
+  "specialty_name": "Cuchaule AOP",
+  "type": "Pain Brioché",
+  "description": "Un pain brioché traditionnel au safran, bénéficiant d'une AOP. Elle est souvent consommée avec la Moutarde de Bénichon lors de la fête de la Bénichon.",
+  "preparation": "Mélanger les ingrédients pour obtenir une pâte souple. Laisser fermenter, puis façonner en demi-boules. Après un temps d'apprêt, dorer à l'œuf et inciser en losanges avant de cuire au four.",
   "ingredients": [
-   "Cardons",
-   "Gruyère AOP",
+   "Lait entier",
+   "farine de froment",
    "beurre",
-   "farine",
-   "lait",
-   "noix de muscade"
+   "sucre",
+   "sel",
+   "safran",
+   "levure"
   ],
   "locations": [
-   "Brasserie Hôtel de Ville, Genève",
-   "Cave Valaisanne & Chalet Suisse, Genève",
-   "Le Café des Négociants, Carouge"
+   "Boulangeries locales du canton de Fribourg",
+   "Boulangerie Pâtisserie Guillaume, Sugiez"
   ],
   "image_url": null,
-  "id": "689f52f00bcfc9043cc28c59",
+  "id": "689f52f00bcfc9043cc28c5f",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Tessin",
+  "specialty_name": "Torta di Pane",
+  "type": "Dessert",
+  "description": "Un gâteau riche élaboré à partir de pain rassis, de cacao en poudre, de fruits secs et de pignons de pin. C'est le dessert tessinois par excellence, avec chaque famille possédant sa propre recette.",
+  "preparation": "Couper le pain rassis en dés et le tremper dans du lait chaud. Ajouter le cacao, le sucre et les autres ingrédients. Verser dans un moule beurré, parsemer de pignons et cuire au four. Il est recommandé de laisser le gâteau reposer au moins deux jours.",
+  "ingredients": [
+   "Pain rassis",
+   "lait",
+   "œufs",
+   "sucre",
+   "fruits confits",
+   "cacao",
+   "pignons de pin"
+  ],
+  "locations": [
+   "Tresa Bay Hotel, Caslano",
+   "Ristorante Fiore di pietra",
+   "Triticum Bakery, Lugano",
+   "Boulangeries locales"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c51",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Jura",
+  "specialty_name": "Tête de Moine AOP",
+  "type": "Fromage",
+  "description": "Un fromage cylindrique au lait cru de vache, qui ne se coupe pas mais se racle en rosettes fines à l'aide d'une \"Girolle\". Cette méthode permet de développer pleinement ses arômes.",
+  "preparation": "Se déguste en rosettes fraîchement raclées. Idéal pour l'apéritif, les plateaux de fromages ou pour décorer des plats.",
+  "ingredients": [
+   "Lait cru de vache de montagne",
+   "sel"
+  ],
+  "locations": [
+   "Fromageries de la région",
+   "Maison de la Tête de Moine, Bellelay"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c65",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Fribourg",
+  "specialty_name": "Jambon de la Borne AOP",
+  "type": "Charcuterie / Plat Principal",
+  "description": "Une charcuterie traditionnelle du canton de Fribourg, bénéficiant d'une AOP. Il est souvent servi avec du saucisson et une garniture de légumes, notamment du chou frisé et des carottes.",
+  "preparation": "Tremper le jambon dans l'eau fraîche 1-2 jours. Le cuire à petits bouillons avec un bouquet garni. Ajouter les légumes une heure avant la fin. Servir en tranches fines avec la garniture.",
+  "ingredients": [
+   "Jambon de la Borne AOP",
+   "saucisson",
+   "bouquet garni",
+   "carottes",
+   "chou frisé"
+  ],
+  "locations": [
+   "Café Restaurant de l'Ourson, Le Mouret"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c60",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Grisons",
+  "specialty_name": "Viande séchée des Grisons (Bündnerfleisch)",
+  "type": "Charcuterie",
+  "description": "Une spécialité emblématique du canton, consistant en une viande de bœuf frottée au sel et aux épices, puis séchée à l'air libre pendant plusieurs mois. Elle bénéficie d'une Indication Géographique Protégée (IGP).",
+  "preparation": "La viande de bœuf est frottée avec du sel et un mélange d'épices, puis séchée à l'air libre pendant plusieurs mois. Ce long processus de séchage confère à la viande sa texture ferme et ses saveurs concentrées.",
+  "ingredients": [
+   "Viande de bœuf",
+   "sel",
+   "épices"
+  ],
+  "locations": [
+   "Supermarchés (Coop)",
+   "Boucherie Zanetti, Sent",
+   "Boucherie Hatecke"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c55",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Vaud",
+  "specialty_name": "Vacherin Mont-d'Or AOP",
+  "type": "Fromage",
+  "description": "Un fromage à pâte molle et à croûte lavée, cerclé d'épicéa, emblématique de la Vallée de Joux. C'est un délice d'hiver qui se déguste froid ou cuit au four.",
+  "preparation": "Consommé tel quel ou, plus traditionnellement, cuit au four dans sa boîte d'épicéa, souvent accompagné de pommes de terre.",
+  "ingredients": [
+   "Vacherin Mont-d'Or AOP",
+   "lait de vache",
+   "épicéa"
+  ],
+  "locations": [
+   "Au Vieil Ouchy, Lausanne",
+   "Hôtel de la Lande, Le Brassus",
+   "Musée du Vacherin, Les Charbonnières",
+   "Brasserie du Montbenon, Lausanne"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c54",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Vaud",
+  "specialty_name": "Malakoff",
+  "type": "Entrée / Beignet au Fromage",
+  "description": "Des beignets de fromage frits, originaires de Vinzel, caractérisés par leur extérieur croustillant et leur intérieur fondant.",
+  "preparation": "Mariner le fromage dans le vin blanc. Préparer une pâte à beignet. Passer les morceaux de fromage dans la farine, puis dans la pâte à beignet avant de les frire jusqu'à dorure. Servir avec une salade verte et des cornichons.",
+  "ingredients": [
+   "Gruyère AOP",
+   "farine",
+   "œufs",
+   "lait",
+   "vin blanc (Chasselas)"
+  ],
+  "locations": [
+   "Café Romand, Lausanne",
+   "Au Cœur de la Côte, Vinzel",
+   "L’Auberge Communale du Mont-sur-Lausanne",
+   "Le Chalet Suisse, Lausanne"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c53",
   "created_date": "2025-08-15T15:32:00.158000",
   "updated_date": "2025-08-15T15:32:00.158000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -1697,270 +1806,26 @@
   "is_sample": false
  },
  {
-  "canton_name": "Jura",
-  "specialty_name": "Saucisse d'Ajoie IGP",
-  "type": "Charcuterie",
-  "description": "Une saucisse à base de porc (maigre et lard) caractérisée par l'utilisation obligatoire de cumin, ce qui lui confère son goût unique. Elle bénéficie d'une Indication Géographique Protégée (IGP).",
-  "preparation": "La saucisse est généralement pochée dans l'eau frémissante ou grillée. Elle est souvent servie avec une salade de pommes de terre.",
+  "canton_name": "Valais",
+  "specialty_name": "Brisolée",
+  "type": "Tradition Automnale",
+  "description": "Une ancienne tradition épicurienne valaisanne, célébrée chaque automne. Elle consiste en des châtaignes grillées sur un feu de bois, accompagnées de divers fromages de montagne, de fruits de saison et de charcuteries.",
+  "preparation": "Rôtir les châtaignes au four ou sur un feu de bois. Servir chaud avec du pain de seigle, des fromages d'alpage, de la viande séchée, du beurre et des fruits de saison. Arroser de moût ou de vin nouveau.",
   "ingredients": [
-   "Viande de porc",
-   "lard",
-   "cumin",
-   "ail",
-   "muscade (facultatif)"
-  ],
-  "locations": [
-   "Brasserie des Deux Clefs, Porrentruy",
-   "Boucheries locales en Ajoie"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c64",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Neuchâtel",
-  "specialty_name": "Jambon Cuit dans l'Asphalte",
-  "type": "Charcuterie / Spécialité Unique",
-  "description": "Une tradition culinaire unique du Val-de-Travers, où le jambon est cuit dans un bain d'asphalte naturel. Cette méthode de cuisson aide à préserver l'humidité du jambon.",
-  "preparation": "Le jambon est emballé dans du papier épais avant d'être plongé dans l'asphalte naturel chauffé pour cuire.",
-  "ingredients": [
-   "Jambon",
-   "asphalte naturel"
-  ],
-  "locations": [
-   "Café des Mines (Mines d'asphalte du Val-de-Travers), Travers"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c62",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Grisons",
-  "specialty_name": "Tourte aux noix des Grisons (Bündner Nusstorte)",
-  "type": "Dessert",
-  "description": "Une spécialité culinaire sucrée très appréciée de l'Engadine. Délicieusement sucrée et riche en noix, elle est un classique et un souvenir populaire.",
-  "preparation": "Préparer une pâte brisée. Pour la garniture, caraméliser le sucre avec de l'eau, puis ajouter les cerneaux de noix et la crème. Cuire jusqu'à épaississement. Assembler la tourte, dorer à l'œuf et cuire au four.",
-  "ingredients": [
-   "Pâte brisée",
-   "noix",
-   "sucre",
-   "crème",
-   "miel (facultatif)"
-  ],
-  "locations": [
-   "Funaria Pastizaria Shlatter, Scuol",
-   "Pastizaria Cantieni, Scuol",
-   "Peder Benderer, Scuol",
-   "Supermarchés (Coop)"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c57",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Vaud",
-  "specialty_name": "Malakoff",
-  "type": "Entrée / Beignet au Fromage",
-  "description": "Des beignets de fromage frits, originaires de Vinzel, caractérisés par leur extérieur croustillant et leur intérieur fondant.",
-  "preparation": "Mariner le fromage dans le vin blanc. Préparer une pâte à beignet. Passer les morceaux de fromage dans la farine, puis dans la pâte à beignet avant de les frire jusqu'à dorure. Servir avec une salade verte et des cornichons.",
-  "ingredients": [
-   "Gruyère AOP",
-   "farine",
-   "œufs",
-   "lait",
-   "vin blanc (Chasselas)"
-  ],
-  "locations": [
-   "Café Romand, Lausanne",
-   "Au Cœur de la Côte, Vinzel",
-   "L’Auberge Communale du Mont-sur-Lausanne",
-   "Le Chalet Suisse, Lausanne"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c53",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Tessin",
-  "specialty_name": "Zincarlin",
-  "type": "Fromage",
-  "description": "Un fromage de lait de vache cru, reconnu comme un produit Slow Food. Il se distingue par sa forme de tasse inversée et est traité presque quotidiennement avec du vin blanc et du sel, ce qui lui confère un goût intense et unique.",
-  "preparation": "Le Zincarlin est un fromage affiné, souvent consommé tel quel en apéritif ou intégré dans des recettes.",
-  "ingredients": [
-   "Lait de vache cru",
-   "vin blanc",
-   "sel"
-  ],
-  "locations": [
-   "Bellini Locanda Ticinese, Lucerne",
-   "Grotto La Baita, Magadino"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c50",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Fribourg",
-  "specialty_name": "Jambon de la Borne AOP",
-  "type": "Charcuterie / Plat Principal",
-  "description": "Une charcuterie traditionnelle du canton de Fribourg, bénéficiant d'une AOP. Il est souvent servi avec du saucisson et une garniture de légumes, notamment du chou frisé et des carottes.",
-  "preparation": "Tremper le jambon dans l'eau fraîche 1-2 jours. Le cuire à petits bouillons avec un bouquet garni. Ajouter les légumes une heure avant la fin. Servir en tranches fines avec la garniture.",
-  "ingredients": [
-   "Jambon de la Borne AOP",
-   "saucisson",
-   "bouquet garni",
-   "carottes",
-   "chou frisé"
-  ],
-  "locations": [
-   "Café Restaurant de l'Ourson, Le Mouret"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c60",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Neuchâtel",
-  "specialty_name": "Tripes à la neuchâteloise",
-  "type": "Plat Principal",
-  "description": "Un plat de tripes de bœuf cuites dans un bouillon de vin blanc et de légumes, servies avec une vinaigrette épaisse à part.",
-  "preparation": "Couper les tripes en carrés et les cuire doucement pendant deux heures avec du vin blanc, du bouillon et des légumes. Préparer une vinaigrette épaisse. Servir les tripes dans leur jus, accompagnées de pommes de terre nature et de la vinaigrette.",
-  "ingredients": [
-   "Tripes de bœuf",
-   "vin blanc sec",
-   "bouillon de bœuf",
-   "oignon",
-   "carotte",
-   "poireau",
-   "vinaigrette (échalotes, persil, câpres, cornichons)"
-  ],
-  "locations": [
-   "Restaurant des Poneys, Les Ponts-de-Martel",
-   "Brasserie Le Jura, Neuchâtel",
-   "Hôtel de l'Aigle"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c63",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Fribourg",
-  "specialty_name": "Cuchaule AOP",
-  "type": "Pain Brioché",
-  "description": "Un pain brioché traditionnel au safran, bénéficiant d'une AOP. Elle est souvent consommée avec la Moutarde de Bénichon lors de la fête de la Bénichon.",
-  "preparation": "Mélanger les ingrédients pour obtenir une pâte souple. Laisser fermenter, puis façonner en demi-boules. Après un temps d'apprêt, dorer à l'œuf et inciser en losanges avant de cuire au four.",
-  "ingredients": [
-   "Lait entier",
-   "farine de froment",
+   "Châtaignes",
+   "pain de seigle valaisan",
+   "fromage d'alpage",
+   "viande séchée",
    "beurre",
-   "sucre",
-   "sel",
-   "safran",
-   "levure"
+   "fruits de saison (raisins, pommes, poires)"
   ],
   "locations": [
-   "Boulangeries locales du canton de Fribourg",
-   "Boulangerie Pâtisserie Guillaume, Sugiez"
+   "La Taverne Evolénarde, Evolène",
+   "Le Col du Torrent",
+   "Le Relais du Valais (brisolée royale), Vissoie"
   ],
   "image_url": null,
-  "id": "689f52f00bcfc9043cc28c5f",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Grisons",
-  "specialty_name": "Viande séchée des Grisons (Bündnerfleisch)",
-  "type": "Charcuterie",
-  "description": "Une spécialité emblématique du canton, consistant en une viande de bœuf frottée au sel et aux épices, puis séchée à l'air libre pendant plusieurs mois. Elle bénéficie d'une Indication Géographique Protégée (IGP).",
-  "preparation": "La viande de bœuf est frottée avec du sel et un mélange d'épices, puis séchée à l'air libre pendant plusieurs mois. Ce long processus de séchage confère à la viande sa texture ferme et ses saveurs concentrées.",
-  "ingredients": [
-   "Viande de bœuf",
-   "sel",
-   "épices"
-  ],
-  "locations": [
-   "Supermarchés (Coop)",
-   "Boucherie Zanetti, Sent",
-   "Boucherie Hatecke"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c55",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Jura",
-  "specialty_name": "Tête de Moine AOP",
-  "type": "Fromage",
-  "description": "Un fromage cylindrique au lait cru de vache, qui ne se coupe pas mais se racle en rosettes fines à l'aide d'une \"Girolle\". Cette méthode permet de développer pleinement ses arômes.",
-  "preparation": "Se déguste en rosettes fraîchement raclées. Idéal pour l'apéritif, les plateaux de fromages ou pour décorer des plats.",
-  "ingredients": [
-   "Lait cru de vache de montagne",
-   "sel"
-  ],
-  "locations": [
-   "Fromageries de la région",
-   "Maison de la Tête de Moine, Bellelay"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c65",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Neuchâtel",
-  "specialty_name": "Saucisson Neuchâtelois (Torrée)",
-  "type": "Charcuterie / Tradition",
-  "description": "Une saucisse fumée, composée de viande de porc maigre et de lard. Une tradition populaire en automne est la \"Torrée neuchâteloise\", où ces saucissons sont cuits en plein air dans les braises d'un feu.",
-  "preparation": "Emballer le saucisson neuchâtelois dans une feuille de chou et du papier (ou alu). Allumer un feu et attendre d'avoir une bonne couche de cendres. Placer le saucisson emballé sous les braises pour cuire. Déguster avec les doigts.",
-  "ingredients": [
-   "Saucisson neuchâtelois",
-   "feuille de chou",
-   "pommes de terre"
-  ],
-  "locations": [
-   "Sites de torrée cantonale (ex: La Sagne)",
-   "Restaurants proposant la torrée en saison"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c61",
+  "id": "689f52f00bcfc9043cc28c5d",
   "created_date": "2025-08-15T15:32:00.158000",
   "updated_date": "2025-08-15T15:32:00.158000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -1998,26 +1863,27 @@
   "is_sample": false
  },
  {
-  "canton_name": "Valais",
-  "specialty_name": "Brisolée",
-  "type": "Tradition Automnale",
-  "description": "Une ancienne tradition épicurienne valaisanne, célébrée chaque automne. Elle consiste en des châtaignes grillées sur un feu de bois, accompagnées de divers fromages de montagne, de fruits de saison et de charcuteries.",
-  "preparation": "Rôtir les châtaignes au four ou sur un feu de bois. Servir chaud avec du pain de seigle, des fromages d'alpage, de la viande séchée, du beurre et des fruits de saison. Arroser de moût ou de vin nouveau.",
+  "canton_name": "Neuchâtel",
+  "specialty_name": "Tripes à la neuchâteloise",
+  "type": "Plat Principal",
+  "description": "Un plat de tripes de bœuf cuites dans un bouillon de vin blanc et de légumes, servies avec une vinaigrette épaisse à part.",
+  "preparation": "Couper les tripes en carrés et les cuire doucement pendant deux heures avec du vin blanc, du bouillon et des légumes. Préparer une vinaigrette épaisse. Servir les tripes dans leur jus, accompagnées de pommes de terre nature et de la vinaigrette.",
   "ingredients": [
-   "Châtaignes",
-   "pain de seigle valaisan",
-   "fromage d'alpage",
-   "viande séchée",
-   "beurre",
-   "fruits de saison (raisins, pommes, poires)"
+   "Tripes de bœuf",
+   "vin blanc sec",
+   "bouillon de bœuf",
+   "oignon",
+   "carotte",
+   "poireau",
+   "vinaigrette (échalotes, persil, câpres, cornichons)"
   ],
   "locations": [
-   "La Taverne Evolénarde, Evolène",
-   "Le Col du Torrent",
-   "Le Relais du Valais (brisolée royale), Vissoie"
+   "Restaurant des Poneys, Les Ponts-de-Martel",
+   "Brasserie Le Jura, Neuchâtel",
+   "Hôtel de l'Aigle"
   ],
   "image_url": null,
-  "id": "689f52f00bcfc9043cc28c5d",
+  "id": "689f52f00bcfc9043cc28c63",
   "created_date": "2025-08-15T15:32:00.158000",
   "updated_date": "2025-08-15T15:32:00.158000",
   "created_by_id": "688f2ccb192c06d06024420a",
@@ -2025,109 +1891,215 @@
   "is_sample": false
  },
  {
-  "canton_name": "Vaud",
-  "specialty_name": "Vacherin Mont-d'Or AOP",
+  "canton_name": "Jura",
+  "specialty_name": "Damassine AOP",
+  "type": "Eau-de-vie",
+  "description": "Une eau-de-vie noble et aromatique obtenue par distillation de petites prunes rouges, les damassons. Cette spécialité bénéficie d'une Appellation d'Origine Protégée (AOP).",
+  "preparation": "Les damassons sont récoltés, mis à fermenter puis distillés. L'eau-de-vie est ensuite vieillie pour développer ses arômes complexes.",
+  "ingredients": [
+   "Damassons rouges"
+  ],
+  "locations": [
+   "Producteurs et distillateurs locaux en Ajoie"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c66",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Genève",
+  "specialty_name": "Marmite de l'Escalade",
+  "type": "Confiserie / Tradition",
+  "description": "Une marmite en chocolat, remplie de légumes en massepain, qui commémore une attaque sur Genève en 1602. La légende raconte que \"Mère Royaume\" aurait tué un soldat ennemi en lançant une marmite de soupe de légumes depuis sa fenêtre.",
+  "preparation": "La marmite en chocolat est une confiserie, achetée et traditionnellement brisée en famille ou entre amis en décembre en récitant 'Ainsi périrent les ennemis de la République'.",
+  "ingredients": [
+   "Chocolat",
+   "légumes en massepain"
+  ],
+  "locations": [
+   "Chocolateries de Genève",
+   "Restaurant La Mère Royaume, Genève"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c5a",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Neuchâtel",
+  "specialty_name": "Jambon Cuit dans l'Asphalte",
+  "type": "Charcuterie / Spécialité Unique",
+  "description": "Une tradition culinaire unique du Val-de-Travers, où le jambon est cuit dans un bain d'asphalte naturel. Cette méthode de cuisson aide à préserver l'humidité du jambon.",
+  "preparation": "Le jambon est emballé dans du papier épais avant d'être plongé dans l'asphalte naturel chauffé pour cuire.",
+  "ingredients": [
+   "Jambon",
+   "asphalte naturel"
+  ],
+  "locations": [
+   "Café des Mines (Mines d'asphalte du Val-de-Travers), Travers"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c62",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Tessin",
+  "specialty_name": "Luganighe / Luganighetta",
+  "type": "Saucisse / Charcuterie",
+  "description": "Une saucisse typique du Tessin, souvent grillée ou bouillie, et traditionnellement servie avec des pommes de terre.",
+  "preparation": "Les luganighe peuvent être bouillies pendant environ 20 minutes ou cuites au four avec des pommes de terre nouvelles et du pesto d'herbes.",
+  "ingredients": [
+   "Saucisses Luganighe",
+   "pommes de terre"
+  ],
+  "locations": [
+   "Grottos traditionnels",
+   "Grotto del Paolin, Figino"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c4f",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Grisons",
+  "specialty_name": "Capuns",
+  "type": "Plat Principal",
+  "description": "Un plat traditionnel des Grisons, composé de rouleaux de feuilles de bettes farcis d'une pâte à spätzli mélangée à des herbes et de la viande séchée, comme le Salsiz ou le Bündnerfleisch. Les rouleaux sont ensuite gratinés.",
+  "preparation": "Élaborer une pâte à spätzli avec herbes et viande séchée. Blanchir les feuilles de blette. Placer une boule de pâte sur chaque feuille, rouler pour former des paquets. Cuire dans l'eau frémissante et servir avec du Parmesan et des oignons dorés.",
+  "ingredients": [
+   "Feuilles de bettes",
+   "pâte à spätzli",
+   "herbes",
+   "viande séchée (Salsiz, Bündnerfleisch)"
+  ],
+  "locations": [
+   "Restaurant Ustria Parlatsch, Trin Mulin",
+   "Filli-Scuol, Scuol",
+   "Mountain Hotel Restaurant Sartons, Valbella",
+   "Casa Casutt, Ilanz",
+   "Berghaus Alpenrösli, Klosters-Serneus"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c56",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Tessin",
+  "specialty_name": "Zincarlin",
   "type": "Fromage",
-  "description": "Un fromage à pâte molle et à croûte lavée, cerclé d'épicéa, emblématique de la Vallée de Joux. C'est un délice d'hiver qui se déguste froid ou cuit au four.",
-  "preparation": "Consommé tel quel ou, plus traditionnellement, cuit au four dans sa boîte d'épicéa, souvent accompagné de pommes de terre.",
+  "description": "Un fromage de lait de vache cru, reconnu comme un produit Slow Food. Il se distingue par sa forme de tasse inversée et est traité presque quotidiennement avec du vin blanc et du sel, ce qui lui confère un goût intense et unique.",
+  "preparation": "Le Zincarlin est un fromage affiné, souvent consommé tel quel en apéritif ou intégré dans des recettes.",
   "ingredients": [
-   "Vacherin Mont-d'Or AOP",
-   "lait de vache",
-   "épicéa"
+   "Lait de vache cru",
+   "vin blanc",
+   "sel"
   ],
   "locations": [
-   "Au Vieil Ouchy, Lausanne",
-   "Hôtel de la Lande, Le Brassus",
-   "Musée du Vacherin, Les Charbonnières",
-   "Brasserie du Montbenon, Lausanne"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c54",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Tessin",
-  "specialty_name": "Torta di Pane",
-  "type": "Dessert",
-  "description": "Un gâteau riche élaboré à partir de pain rassis, de cacao en poudre, de fruits secs et de pignons de pin. C'est le dessert tessinois par excellence, avec chaque famille possédant sa propre recette.",
-  "preparation": "Couper le pain rassis en dés et le tremper dans du lait chaud. Ajouter le cacao, le sucre et les autres ingrédients. Verser dans un moule beurré, parsemer de pignons et cuire au four. Il est recommandé de laisser le gâteau reposer au moins deux jours.",
-  "ingredients": [
-   "Pain rassis",
-   "lait",
-   "œufs",
-   "sucre",
-   "fruits confits",
-   "cacao",
-   "pignons de pin"
-  ],
-  "locations": [
-   "Tresa Bay Hotel, Caslano",
-   "Ristorante Fiore di pietra",
-   "Triticum Bakery, Lugano",
-   "Boulangeries locales"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c51",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Valais",
-  "specialty_name": "Assiette Valaisanne",
-  "type": "Entrée / Plat Froid",
-  "description": "Une composition emblématique du canton, présentant un assortiment de produits locaux de haute qualité.",
-  "preparation": "Disposer harmonieusement sur une assiette la viande séchée, le jambon, le lard et le fromage coupés en morceaux. Ajouter des cornichons et petits oignons, et accompagner de tranches de pain de seigle. Servir avec un verre de Fendant.",
-  "ingredients": [
-   "Pain de seigle valaisan AOP",
-   "viande séchée du Valais IGP",
-   "jambon cru du Valais IGP",
-   "lard sec du Valais IGP",
-   "fromage Raclette du Valais AOP",
-   "saucisse sèche du Valais"
-  ],
-  "locations": [
-   "Château de Villa, Sierre",
-   "Le Relais du Valais, Vissoie"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c5b",
-  "created_date": "2025-08-15T15:32:00.158000",
-  "updated_date": "2025-08-15T15:32:00.158000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Tessin",
-  "specialty_name": "Polenta",
-  "type": "Plat de Base",
-  "description": "Plat de base au Tessin, traditionnellement cuite sur un feu ouvert. Elle est souvent servie avec des fromages alpins, de la mortadelle, de la viande braisée ou des ragoûts.",
-  "preparation": "Ajouter la semoule de maïs à de l'eau bouillante salée et remuer fréquemment pendant 45 à 60 minutes jusqu'à ce qu'elle épaississe. Le fromage et le beurre sont incorporés juste avant de servir.",
-  "ingredients": [
-   "Semoule de maïs (polenta)",
-   "bouillon",
-   "Sbrinz ou Parmesan",
-   "beurre",
-   "sel aux herbes"
-  ],
-  "locations": [
-   "Grotto La Froda, Foroglio",
-   "Grottino Ticinese, Losone",
-   "Grotto Pozzasc, Peccia",
-   "Osteria Paradiso, Vogorno",
+   "Bellini Locanda Ticinese, Lucerne",
    "Grotto La Baita, Magadino"
   ],
   "image_url": null,
-  "id": "689f52f00bcfc9043cc28c4d",
-  "created_date": "2025-08-15T15:32:00.157000",
-  "updated_date": "2025-08-15T15:32:00.157000",
+  "id": "689f52f00bcfc9043cc28c50",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Grisons",
+  "specialty_name": "Tourte aux noix des Grisons (Bündner Nusstorte)",
+  "type": "Dessert",
+  "description": "Une spécialité culinaire sucrée très appréciée de l'Engadine. Délicieusement sucrée et riche en noix, elle est un classique et un souvenir populaire.",
+  "preparation": "Préparer une pâte brisée. Pour la garniture, caraméliser le sucre avec de l'eau, puis ajouter les cerneaux de noix et la crème. Cuire jusqu'à épaississement. Assembler la tourte, dorer à l'œuf et cuire au four.",
+  "ingredients": [
+   "Pâte brisée",
+   "noix",
+   "sucre",
+   "crème",
+   "miel (facultatif)"
+  ],
+  "locations": [
+   "Funaria Pastizaria Shlatter, Scuol",
+   "Pastizaria Cantieni, Scuol",
+   "Peder Benderer, Scuol",
+   "Supermarchés (Coop)"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c57",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Jura",
+  "specialty_name": "Saucisse d'Ajoie IGP",
+  "type": "Charcuterie",
+  "description": "Une saucisse à base de porc (maigre et lard) caractérisée par l'utilisation obligatoire de cumin, ce qui lui confère son goût unique. Elle bénéficie d'une Indication Géographique Protégée (IGP).",
+  "preparation": "La saucisse est généralement pochée dans l'eau frémissante ou grillée. Elle est souvent servie avec une salade de pommes de terre.",
+  "ingredients": [
+   "Viande de porc",
+   "lard",
+   "cumin",
+   "ail",
+   "muscade (facultatif)"
+  ],
+  "locations": [
+   "Brasserie des Deux Clefs, Porrentruy",
+   "Boucheries locales en Ajoie"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c64",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Genève",
+  "specialty_name": "Gratin de Cardons",
+  "type": "Accompagnement / Gratin",
+  "description": "Les Cardons sont une spécialité genevoise, souvent préparés en gratin pendant les fêtes de Noël. Ces légumes sont apparentés aux artichauts épineux.",
+  "preparation": "Cuire les cardons jusqu'à tendreté. Préparer une sauce béchamel avec le liquide de cuisson. Napper les cardons de sauce dans un plat, saupoudrer de Gruyère râpé et gratiner au four.",
+  "ingredients": [
+   "Cardons",
+   "Gruyère AOP",
+   "beurre",
+   "farine",
+   "lait",
+   "noix de muscade"
+  ],
+  "locations": [
+   "Brasserie Hôtel de Ville, Genève",
+   "Cave Valaisanne & Chalet Suisse, Genève",
+   "Le Café des Négociants, Carouge"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c59",
+  "created_date": "2025-08-15T15:32:00.158000",
+  "updated_date": "2025-08-15T15:32:00.158000",
   "created_by_id": "688f2ccb192c06d06024420a",
   "created_by": "zubair_zm@hotmail.com",
   "is_sample": false
@@ -2197,60 +2169,6 @@
  },
  {
   "canton_name": "Berne",
-  "specialty_name": "Nidletäfeli",
-  "type": "Confiserie",
-  "description": "De petits caramels mous à base de crème et de sucre, qui s'émiettent avant de fondre délicatement en bouche. Une friandise profondément ancrée dans la mémoire collective bernoise.",
-  "preparation": "Porter à ébullition le sucre, la crème, le lait et le sucre vanillé, puis laisser mijoter à feu doux pendant une heure et demie à deux heures, en remuant presque constamment, jusqu'à ce que la masse épaississe et prenne une couleur dorée. Verser sur une plaque, étaler, puis couper en carrés une fois tiédie.",
-  "ingredients": [
-   "Sucre",
-   "crème entière",
-   "sucre vanillé",
-   "beurre"
-  ],
-  "locations": [
-   "Confiserie Eichenberger, Berne",
-   "Confiserie Tschirren, Berne",
-   "Beck Glatz Confiseur, Berne",
-   "Caramelier – Marktstand am Waisenhausplatz, Berne"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c4c",
-  "created_date": "2025-08-15T15:32:00.157000",
-  "updated_date": "2025-08-15T15:32:00.157000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Berne",
-  "specialty_name": "Suure Mocke",
-  "type": "Rôti",
-  "description": "Équivalent suisse du Sauerbraten allemand, c'est un rôti de bœuf braisé dans une marinade au vin rouge et au vinaigre. Cette longue marinade exhausse les saveurs et rend la viande exceptionnellement tendre.",
-  "preparation": "La préparation débute par une marinade de la viande pendant quatre à sept jours dans un mélange bouilli et refroidi de vin, vinaigre, légumes et épices. Après la marinade, la viande est séchée et dorée dans une cocotte. Les légumes de la marinade sont ensuite revenus, puis déglacés avec une partie de la marinade. La viande est replacée dans la cocotte et mijotée au four pendant environ trois heures. La sauce est épaissie avec de la fécule et peut être enrichie de crème.",
-  "ingredients": [
-   "Bœuf (rôti ou épaule)",
-   "vin rouge",
-   "vinaigre de vin rouge",
-   "carottes",
-   "oignons",
-   "épices (poivre, clous de girofle, laurier)"
-  ],
-  "locations": [
-   "Restaurant Klötzlikeller, Berne",
-   "Restaurant Goldener Schlüssel, Berne",
-   "Gasthof zum Brunnen, Fraubrunnen",
-   "Restaurant Hirschen, Langnau"
-  ],
-  "image_url": null,
-  "id": "689f52f00bcfc9043cc28c49",
-  "created_date": "2025-08-15T15:32:00.157000",
-  "updated_date": "2025-08-15T15:32:00.157000",
-  "created_by_id": "688f2ccb192c06d06024420a",
-  "created_by": "zubair_zm@hotmail.com",
-  "is_sample": false
- },
- {
-  "canton_name": "Berne",
   "specialty_name": "Bärner Anke-Züpfe",
   "type": "Pain / Pâtisserie",
   "description": "Un pain tressé au beurre, moelleux et parfumé, un élément indispensable du petit-déjeuner dominical en Suisse. Sa présence est attestée dès 1470.",
@@ -2304,6 +2222,60 @@
   "is_sample": false
  },
  {
+  "canton_name": "Berne",
+  "specialty_name": "Nidletäfeli",
+  "type": "Confiserie",
+  "description": "De petits caramels mous à base de crème et de sucre, qui s'émiettent avant de fondre délicatement en bouche. Une friandise profondément ancrée dans la mémoire collective bernoise.",
+  "preparation": "Porter à ébullition le sucre, la crème, le lait et le sucre vanillé, puis laisser mijoter à feu doux pendant une heure et demie à deux heures, en remuant presque constamment, jusqu'à ce que la masse épaississe et prenne une couleur dorée. Verser sur une plaque, étaler, puis couper en carrés une fois tiédie.",
+  "ingredients": [
+   "Sucre",
+   "crème entière",
+   "sucre vanillé",
+   "beurre"
+  ],
+  "locations": [
+   "Confiserie Eichenberger, Berne",
+   "Confiserie Tschirren, Berne",
+   "Beck Glatz Confiseur, Berne",
+   "Caramelier – Marktstand am Waisenhausplatz, Berne"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c4c",
+  "created_date": "2025-08-15T15:32:00.157000",
+  "updated_date": "2025-08-15T15:32:00.157000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Berne",
+  "specialty_name": "Suure Mocke",
+  "type": "Rôti",
+  "description": "Équivalent suisse du Sauerbraten allemand, c'est un rôti de bœuf braisé dans une marinade au vin rouge et au vinaigre. Cette longue marinade exhausse les saveurs et rend la viande exceptionnellement tendre.",
+  "preparation": "La préparation débute par une marinade de la viande pendant quatre à sept jours dans un mélange bouilli et refroidi de vin, vinaigre, légumes et épices. Après la marinade, la viande est séchée et dorée dans une cocotte. Les légumes de la marinade sont ensuite revenus, puis déglacés avec une partie de la marinade. La viande est replacée dans la cocotte et mijotée au four pendant environ trois heures. La sauce est épaissie avec de la fécule et peut être enrichie de crème.",
+  "ingredients": [
+   "Bœuf (rôti ou épaule)",
+   "vin rouge",
+   "vinaigre de vin rouge",
+   "carottes",
+   "oignons",
+   "épices (poivre, clous de girofle, laurier)"
+  ],
+  "locations": [
+   "Restaurant Klötzlikeller, Berne",
+   "Restaurant Goldener Schlüssel, Berne",
+   "Gasthof zum Brunnen, Fraubrunnen",
+   "Restaurant Hirschen, Langnau"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c49",
+  "created_date": "2025-08-15T15:32:00.157000",
+  "updated_date": "2025-08-15T15:32:00.157000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
   "canton_name": "Tessin",
   "specialty_name": "Risotto",
   "type": "Plat Principal",
@@ -2324,6 +2296,34 @@
   ],
   "image_url": null,
   "id": "689f52f00bcfc9043cc28c4e",
+  "created_date": "2025-08-15T15:32:00.157000",
+  "updated_date": "2025-08-15T15:32:00.157000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "canton_name": "Tessin",
+  "specialty_name": "Polenta",
+  "type": "Plat de Base",
+  "description": "Plat de base au Tessin, traditionnellement cuite sur un feu ouvert. Elle est souvent servie avec des fromages alpins, de la mortadelle, de la viande braisée ou des ragoûts.",
+  "preparation": "Ajouter la semoule de maïs à de l'eau bouillante salée et remuer fréquemment pendant 45 à 60 minutes jusqu'à ce qu'elle épaississe. Le fromage et le beurre sont incorporés juste avant de servir.",
+  "ingredients": [
+   "Semoule de maïs (polenta)",
+   "bouillon",
+   "Sbrinz ou Parmesan",
+   "beurre",
+   "sel aux herbes"
+  ],
+  "locations": [
+   "Grotto La Froda, Foroglio",
+   "Grottino Ticinese, Losone",
+   "Grotto Pozzasc, Peccia",
+   "Osteria Paradiso, Vogorno",
+   "Grotto La Baita, Magadino"
+  ],
+  "image_url": null,
+  "id": "689f52f00bcfc9043cc28c4d",
   "created_date": "2025-08-15T15:32:00.157000",
   "updated_date": "2025-08-15T15:32:00.157000",
   "created_by_id": "688f2ccb192c06d06024420a",

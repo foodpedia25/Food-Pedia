@@ -1,0 +1,26 @@
+{
+  "entities": [
+    "Product",
+    "Recipe",
+    "Beverage",
+    "Store",
+    "Country",
+    "User",
+    "CommunityRecipe",
+    "CommunityPost",
+    "CommunityMedia",
+    "SeasonalCollection",
+    "Newsletter",
+    "UserPreferences",
+    "Partnership",
+    "Review",
+    "Language",
+    "Translation",
+    "University",
+    "CantonSpecialty",
+    "CookingTip"
+  ],
+  "generated_at": "2025-09-13T20:34:07.540Z",
+  "total_entities": 19,
+  "description": "Food-Pedia App - Entités disponibles"
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Product",
+    "exported": true,
+    "recordCount": 1275
+  },
+  {
+    "name": "Recipe",
+    "exported": true,
+    "recordCount": 0
+  },
+  {
+    "name": "Beverage",
+    "exported": true,
+    "recordCount": 16
+  },
+  {
+    "name": "Store",
+    "exported": true,
+    "recordCount": 104
+  },
+  {
+    "name": "Country",
+    "exported": true,
+    "recordCount": 13
+  },
+  {
+    "name": "User",
+    "exported": true,
+    "recordCount": 6
+  },
+  {
+    "name": "CommunityRecipe",
+    "exported": true,
+    "recordCount": 0
+  },
+  {
+    "name": "CommunityPost",
+    "exported": true,
+    "recordCount": 0
+  },
+  {
+    "name": "SeasonalCollection",
+    "exported": true,
+    "recordCount": 5
+  },
+  {
+    "name": "UserFavorite",
+    "exported": true,
+    "recordCount": 0
+  },
+  {
+    "name": "Newsletter",
+    "exported": true,
+    "recordCount": 0
+  },
+  {
+    "name": "CookingTip",
+    "exported": true,
+    "recordCount": 6
+  },
+  {
+    "name": "Partnership",
+    "exported": true,
+    "recordCount": 7
+  },
+  {
+    "name": "Advertisement",
+    "exported": true,
+    "recordCount": 2
+  },
+  {
+    "name": "Review",
+    "exported": true,
+    "recordCount": 0
+  },
+  {
+    "name": "ProductPrice",
+    "exported": true,
+    "recordCount": 14
+  },
+  {
+    "name": "StoreAnalytics",
+    "exported": true,
+    "recordCount": 2
+  },
+  {
+    "name": "Translation",
+    "exported": true,
+    "recordCount": 15
+  },
+  {
+    "name": "Language",
+    "exported": true,
+    "recordCount": 10
+  },
+  {
+    "name": "University",
+    "exported": true,
+    "recordCount": 6
+  },
+  {
+    "name": "UserPreferences",
+    "exported": true,
+    "recordCount": 1
+  },
+  {
+    "name": "ProductAvailability",
+    "exported": true,
+    "recordCount": 16
+  },
+  {
+    "name": "CantonSpecialty",
+    "exported": true,
+    "recordCount": 87
+  },
+  {
+    "name": "CommunityMedia",
+    "exported": true,
+    "recordCount": 0
+  },
+  {
+    "name": "Comment",
+    "exported": true,
+    "recordCount": 0
+  },
+  {
+    "name": "RecipeReview",
+    "exported": true,
+    "recordCount": 0
+  },
+  {
+    "name": "Promotion",
+    "exported": true,
+    "recordCount": 3
+  },
+  {
+    "name": "SearchLog",
+    "exported": true,
+    "recordCount": 33
+  }
+]

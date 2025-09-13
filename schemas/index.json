@@ -1,102 +1,21 @@
 {
-  "generated_at": "2025-09-13T20:46:59.891Z",
-  "total_entities": 19,
-  "entities": [
-    {
-      "name": "Product",
-      "schema_file": "product-schema.json",
-      "data_file": "../data/product.json"
-    },
-    {
-      "name": "Recipe",
-      "schema_file": "recipe-schema.json",
-      "data_file": "../data/recipe.json"
-    },
-    {
-      "name": "Beverage",
-      "schema_file": "beverage-schema.json",
-      "data_file": "../data/beverage.json"
-    },
-    {
-      "name": "Store",
-      "schema_file": "store-schema.json",
-      "data_file": "../data/store.json"
-    },
-    {
-      "name": "Country",
-      "schema_file": "country-schema.json",
-      "data_file": "../data/country.json"
-    },
-    {
-      "name": "User",
-      "schema_file": "user-schema.json",
-      "data_file": "../data/user.json"
-    },
-    {
-      "name": "CommunityRecipe",
-      "schema_file": "communityrecipe-schema.json",
-      "data_file": "../data/communityrecipe.json"
-    },
-    {
-      "name": "CommunityPost",
-      "schema_file": "communitypost-schema.json",
-      "data_file": "../data/communitypost.json"
-    },
-    {
-      "name": "CommunityMedia",
-      "schema_file": "communitymedia-schema.json",
-      "data_file": "../data/communitymedia.json"
-    },
-    {
-      "name": "SeasonalCollection",
-      "schema_file": "seasonalcollection-schema.json",
-      "data_file": "../data/seasonalcollection.json"
-    },
-    {
-      "name": "Newsletter",
-      "schema_file": "newsletter-schema.json",
-      "data_file": "../data/newsletter.json"
-    },
-    {
-      "name": "UserPreferences",
-      "schema_file": "userpreferences-schema.json",
-      "data_file": "../data/userpreferences.json"
-    },
-    {
-      "name": "Partnership",
-      "schema_file": "partnership-schema.json",
-      "data_file": "../data/partnership.json"
-    },
-    {
-      "name": "Review",
-      "schema_file": "review-schema.json",
-      "data_file": "../data/review.json"
-    },
-    {
-      "name": "Language",
-      "schema_file": "language-schema.json",
-      "data_file": "../data/language.json"
-    },
-    {
-      "name": "Translation",
-      "schema_file": "translation-schema.json",
-      "data_file": "../data/translation.json"
-    },
-    {
-      "name": "University",
-      "schema_file": "university-schema.json",
-      "data_file": "../data/university.json"
-    },
-    {
-      "name": "CantonSpecialty",
-      "schema_file": "cantonspecialty-schema.json",
-      "data_file": "../data/cantonspecialty.json"
-    },
-    {
-      "name": "CookingTip",
-      "schema_file": "cookingtip-schema.json",
-      "data_file": "../data/cookingtip.json"
-    }
-  ],
-  "description": "Food-Pedia App - Index complet des schémas d'entités"
+  "Product": "./product-schema.json",
+  "Recipe": "./recipe-schema.json",
+  "Beverage": "./beverage-schema.json",
+  "Store": "./store-schema.json",
+  "Country": "./country-schema.json",
+  "User": "./user-schema.json",
+  "CommunityRecipe": "./communityrecipe-schema.json",
+  "CommunityPost": "./communitypost-schema.json",
+  "CommunityMedia": "./communitymedia-schema.json",
+  "SeasonalCollection": "./seasonalcollection-schema.json",
+  "Newsletter": "./newsletter-schema.json",
+  "UserPreferences": "./userpreferences-schema.json",
+  "Partnership": "./partnership-schema.json",
+  "Review": "./review-schema.json",
+  "Language": "./language-schema.json",
+  "Translation": "./translation-schema.json",
+  "University": "./university-schema.json",
+  "CantonSpecialty": "./cantonspecialty-schema.json",
+  "CookingTip": "./cookingtip-schema.json"
 }

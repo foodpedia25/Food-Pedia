@@ -1350,7 +1350,8 @@
    "68c4b61afedbc60ca3aee611",
    "68c4b61c0e0732f4d5416a92",
    "68c4b61e591f22148018d1e0",
-   "68c4b62061f2622360cbcb08"
+   "68c4b62061f2622360cbcb08",
+   "68c5b4056a5f03806eb58266"
   ],
   "product_ids": [
    "3",
@@ -1361,7 +1362,7 @@
   "end_date": "2024-08-31",
   "id": "68928c14ea4925811ffbdc33",
   "created_date": "2025-08-05T22:56:20.006000",
-  "updated_date": "2025-09-13T00:09:06.215000",
+  "updated_date": "2025-09-13T18:12:22.531000",
   "created_by_id": "688f2ccb192c06d06024420a",
   "created_by": "zubair_zm@hotmail.com",
   "is_sample": false

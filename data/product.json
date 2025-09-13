@@ -1,5 +1,99 @@
 [
  {
+  "name": "cardamome",
+  "description": "La cardamome est une épice prisée, reconnue pour son arôme unique et ses multiples bienfaits pour la santé. Originaire des forêts tropicales de l'Inde et du Sri Lanka, elle est utilisée dans diverses cuisines du monde entier, tant pour ses qualités gustatives que médicinales.",
+  "category": "spices",
+  "subcategory": null,
+  "origin_country": "Inde",
+  "origin_region": null,
+  "season": null,
+  "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
+  "varieties": [
+   {
+    "name": "Cardamome verte",
+    "description": "La cardamome verte est la variété la plus courante, appréciée pour son arôme frais et légèrement sucré. Elle est souvent utilisée dans les desserts, les boissons et les plats salés.",
+    "characteristics": null
+   },
+   {
+    "name": "Cardamome noire",
+    "description": "La cardamome noire a un goût plus intense et fumé, idéale pour les plats épicés et les mélanges de curry.",
+    "characteristics": null
+   }
+  ],
+  "nutritional_info": {
+   "calories_per_100g": 311,
+   "protein": 10.76,
+   "carbs": 68.49,
+   "fat": 6.7,
+   "fiber": null,
+   "vitamins": [],
+   "minerals": []
+  },
+  "allergens": [],
+  "storage_instructions": null,
+  "preparation_tips": [],
+  "culinary_uses": [],
+  "flavor_profile": null,
+  "tags": [
+   "recherche-ia",
+   "cardamome"
+  ],
+  "is_premium": false,
+  "id": "68c5b401cf2fdf35c8ea291f",
+  "created_date": "2025-09-13T18:12:17.197000",
+  "updated_date": "2025-09-13T18:12:17.197000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "name": "cumin seeds",
+  "description": "Cumin seeds are small, boat-shaped fruits from the Cuminum cyminum plant, known for their warm, earthy flavor and aroma. They are a staple in various cuisines worldwide, including Indian, Middle Eastern, and Latin American, and are used both whole and ground to enhance the taste of numerous dishes.",
+  "category": "spices",
+  "subcategory": null,
+  "origin_country": "Egypt",
+  "origin_region": null,
+  "season": null,
+  "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
+  "varieties": [
+   {
+    "name": "Brownish-yellow cumin",
+    "description": "The most common variety, featuring a warm, earthy flavor and aroma.",
+    "characteristics": null
+   },
+   {
+    "name": "Black cumin",
+    "description": "A less common variety with a slightly different flavor profile, used in certain regional cuisines.",
+    "characteristics": null
+   }
+  ],
+  "nutritional_info": {
+   "calories_per_100g": 375,
+   "protein": 17.8,
+   "carbs": 44.2,
+   "fat": 22.3,
+   "fiber": null,
+   "vitamins": [],
+   "minerals": []
+  },
+  "allergens": [],
+  "storage_instructions": null,
+  "preparation_tips": [],
+  "culinary_uses": [],
+  "flavor_profile": null,
+  "tags": [
+   "recherche-ia",
+   "cumin seeds"
+  ],
+  "is_premium": false,
+  "id": "68c5873acef9a2eea13cb78a",
+  "created_date": "2025-09-13T15:01:14.004000",
+  "updated_date": "2025-09-13T15:01:14.004000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
   "name": "jarrat d'agneau",
   "description": "Le jarrat d'agneau est une pièce de viande tendre et savoureuse, issue de l'épaule de l'agneau. Idéale pour des plats mijotés ou rôtis, elle offre une texture fondante et un goût riche qui ravira les amateurs de viande.",
   "category": "red_meat",
@@ -14131,100 +14225,6 @@
   "id": "68b92a8f7d6acdc2e369804e",
   "created_date": "2025-09-04T05:58:39.145000",
   "updated_date": "2025-09-04T05:58:39.145000",
-  "created_by_id": "689b534365205af1581e8462",
-  "created_by": "info@food-pedia.ch",
-  "is_sample": false
- },
- {
-  "name": "Noix de cajou (enveloppe brune)",
-  "description": "La noix de cajou est une graine oléagineuse au goût fin, enveloppée d'une coque brune dure. Originaire du Brésil, elle est largement cultivée dans les régions tropicales et est appréciée pour sa saveur délicate et sa texture croquante.",
-  "category": "fruits",
-  "subcategory": null,
-  "origin_country": "Brésil",
-  "origin_region": null,
-  "season": null,
-  "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
-  "varieties": [
-   {
-    "name": "Noix de cajou brute",
-    "description": "Noix non décortiquée, nécessitant un traitement thermique pour éliminer la résine toxique présente dans la coque.",
-    "characteristics": null
-   },
-   {
-    "name": "Noix de cajou grillée",
-    "description": "Noix décortiquée et grillée, prête à la consommation, souvent salée ou nature.",
-    "characteristics": null
-   }
-  ],
-  "nutritional_info": {
-   "calories_per_100g": 553,
-   "protein": 18.2,
-   "carbs": 30.2,
-   "fat": 43.9,
-   "fiber": null,
-   "vitamins": [],
-   "minerals": []
-  },
-  "allergens": [],
-  "storage_instructions": null,
-  "preparation_tips": [],
-  "culinary_uses": [],
-  "flavor_profile": null,
-  "tags": [
-   "recherche-ia",
-   "noix de cajou (enveloppe brune)"
-  ],
-  "is_premium": false,
-  "id": "68b92a480d6ec9fc45510837",
-  "created_date": "2025-09-04T05:57:28.188000",
-  "updated_date": "2025-09-04T05:57:28.188000",
-  "created_by_id": "689b534365205af1581e8462",
-  "created_by": "info@food-pedia.ch",
-  "is_sample": false
- },
- {
-  "name": "Noix de cajou",
-  "description": "La noix de cajou, ou anacarde, est la graine comestible de l'anacardier, un arbre originaire d'Amérique tropicale. Elle est prisée pour sa saveur douce et sa texture croquante, tant en tant qu'en-cas qu'en ingrédient culinaire.",
-  "category": "ingredients_other",
-  "subcategory": null,
-  "origin_country": "Brésil",
-  "origin_region": null,
-  "season": null,
-  "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
-  "varieties": [
-   {
-    "name": "Noix de cajou brute",
-    "description": "Noix non traitées, nécessitant un décorticage avant consommation.",
-    "characteristics": null
-   },
-   {
-    "name": "Noix de cajou grillée",
-    "description": "Noix torréfiées, souvent salées, prêtes à être dégustées.",
-    "characteristics": null
-   }
-  ],
-  "nutritional_info": {
-   "calories_per_100g": 553,
-   "protein": 18.2,
-   "carbs": 30.2,
-   "fat": 43.9,
-   "fiber": null,
-   "vitamins": [],
-   "minerals": []
-  },
-  "allergens": [],
-  "storage_instructions": null,
-  "preparation_tips": [],
-  "culinary_uses": [],
-  "flavor_profile": null,
-  "tags": [
-   "recherche-ia",
-   "noix de cajou"
-  ],
-  "is_premium": false,
-  "id": "68b92a233fae8e730a66714c",
-  "created_date": "2025-09-04T05:56:51.665000",
-  "updated_date": "2025-09-04T05:56:51.665000",
   "created_by_id": "689b534365205af1581e8462",
   "created_by": "info@food-pedia.ch",
   "is_sample": false

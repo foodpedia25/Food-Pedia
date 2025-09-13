@@ -1,5 +1,52 @@
 [
   {
+    "name": "pumpkin",
+    "description": "Pumpkins are versatile, nutrient-rich fruits celebrated for their vibrant orange color and sweet, earthy flavor. They're a staple in autumn cuisine, featured in both sweet and savory dishes worldwide.",
+    "category": "fruits",
+    "subcategory": null,
+    "origin_country": "United States",
+    "origin_region": null,
+    "season": null,
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
+    "varieties": [
+      {
+        "name": "Cinderella",
+        "description": "A French heirloom variety with a deep orange hue and flattened shape, known for its sweet flavor and tender flesh.",
+        "characteristics": null
+      },
+      {
+        "name": "Sugar Pie",
+        "description": "A small, round pumpkin variety prized for its smooth texture and rich sweetness, ideal for pies and baking.",
+        "characteristics": null
+      }
+    ],
+    "nutritional_info": {
+      "calories_per_100g": 26,
+      "protein": 1,
+      "carbs": 7,
+      "fat": 0.1,
+      "fiber": null,
+      "vitamins": [],
+      "minerals": []
+    },
+    "allergens": [],
+    "storage_instructions": null,
+    "preparation_tips": [],
+    "culinary_uses": [],
+    "flavor_profile": null,
+    "tags": [
+      "recherche-ia",
+      "pumpkin"
+    ],
+    "is_premium": false,
+    "id": "68c5fffa93fdbe5f1b6b53ee",
+    "created_date": "2025-09-13T23:36:26.622000",
+    "updated_date": "2025-09-13T23:36:26.622000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
     "name": "poivre au citron",
     "description": "Poivre au citron is a flavorful seasoning blend that combines the zestiness of lemon with the sharpness of black pepper. This versatile mix enhances a variety of dishes, adding a refreshing citrusy kick to your meals.",
     "category": "condiments",
@@ -23688,53 +23735,6 @@
     "id": "68b7e93635e1fe20b948dae8",
     "created_date": "2025-09-03T07:07:34.190000",
     "updated_date": "2025-09-03T07:07:34.190000",
-    "created_by_id": "689b534365205af1581e8462",
-    "created_by": "info@food-pedia.ch",
-    "is_sample": false
-  },
-  {
-    "name": "Les clous de girofle",
-    "description": "Les clous de girofle sont les boutons floraux séchés du giroflier, un arbre tropical originaire des îles Moluques en Indonésie. ([fr.wikipedia.org](https://fr.wikipedia.org/wiki/Clou_de_girofle?utm_source=openai)) Ils possèdent une saveur intense, légèrement sucrée et piquante, avec des notes boisées et fruitées, et sont utilisés dans de nombreuses cuisines à travers le monde pour parfumer aussi bien les plats salés que sucrés.",
-    "category": "spices",
-    "subcategory": null,
-    "origin_country": "Indonésie",
-    "origin_region": null,
-    "season": null,
-    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
-    "varieties": [
-      {
-        "name": "Clou de girofle entier",
-        "description": "Clous de girofle non moulus, utilisés pour parfumer les plats pendant la cuisson et retirés avant de servir.",
-        "characteristics": null
-      },
-      {
-        "name": "Clou de girofle moulu",
-        "description": "Clous de girofle réduits en poudre, utilisés pour assaisonner les plats et les pâtisseries.",
-        "characteristics": null
-      }
-    ],
-    "nutritional_info": {
-      "calories_per_100g": 300,
-      "protein": 5,
-      "carbs": 20,
-      "fat": 15,
-      "fiber": null,
-      "vitamins": [],
-      "minerals": []
-    },
-    "allergens": [],
-    "storage_instructions": null,
-    "preparation_tips": [],
-    "culinary_uses": [],
-    "flavor_profile": null,
-    "tags": [
-      "recherche-ia",
-      "les clous de girofle"
-    ],
-    "is_premium": false,
-    "id": "68b7e8d57e56811b0f6c8f46",
-    "created_date": "2025-09-03T07:05:57.870000",
-    "updated_date": "2025-09-03T07:05:57.870000",
     "created_by_id": "689b534365205af1581e8462",
     "created_by": "info@food-pedia.ch",
     "is_sample": false

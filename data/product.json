@@ -1,5 +1,52 @@
 [
   {
+    "name": "eggplant",
+    "description": "Eggplant, also known as aubergine, is a versatile fruit from the nightshade family, celebrated for its rich, slightly bitter flavor and spongy texture. It is a staple in various cuisines worldwide, from Mediterranean to Asian, and can be prepared in numerous ways, including roasting, grilling, frying, and baking.",
+    "category": "vegetables",
+    "subcategory": null,
+    "origin_country": "India",
+    "origin_region": null,
+    "season": null,
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
+    "varieties": [
+      {
+        "name": "Black Beauty",
+        "description": "A traditional variety with large, glossy purple-black fruits, commonly used in various dishes.",
+        "characteristics": null
+      },
+      {
+        "name": "Casper",
+        "description": "A unique variety featuring cylindrical, 6-inch snow-white fruits with a mild, mushroom-like flavor.",
+        "characteristics": null
+      }
+    ],
+    "nutritional_info": {
+      "calories_per_100g": 25,
+      "protein": 1,
+      "carbs": 6,
+      "fat": 0.2,
+      "fiber": null,
+      "vitamins": [],
+      "minerals": []
+    },
+    "allergens": [],
+    "storage_instructions": null,
+    "preparation_tips": [],
+    "culinary_uses": [],
+    "flavor_profile": null,
+    "tags": [
+      "recherche-ia",
+      "eggplant"
+    ],
+    "is_premium": false,
+    "id": "68c600ea0255d590aecf2827",
+    "created_date": "2025-09-13T23:40:26.115000",
+    "updated_date": "2025-09-13T23:40:26.115000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
     "name": "pumpkin",
     "description": "Pumpkins are versatile, nutrient-rich fruits celebrated for their vibrant orange color and sweet, earthy flavor. They're a staple in autumn cuisine, featured in both sweet and savory dishes worldwide.",
     "category": "fruits",
@@ -23688,53 +23735,6 @@
     "id": "68b7e97824131e27256a98f4",
     "created_date": "2025-09-03T07:08:40.268000",
     "updated_date": "2025-09-03T07:08:40.268000",
-    "created_by_id": "689b534365205af1581e8462",
-    "created_by": "info@food-pedia.ch",
-    "is_sample": false
-  },
-  {
-    "name": "Cannelle de Ceylan",
-    "description": "La cannelle de Ceylan, également connue sous le nom de 'vraie cannelle', est une épice précieuse originaire du Sri Lanka. Elle se distingue par son goût délicat, légèrement sucré, avec des notes d'agrumes et de clou de girofle, offrant une saveur plus subtile que la cannelle de Chine.",
-    "category": "spices",
-    "subcategory": null,
-    "origin_country": "Sri Lanka",
-    "origin_region": null,
-    "season": null,
-    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
-    "varieties": [
-      {
-        "name": "Cannelle de Ceylan en bâtons",
-        "description": "Bâtons fins et friables, constitués de plusieurs couches d'écorce, utilisés pour infuser des boissons ou parfumer des plats.",
-        "characteristics": null
-      },
-      {
-        "name": "Cannelle de Ceylan en poudre",
-        "description": "Forme moulue de la cannelle, idéale pour incorporer directement dans les recettes de pâtisserie ou de cuisine.",
-        "characteristics": null
-      }
-    ],
-    "nutritional_info": {
-      "calories_per_100g": 300,
-      "protein": 5,
-      "carbs": 20,
-      "fat": 15,
-      "fiber": null,
-      "vitamins": [],
-      "minerals": []
-    },
-    "allergens": [],
-    "storage_instructions": null,
-    "preparation_tips": [],
-    "culinary_uses": [],
-    "flavor_profile": null,
-    "tags": [
-      "recherche-ia",
-      "cannelle de ceylan"
-    ],
-    "is_premium": false,
-    "id": "68b7e93635e1fe20b948dae8",
-    "created_date": "2025-09-03T07:07:34.190000",
-    "updated_date": "2025-09-03T07:07:34.190000",
     "created_by_id": "689b534365205af1581e8462",
     "created_by": "info@food-pedia.ch",
     "is_sample": false

@@ -1,5 +1,114 @@
 [
  {
+  "name": "poivre au citron",
+  "description": "Poivre au citron is a flavorful seasoning blend that combines the zestiness of lemon with the sharpness of black pepper. This versatile mix enhances a variety of dishes, adding a refreshing citrusy kick to your meals.",
+  "category": "condiments",
+  "subcategory": null,
+  "origin_country": "France",
+  "origin_region": null,
+  "season": null,
+  "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
+  "varieties": [
+   {
+    "name": "McCormick Poivre au Citron",
+    "description": "A blend of black pepper, sea salt, dehydrated lemon peel, and natural lemon flavor, ideal for seafood, poultry, and desserts. ([mccormickforchefs.com](https://www.mccormickforchefs.com/fr-ch/marques-et-produits/mccormick/mccormick-poivre-au-citron?utm_source=openai))",
+    "characteristics": null
+   },
+   {
+    "name": "Chef's Club Poivre au Citron",
+    "description": "Combines spices, salt, sugar, dehydrated vegetables (garlic, onion), lemon juice and zest, citric acid, dextrose, canola oil, lemon oil, colorant, and spice extracts, perfect for fish and seafood. ([chefsclub.ca](https://www.chefsclub.ca/poivre-citron.html?utm_source=openai))",
+    "characteristics": null
+   },
+   {
+    "name": "Épices Anatol Poivre au Citron",
+    "description": "A mix of spices, salt, sugar, garlic and onion powder, lemon juice and zest, citric acid, dextrose, canola oil, lemon oil, spice extracts, colorant, and silica, suitable for vegetables, fish, and meats. ([epicesanatol.com](https://www.epicesanatol.com/fr/epices/poivre-au-citron/?utm_source=openai))",
+    "characteristics": null
+   },
+   {
+    "name": "Les Savoureux Sel & Poivre au Citron",
+    "description": "Features sea salt, lemon zest, black pepper, garlic powder, onion powder, and citric acid, ideal for salads, fish, poultry, and vegetables. ([lessavoureux.com](https://lessavoureux.com/products/sel-poivre-citron-lemon-pepper-salt?utm_source=openai))",
+    "characteristics": null
+   },
+   {
+    "name": "A Spice Affair Poivre au Citron",
+    "description": "Contains black pepper, raw brown sugar, sea salt, onion, lemon peel, garlic, natural flavor, turmeric, and citric acid, perfect for seafood, poultry, and vegetables. ([aspiceaffair.com](https://aspiceaffair.com/fr/products/lemon-pepper?srsltid=AfmBOopCpQoqzFe67eCSqL8csswGDpqNpv_8f6Xky_fP-7c8XgK56oGV&utm_source=openai))",
+    "characteristics": null
+   }
+  ],
+  "nutritional_info": {
+   "calories_per_100g": 300,
+   "protein": 5,
+   "carbs": 20,
+   "fat": 15,
+   "fiber": null,
+   "vitamins": [],
+   "minerals": []
+  },
+  "allergens": [],
+  "storage_instructions": null,
+  "preparation_tips": [],
+  "culinary_uses": [],
+  "flavor_profile": null,
+  "tags": [
+   "recherche-ia",
+   "poivre au citron"
+  ],
+  "is_premium": false,
+  "id": "68c5cbb351475fe8f53fa986",
+  "created_date": "2025-09-13T19:53:23.802000",
+  "updated_date": "2025-09-13T19:53:23.802000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
+  "name": "fenouil",
+  "description": "Le fenouil est une plante aromatique originaire du bassin méditerranéen, prisée pour son bulbe blanc et ses feuilles vertes finement découpées. Son goût anisé unique en fait un ingrédient polyvalent en cuisine, utilisé tant cru que cuit, pour parfumer une variété de plats.",
+  "category": "herbes",
+  "subcategory": null,
+  "origin_country": "France",
+  "origin_region": null,
+  "season": null,
+  "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
+  "varieties": [
+   {
+    "name": "Fenouil doux",
+    "description": "Cette variété est caractérisée par un bulbe plus sucré et tendre, idéale pour les salades fraîches.",
+    "characteristics": null
+   },
+   {
+    "name": "Fenouil sauvage",
+    "description": "Plus aromatique, cette variété pousse à l'état sauvage et est souvent utilisée pour parfumer les plats méditerranéens.",
+    "characteristics": null
+   }
+  ],
+  "nutritional_info": {
+   "calories_per_100g": 31,
+   "protein": 1.2,
+   "carbs": 7.3,
+   "fat": 0.2,
+   "fiber": null,
+   "vitamins": [],
+   "minerals": []
+  },
+  "allergens": [],
+  "storage_instructions": null,
+  "preparation_tips": [],
+  "culinary_uses": [],
+  "flavor_profile": null,
+  "tags": [
+   "recherche-ia",
+   "fenouil"
+  ],
+  "is_premium": false,
+  "id": "68c5b7c703b0fcf80c499f52",
+  "created_date": "2025-09-13T18:28:23.687000",
+  "updated_date": "2025-09-13T18:28:23.687000",
+  "created_by_id": "688f2ccb192c06d06024420a",
+  "created_by": "zubair_zm@hotmail.com",
+  "is_sample": false
+ },
+ {
   "name": "cardamome",
   "description": "La cardamome est une épice prisée, reconnue pour son arôme unique et ses multiples bienfaits pour la santé. Originaire des forêts tropicales de l'Inde et du Sri Lanka, elle est utilisée dans diverses cuisines du monde entier, tant pour ses qualités gustatives que médicinales.",
   "category": "spices",
@@ -14131,100 +14240,6 @@
   "id": "68b92b218183bf19099954f8",
   "created_date": "2025-09-04T06:01:05.209000",
   "updated_date": "2025-09-04T06:01:05.209000",
-  "created_by_id": "689b534365205af1581e8462",
-  "created_by": "info@food-pedia.ch",
-  "is_sample": false
- },
- {
-  "name": "Le bois d’aloes",
-  "description": "Le bois d’aloes, également connu sous le nom de bois d’aigle ou calambac, est une résine précieuse produite par certains arbres du genre Aquilaria. Originaire des forêts tropicales d’Asie du Sud-Est, ce bois est prisé pour son parfum envoûtant et ses propriétés médicinales.",
-  "category": "specialty_items",
-  "subcategory": null,
-  "origin_country": "Vietnam",
-  "origin_region": null,
-  "season": null,
-  "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
-  "varieties": [
-   {
-    "name": "Calambac",
-    "description": "Bois d’aloes de haute qualité, dense et très parfumé, utilisé principalement pour la fabrication de meubles précieux.",
-    "characteristics": null
-   },
-   {
-    "name": "Calambour",
-    "description": "Variante de bois d’aloes, moins résineuse, utilisée pour la fabrication de meubles et d’objets décoratifs.",
-    "characteristics": null
-   }
-  ],
-  "nutritional_info": {
-   "calories_per_100g": 0,
-   "protein": 0,
-   "carbs": 0,
-   "fat": 0,
-   "fiber": null,
-   "vitamins": [],
-   "minerals": []
-  },
-  "allergens": [],
-  "storage_instructions": null,
-  "preparation_tips": [],
-  "culinary_uses": [],
-  "flavor_profile": null,
-  "tags": [
-   "recherche-ia",
-   "le bois d’aloes"
-  ],
-  "is_premium": false,
-  "id": "68b92ab6ac71b870c29ca44d",
-  "created_date": "2025-09-04T05:59:18.266000",
-  "updated_date": "2025-09-04T05:59:18.266000",
-  "created_by_id": "689b534365205af1581e8462",
-  "created_by": "info@food-pedia.ch",
-  "is_sample": false
- },
- {
-  "name": "Noix de lotus",
-  "description": "La noix de lotus, issue du lotus sacré (Nelumbo nucifera), est une graine comestible prisée dans de nombreuses cuisines asiatiques. Elle est appréciée pour sa texture croquante et son goût délicat, et est utilisée dans une variété de plats sucrés et salés.",
-  "category": "ingredients_other",
-  "subcategory": null,
-  "origin_country": "Asie",
-  "origin_region": null,
-  "season": null,
-  "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
-  "varieties": [
-   {
-    "name": "Graine de lotus brune",
-    "description": "Récoltée lorsque la tête de la graine est mûre ou presque mûre, cette variété est caractérisée par une peau brune due à l'adhérence de la graine à sa membrane.",
-    "characteristics": null
-   },
-   {
-    "name": "Graine de lotus blanche",
-    "description": "Cueillie lorsque la tête de la graine est encore verte mais avec des graines presque entièrement développées, cette variété est plus tendre et sucrée.",
-    "characteristics": null
-   }
-  ],
-  "nutritional_info": {
-   "calories_per_100g": 350,
-   "protein": 15,
-   "carbs": 60,
-   "fat": 2,
-   "fiber": null,
-   "vitamins": [],
-   "minerals": []
-  },
-  "allergens": [],
-  "storage_instructions": null,
-  "preparation_tips": [],
-  "culinary_uses": [],
-  "flavor_profile": null,
-  "tags": [
-   "recherche-ia",
-   "noix de lotus"
-  ],
-  "is_premium": false,
-  "id": "68b92a8f7d6acdc2e369804e",
-  "created_date": "2025-09-04T05:58:39.145000",
-  "updated_date": "2025-09-04T05:58:39.145000",
   "created_by_id": "689b534365205af1581e8462",
   "created_by": "info@food-pedia.ch",
   "is_sample": false

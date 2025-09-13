@@ -1,5 +1,201 @@
 [
   {
+    "name": "France",
+    "iso_code": "FR",
+    "continent": "Europe",
+    "flag_emoji": "🇫🇷",
+    "cuisine_description": "French cuisine is renowned for its finesse and flavor. It is a style of cooking derived from centuries of political and social change. The Middle Ages brought lavish banquets to the upper class, while the French Revolution led to a more modern, less spice-heavy style.",
+    "signature_dishes": [
+      "Coq au Vin",
+      "Boeuf Bourguignon",
+      "Soufflé",
+      "Croissant"
+    ],
+    "key_ingredients": [
+      "Butter",
+      "Wine",
+      "Cheese",
+      "Herbs de Provence",
+      "Baguette"
+    ],
+    "cooking_methods": [],
+    "food_culture": "In France, cuisine is a matter of national pride. The 'gastronomic meal of the French' was added to UNESCO's list of Intangible Cultural Heritage, celebrating it as a social custom for celebrating important moments.",
+    "id": "6891aa2fcce776cb04766916",
+    "created_date": "2025-08-05T06:52:31.054000",
+    "updated_date": "2025-08-05T06:52:31.054000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "name": "Thailand",
+    "iso_code": "TH",
+    "continent": "Asia",
+    "flag_emoji": "🇹🇭",
+    "cuisine_description": "Thai cooking places emphasis on lightly prepared dishes with strong aromatic components and a spicy edge. It is known for its intricate interplay of at least three and up to four or five fundamental taste senses: sweet, sour, salty, bitter, and spicy.",
+    "signature_dishes": [
+      "Pad Thai",
+      "Tom Yum Goong",
+      "Green Curry",
+      "Mango Sticky Rice"
+    ],
+    "key_ingredients": [
+      "Lemongrass",
+      "Galangal",
+      "Kaffir lime leaves",
+      "Fish sauce",
+      "Coconut milk"
+    ],
+    "cooking_methods": [],
+    "food_culture": "Thai food is meant to be shared. A family-style meal will often consist of rice with several dishes that form a harmonious contrast of flavors and textures, all served at once.",
+    "id": "6891aa2fcce776cb04766917",
+    "created_date": "2025-08-05T06:52:31.054000",
+    "updated_date": "2025-08-05T06:52:31.054000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "name": "Spain",
+    "iso_code": "ES",
+    "continent": "Europe",
+    "flag_emoji": "🇪🇸",
+    "cuisine_description": "Spanish cuisine consists of a great variety of dishes which stem from the differences in geography, culture and climate. It is heavily influenced by seafood available from the waters that surround the country, and reflects the country's deep history.",
+    "signature_dishes": [
+      "Paella",
+      "Jamón Ibérico",
+      "Gazpacho",
+      "Patatas Bravas"
+    ],
+    "key_ingredients": [
+      "Olive oil",
+      "Garlic",
+      "Saffron",
+      "Paprika",
+      "Serrano ham"
+    ],
+    "cooking_methods": [],
+    "food_culture": "Tapas culture is a hallmark of Spanish life, where small savory dishes are shared among friends in bars. The main meal of the day, 'la comida', is typically eaten around 2-3 PM.",
+    "id": "6891aa2fcce776cb04766918",
+    "created_date": "2025-08-05T06:52:31.054000",
+    "updated_date": "2025-08-05T06:52:31.054000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "name": "India",
+    "iso_code": "IN",
+    "continent": "Asia",
+    "flag_emoji": "🇮🇳",
+    "cuisine_description": "Indian cuisine consists of a variety of regional and traditional cuisines native to the Indian subcontinent. Given the diversity in soil, climate, culture, ethnic groups, and occupations, these cuisines vary substantially and use locally available spices, herbs, vegetables, and fruits.",
+    "signature_dishes": [
+      "Butter Chicken",
+      "Biryani",
+      "Samosa",
+      "Masala Dosa"
+    ],
+    "key_ingredients": [
+      "Turmeric",
+      "Cumin",
+      "Coriander",
+      "Lentils",
+      "Basmati rice"
+    ],
+    "cooking_methods": [],
+    "food_culture": "Indian food culture is characterized by its sophisticated use of spices and herbs, a wide assortment of breads (roti, naan), and the practice of vegetarianism in several communities.",
+    "id": "6891aa2fcce776cb04766915",
+    "created_date": "2025-08-05T06:52:31.053000",
+    "updated_date": "2025-08-05T06:52:31.053000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "name": "Mexico",
+    "iso_code": "MX",
+    "continent": "North America",
+    "flag_emoji": "🇲🇽",
+    "cuisine_description": "Mexican cuisine is a complex and ancient cuisine, with techniques and skills developed over thousands of years of history. It is created mostly with ingredients native to Mexico, as well as those brought over by the Spanish conquistadors.",
+    "signature_dishes": [
+      "Tacos al Pastor",
+      "Mole Poblano",
+      "Chiles Rellenos",
+      "Guacamole"
+    ],
+    "key_ingredients": [
+      "Corn (Maize)",
+      "Chili peppers",
+      "Beans",
+      "Avocado",
+      "Cilantro"
+    ],
+    "cooking_methods": [],
+    "food_culture": "Mexican food is a social event. It is common for families to gather and cook together, passing down recipes through generations. It was recognized by UNESCO as an Intangible Cultural Heritage of Humanity.",
+    "id": "6891aa2fcce776cb04766914",
+    "created_date": "2025-08-05T06:52:31.053000",
+    "updated_date": "2025-08-05T06:52:31.053000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "name": "Italy",
+    "iso_code": "IT",
+    "continent": "Europe",
+    "flag_emoji": "🇮🇹",
+    "cuisine_description": "Italian cuisine is characterized by its simplicity, with many dishes having only two to four main ingredients. Italian cooks rely chiefly on the quality of the ingredients rather than on elaborate preparation.",
+    "signature_dishes": [
+      "Pizza Margherita",
+      "Spaghetti Carbonara",
+      "Lasagna",
+      "Risotto"
+    ],
+    "key_ingredients": [
+      "Olive oil",
+      "Tomatoes",
+      "Basil",
+      "Parmigiano-Reggiano",
+      "Pasta"
+    ],
+    "cooking_methods": [],
+    "food_culture": "Food is a central part of Italian culture, with long, leisurely meals shared with family and friends being a common practice. Regional differences are a hallmark of Italian cuisine.",
+    "id": "6891aa2fcce776cb04766912",
+    "created_date": "2025-08-05T06:52:31.053000",
+    "updated_date": "2025-08-05T06:52:31.053000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "name": "Japan",
+    "iso_code": "JP",
+    "continent": "Asia",
+    "flag_emoji": "🇯🇵",
+    "cuisine_description": "Japanese cuisine is based on combining staple foods, typically Japanese rice or noodles, with a soup and okazu — dishes made from fish, vegetable, tofu, and the like — to add flavor to the staple food.",
+    "signature_dishes": [
+      "Sushi",
+      "Ramen",
+      "Tempura",
+      "Udon"
+    ],
+    "key_ingredients": [
+      "Rice",
+      "Soy sauce",
+      "Miso",
+      "Wasabi",
+      "Seaweed (Nori)"
+    ],
+    "cooking_methods": [],
+    "food_culture": "Japanese food culture is deeply intertwined with respect for seasons, presentation (moritsuke), and a balance of flavors and textures, often summarized by the principle of 'washoku'.",
+    "id": "6891aa2fcce776cb04766913",
+    "created_date": "2025-08-05T06:52:31.053000",
+    "updated_date": "2025-08-05T06:52:31.053000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
     "name": "India",
     "iso_code": "IN",
     "continent": "Asia",
@@ -259,202 +455,6 @@
     "id": "689033787b0dd3dd56ed28f4",
     "created_date": "2025-08-04T04:13:44.460000",
     "updated_date": "2025-08-04T04:13:44.460000",
-    "created_by_id": "688f2ccb192c06d06024420a",
-    "created_by": "zubair_zm@hotmail.com",
-    "is_sample": false
-  },
-  {
-    "name": "India",
-    "iso_code": "IN",
-    "continent": "Asia",
-    "flag_emoji": "🇮🇳",
-    "cuisine_description": "Indian cuisine consists of a variety of regional and traditional cuisines native to the Indian subcontinent. Given the diversity in soil, climate, culture, ethnic groups, and occupations, these cuisines vary substantially and use locally available spices, herbs, vegetables, and fruits.",
-    "signature_dishes": [
-      "Butter Chicken",
-      "Biryani",
-      "Samosa",
-      "Masala Dosa"
-    ],
-    "key_ingredients": [
-      "Turmeric",
-      "Cumin",
-      "Coriander",
-      "Lentils",
-      "Basmati rice"
-    ],
-    "cooking_methods": [],
-    "food_culture": "Indian food culture is characterized by its sophisticated use of spices and herbs, a wide assortment of breads (roti, naan), and the practice of vegetarianism in several communities.",
-    "id": "6891aa2fcce776cb04766915",
-    "created_date": "2025-08-05T06:52:31.053000",
-    "updated_date": "2025-08-05T06:52:31.053000",
-    "created_by_id": "688f2ccb192c06d06024420a",
-    "created_by": "zubair_zm@hotmail.com",
-    "is_sample": false
-  },
-  {
-    "name": "France",
-    "iso_code": "FR",
-    "continent": "Europe",
-    "flag_emoji": "🇫🇷",
-    "cuisine_description": "French cuisine is renowned for its finesse and flavor. It is a style of cooking derived from centuries of political and social change. The Middle Ages brought lavish banquets to the upper class, while the French Revolution led to a more modern, less spice-heavy style.",
-    "signature_dishes": [
-      "Coq au Vin",
-      "Boeuf Bourguignon",
-      "Soufflé",
-      "Croissant"
-    ],
-    "key_ingredients": [
-      "Butter",
-      "Wine",
-      "Cheese",
-      "Herbs de Provence",
-      "Baguette"
-    ],
-    "cooking_methods": [],
-    "food_culture": "In France, cuisine is a matter of national pride. The 'gastronomic meal of the French' was added to UNESCO's list of Intangible Cultural Heritage, celebrating it as a social custom for celebrating important moments.",
-    "id": "6891aa2fcce776cb04766916",
-    "created_date": "2025-08-05T06:52:31.054000",
-    "updated_date": "2025-08-05T06:52:31.054000",
-    "created_by_id": "688f2ccb192c06d06024420a",
-    "created_by": "zubair_zm@hotmail.com",
-    "is_sample": false
-  },
-  {
-    "name": "Mexico",
-    "iso_code": "MX",
-    "continent": "North America",
-    "flag_emoji": "🇲🇽",
-    "cuisine_description": "Mexican cuisine is a complex and ancient cuisine, with techniques and skills developed over thousands of years of history. It is created mostly with ingredients native to Mexico, as well as those brought over by the Spanish conquistadors.",
-    "signature_dishes": [
-      "Tacos al Pastor",
-      "Mole Poblano",
-      "Chiles Rellenos",
-      "Guacamole"
-    ],
-    "key_ingredients": [
-      "Corn (Maize)",
-      "Chili peppers",
-      "Beans",
-      "Avocado",
-      "Cilantro"
-    ],
-    "cooking_methods": [],
-    "food_culture": "Mexican food is a social event. It is common for families to gather and cook together, passing down recipes through generations. It was recognized by UNESCO as an Intangible Cultural Heritage of Humanity.",
-    "id": "6891aa2fcce776cb04766914",
-    "created_date": "2025-08-05T06:52:31.053000",
-    "updated_date": "2025-08-05T06:52:31.053000",
-    "created_by_id": "688f2ccb192c06d06024420a",
-    "created_by": "zubair_zm@hotmail.com",
-    "is_sample": false
-  },
-  {
-    "name": "Thailand",
-    "iso_code": "TH",
-    "continent": "Asia",
-    "flag_emoji": "🇹🇭",
-    "cuisine_description": "Thai cooking places emphasis on lightly prepared dishes with strong aromatic components and a spicy edge. It is known for its intricate interplay of at least three and up to four or five fundamental taste senses: sweet, sour, salty, bitter, and spicy.",
-    "signature_dishes": [
-      "Pad Thai",
-      "Tom Yum Goong",
-      "Green Curry",
-      "Mango Sticky Rice"
-    ],
-    "key_ingredients": [
-      "Lemongrass",
-      "Galangal",
-      "Kaffir lime leaves",
-      "Fish sauce",
-      "Coconut milk"
-    ],
-    "cooking_methods": [],
-    "food_culture": "Thai food is meant to be shared. A family-style meal will often consist of rice with several dishes that form a harmonious contrast of flavors and textures, all served at once.",
-    "id": "6891aa2fcce776cb04766917",
-    "created_date": "2025-08-05T06:52:31.054000",
-    "updated_date": "2025-08-05T06:52:31.054000",
-    "created_by_id": "688f2ccb192c06d06024420a",
-    "created_by": "zubair_zm@hotmail.com",
-    "is_sample": false
-  },
-  {
-    "name": "Italy",
-    "iso_code": "IT",
-    "continent": "Europe",
-    "flag_emoji": "🇮🇹",
-    "cuisine_description": "Italian cuisine is characterized by its simplicity, with many dishes having only two to four main ingredients. Italian cooks rely chiefly on the quality of the ingredients rather than on elaborate preparation.",
-    "signature_dishes": [
-      "Pizza Margherita",
-      "Spaghetti Carbonara",
-      "Lasagna",
-      "Risotto"
-    ],
-    "key_ingredients": [
-      "Olive oil",
-      "Tomatoes",
-      "Basil",
-      "Parmigiano-Reggiano",
-      "Pasta"
-    ],
-    "cooking_methods": [],
-    "food_culture": "Food is a central part of Italian culture, with long, leisurely meals shared with family and friends being a common practice. Regional differences are a hallmark of Italian cuisine.",
-    "id": "6891aa2fcce776cb04766912",
-    "created_date": "2025-08-05T06:52:31.053000",
-    "updated_date": "2025-08-05T06:52:31.053000",
-    "created_by_id": "688f2ccb192c06d06024420a",
-    "created_by": "zubair_zm@hotmail.com",
-    "is_sample": false
-  },
-  {
-    "name": "Spain",
-    "iso_code": "ES",
-    "continent": "Europe",
-    "flag_emoji": "🇪🇸",
-    "cuisine_description": "Spanish cuisine consists of a great variety of dishes which stem from the differences in geography, culture and climate. It is heavily influenced by seafood available from the waters that surround the country, and reflects the country's deep history.",
-    "signature_dishes": [
-      "Paella",
-      "Jamón Ibérico",
-      "Gazpacho",
-      "Patatas Bravas"
-    ],
-    "key_ingredients": [
-      "Olive oil",
-      "Garlic",
-      "Saffron",
-      "Paprika",
-      "Serrano ham"
-    ],
-    "cooking_methods": [],
-    "food_culture": "Tapas culture is a hallmark of Spanish life, where small savory dishes are shared among friends in bars. The main meal of the day, 'la comida', is typically eaten around 2-3 PM.",
-    "id": "6891aa2fcce776cb04766918",
-    "created_date": "2025-08-05T06:52:31.054000",
-    "updated_date": "2025-08-05T06:52:31.054000",
-    "created_by_id": "688f2ccb192c06d06024420a",
-    "created_by": "zubair_zm@hotmail.com",
-    "is_sample": false
-  },
-  {
-    "name": "Japan",
-    "iso_code": "JP",
-    "continent": "Asia",
-    "flag_emoji": "🇯🇵",
-    "cuisine_description": "Japanese cuisine is based on combining staple foods, typically Japanese rice or noodles, with a soup and okazu — dishes made from fish, vegetable, tofu, and the like — to add flavor to the staple food.",
-    "signature_dishes": [
-      "Sushi",
-      "Ramen",
-      "Tempura",
-      "Udon"
-    ],
-    "key_ingredients": [
-      "Rice",
-      "Soy sauce",
-      "Miso",
-      "Wasabi",
-      "Seaweed (Nori)"
-    ],
-    "cooking_methods": [],
-    "food_culture": "Japanese food culture is deeply intertwined with respect for seasons, presentation (moritsuke), and a balance of flavors and textures, often summarized by the principle of 'washoku'.",
-    "id": "6891aa2fcce776cb04766913",
-    "created_date": "2025-08-05T06:52:31.053000",
-    "updated_date": "2025-08-05T06:52:31.053000",
     "created_by_id": "688f2ccb192c06d06024420a",
     "created_by": "zubair_zm@hotmail.com",
     "is_sample": false

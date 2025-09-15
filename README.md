@@ -2,11 +2,11 @@
 
 # 🍔 Food-Pedia Data Repository
 
-<img src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/688f2ccb192c06d060244209/d9fe907fe_Food-Pedia21.png" width="120" height="120" style="border-radius: 50%; margin: 20px;">
+<img src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/688f2ccb192c06d060244209/f67df5e68_Food-PediaLogo.jpg" width="120" height="120" style="border-radius: 50%; margin: 20px;">
 
 ### 🇨🇭 Encyclopédie Culinaire Suisse & Mondiale
 
-**Dernière synchronisation:** lundi 15 septembre 2025 à 18:16
+**Dernière synchronisation:** lundi 15 septembre 2025 à 18:22
 
 [![Food-Pedia](https://img.shields.io/badge/🌍-food--pedia.ch-green)](https://food-pedia.ch)
 [![Données](https://img.shields.io/badge/📊-4 147 473_enregistrements-blue)](https://github.com/foodpedia25/Food-Pedia)
@@ -113,6 +113,6 @@ Food-Pedia est la plus grande encyclopédie culinaire suisse et mondiale.
 
 **🍽️ Bon Appétit ! 🇨🇭**
 
-<sub>Généré automatiquement • lundi 15 septembre 2025 à 18:16</sub>
+<sub>Généré automatiquement • lundi 15 septembre 2025 à 18:22</sub>
 
 </div>

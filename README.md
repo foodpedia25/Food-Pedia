@@ -2,11 +2,11 @@
 
 # 🍔 Food-Pedia Data Repository
 
-<img src="https://camo.githubusercontent.com/b12acc4d1973a7fa3edf8d23ecc79beebd0aa852a224181ecd49acdf8c4e57cf/68747470733a2f2f71747279707a7a636a6562766663696869796e742e73757061626173652e636f2f73746f726167652f76312f6f626a6563742f7075626c69632f6261736534342d70726f642f7075626c69632f3638386632636362313932633036643066303234343230392f6636376466356536385f466f6f642d5065646469614c6f676f2e6a7067" width="120" height="120" style="border-radius: 50%; margin: 20px;">
+<img src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/688f2ccb192c06d060244209/f67df5e68_Food-PediaLogo.jpg" width="120" height="120" style="border-radius: 50%; margin: 20px;">
 
 ### 🇨🇭 Encyclopédie Culinaire Suisse & Mondiale
 
-**Dernière synchronisation:** lundi 15 septembre 2025 à 18:35
+**Dernière synchronisation:** lundi 15 septembre 2025 à 18:42
 
 [![Food-Pedia](https://img.shields.io/badge/🌍-food--pedia.ch-green)](https://food-pedia.ch)
 [![Données](https://img.shields.io/badge/📊-4 147 473_enregistrements-blue)](https://github.com/foodpedia25/Food-Pedia)
@@ -113,7 +113,7 @@ Les données sont automatiquement synchronisées depuis l'application Food-Pedia
 ## 📞 Support & Contact
 
 - 🌐 **Site Web :** [food-pedia.ch](https://food-pedia.ch)
-- 📧 **Email :** support@food-pedia.ch
+- 📧 **Email :** info@food-pedia.ch
 - 🐙 **GitHub :** [github.com/foodpedia25](https://github.com/foodpedia25)
 
 ---

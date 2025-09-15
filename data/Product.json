@@ -52841,5 +52841,57 @@
     "created_by_id": "688f2ccb192c06d06024420a",
     "created_by": "zubair_zm@hotmail.com",
     "is_sample": false
+  },
+  {
+    "name": "lamb chops",
+    "description": "Lamb chops are tender cuts of meat from a lamb, typically taken from the rib, loin, or shoulder. Known for their rich flavor and versatility, they can be prepared in various ways, including grilling, pan-searing, or roasting, making them a favorite in many cuisines worldwide.",
+    "category": "red_meat",
+    "subcategory": null,
+    "origin_country": "Global",
+    "origin_region": null,
+    "season": null,
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
+    "varieties": [
+      {
+        "name": "Rib Chops",
+        "description": "Often called lamb lollipops due to the small handle of bone, these are the most tender lamb chops, known for their smooth texture and mild flavor.",
+        "characteristics": null
+      },
+      {
+        "name": "Loin Chops",
+        "description": "These lamb chops look like mini T-Bone steaks, with tender meat on both sides of the bone. They are meatier than rib chops and typically have a richer flavor.",
+        "characteristics": null
+      },
+      {
+        "name": "Shoulder Chops",
+        "description": "Larger cuts that come from the shoulder. They are less tender than rib and loin chops, so they need to cook slowly, making them not ideal for pan-searing.",
+        "characteristics": null
+      }
+    ],
+    "nutritional_info": {
+      "calories_per_100g": 294,
+      "protein": 25.6,
+      "carbs": 0,
+      "fat": 21.2,
+      "fiber": null,
+      "vitamins": [],
+      "minerals": []
+    },
+    "allergens": [],
+    "storage_instructions": null,
+    "preparation_tips": [],
+    "culinary_uses": [],
+    "flavor_profile": null,
+    "tags": [
+      "recherche-ia",
+      "lamb chops"
+    ],
+    "is_premium": false,
+    "id": "68c87bcb0fba38067921c14a",
+    "created_date": "2025-09-15T20:49:15.484000",
+    "updated_date": "2025-09-15T20:49:15.484000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
   }
 ]

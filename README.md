@@ -6,7 +6,7 @@
 
 ### 🇨🇭 Encyclopédie Culinaire Suisse & Mondiale
 
-**Dernière synchronisation:** lundi 15 septembre 2025 à 18:42
+**Dernière synchronisation:** lundi 15 septembre 2025 à 18:47
 
 [![Food-Pedia](https://img.shields.io/badge/🌍-food--pedia.ch-green)](https://food-pedia.ch)
 [![Données](https://img.shields.io/badge/📊-4 147 473_enregistrements-blue)](https://github.com/foodpedia25/Food-Pedia)

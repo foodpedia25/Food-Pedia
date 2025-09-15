@@ -1,5 +1,52 @@
 [
   {
+    "name": "Black Cardamom",
+    "description": "Black cardamom is a spice known for its smoky aroma and bold flavor, commonly used in savory dishes across various cuisines. Unlike green cardamom, it is dried over open flames, imparting a distinctive smoky taste. The pods contain small, dark seeds that are utilized whole or ground to enhance the depth of curries, stews, and rice dishes.",
+    "category": "spices",
+    "subcategory": null,
+    "origin_country": "India",
+    "origin_region": null,
+    "season": null,
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
+    "varieties": [
+      {
+        "name": "Amomum subulatum",
+        "description": "Commonly used in Indian and Nepalese cuisine, this variety is smaller and more pungent, imparting a strong smoky flavor to dishes.",
+        "characteristics": null
+      },
+      {
+        "name": "Amomum tsao-ko",
+        "description": "Predominantly used in Chinese cooking, this variety has larger seed pods and a milder flavor compared to Amomum subulatum.",
+        "characteristics": null
+      }
+    ],
+    "nutritional_info": {
+      "calories_per_100g": 300,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 15,
+      "fiber": null,
+      "vitamins": [],
+      "minerals": []
+    },
+    "allergens": [],
+    "storage_instructions": null,
+    "preparation_tips": [],
+    "culinary_uses": [],
+    "flavor_profile": null,
+    "tags": [
+      "recherche-ia",
+      "black cardamom"
+    ],
+    "is_premium": false,
+    "id": "68c75b5b2f3ffcc05dd088c1",
+    "created_date": "2025-09-15T00:18:35.152000",
+    "updated_date": "2025-09-15T00:18:35.152000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
     "name": "eggplant",
     "description": "Eggplant, also known as aubergine, is a versatile fruit from the nightshade family, celebrated for its rich, slightly bitter flavor and spongy texture. It is a staple in various cuisines worldwide, from Mediterranean to Asian, and can be prepared in numerous ways, including roasting, grilling, frying, and baking.",
     "category": "vegetables",
@@ -23688,53 +23735,6 @@
     "id": "68b7e9b824131e27256a9bd7",
     "created_date": "2025-09-03T07:09:44.826000",
     "updated_date": "2025-09-03T07:09:44.826000",
-    "created_by_id": "689b534365205af1581e8462",
-    "created_by": "info@food-pedia.ch",
-    "is_sample": false
-  },
-  {
-    "name": "le cassia",
-    "description": "Le cassia, également connu sous le nom de cannelle de Chine, est une épice obtenue à partir de l'écorce de l'arbre Cinnamomum cassia. Originaire de Chine, elle est largement utilisée en cuisine pour sa saveur chaude et piquante, souvent dans les desserts, les currys et les marinades.",
-    "category": "spices",
-    "subcategory": null,
-    "origin_country": "Chine",
-    "origin_region": null,
-    "season": null,
-    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000&auto=format&fit=crop",
-    "varieties": [
-      {
-        "name": "Cannelle de Chine",
-        "description": "La variété la plus courante, caractérisée par une écorce épaisse et une saveur plus piquante que la cannelle de Ceylan.",
-        "characteristics": null
-      },
-      {
-        "name": "Cannelle de Saïgon",
-        "description": "Originaire du Vietnam, cette variété a une teneur en huile essentielle plus élevée, offrant une saveur plus intense.",
-        "characteristics": null
-      }
-    ],
-    "nutritional_info": {
-      "calories_per_100g": 300,
-      "protein": 5,
-      "carbs": 20,
-      "fat": 15,
-      "fiber": null,
-      "vitamins": [],
-      "minerals": []
-    },
-    "allergens": [],
-    "storage_instructions": null,
-    "preparation_tips": [],
-    "culinary_uses": [],
-    "flavor_profile": null,
-    "tags": [
-      "recherche-ia",
-      "le cassia"
-    ],
-    "is_premium": false,
-    "id": "68b7e97824131e27256a98f4",
-    "created_date": "2025-09-03T07:08:40.268000",
-    "updated_date": "2025-09-03T07:08:40.268000",
     "created_by_id": "689b534365205af1581e8462",
     "created_by": "info@food-pedia.ch",
     "is_sample": false

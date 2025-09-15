@@ -1,36 +1,9 @@
-# 🍔 Food-Pedia - Sauvegarde GitHub
+# Food-Pedia Data Repository
 
-## 📊 Statistiques de Synchronisation
+Last sync: 2025-09-15T00:20:41.890Z
 
-- **Dernière mise à jour :** 14/09/2025 11:24:29
-- **Total d'enregistrements (échantillon) :** 1 772
-- **Entités synchronisées :** 19
+This repository contains the data and schemas for the Food-Pedia application.
 
-## 📁 Arborescence du Repository
-
-Voici la structure des fichiers générés par la synchronisation :
-
-```
-/Food-Pedia/
-├── 📊 data/                     # Données brutes (échantillons)
-│   ├── product.json             # 500 produits
-│   ├── recipe.json              # 1000 recettes  
-│   ├── beverage.json            # 16 boissons
-│   └── ... (19 fichiers au total)
-│
-├── 🏗️ schemas/                  # Schémas JSON décrivant les données
-│   ├── index.json               # Index de tous les schémas
-│   ├── product-schema.json      # Structure de l'entité 'Product'
-│   ├── recipe-schema.json       # Structure de l'entité 'Recipe'
-│   └── ... (19 schémas au total)
-│
-└── 📚 README.md                # Ce fichier de documentation
-```
-
-## 🔍 Utilisation
-
-- Les **schémas** dans `/schemas` définissent la structure de chaque type de donnée.
-- Les **données** dans `/data` contiennent un échantillon des enregistrements pour chaque entité.
-
----
-*Généré automatiquement par le moteur de synchronisation Food-Pedia.*
+**Statistics:**
+- Total Records: 4147473
+- Entities: Product, Recipe, Beverage, CantonSpecialty, CookingTip, Country, SeasonalCollection, Store, University, User, Language, Translation

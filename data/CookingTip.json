@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Proper Food Storage: Maximize Freshness",
+    "category": "storage",
+    "difficulty": "beginner",
+    "description": "Store herbs like flowers in water, keep potatoes in dark cool places, and never refrigerate tomatoes, onions, or garlic. Understanding proper storage extends ingredient life significantly.",
+    "video_url": null,
+    "image_url": null,
+    "tags": [
+      "storage",
+      "freshness",
+      "herbs",
+      "vegetables"
+    ],
+    "chef_name": "Maria Gonzalez",
+    "is_premium": false,
+    "id": "68928c13ea4925811ffbdc2f",
+    "created_date": "2025-08-05T22:56:19.946000",
+    "updated_date": "2025-08-05T22:56:19.946000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "title": "Salt Timing: When and How Much",
+    "category": "seasoning",
+    "difficulty": "beginner",
+    "description": "Learn the crucial timing of salting different ingredients. Salt vegetables 40 minutes before cooking to draw out moisture, but salt meat just before cooking to prevent moisture loss.",
+    "video_url": null,
+    "image_url": null,
+    "tags": [
+      "salt",
+      "timing",
+      "vegetables",
+      "meat"
+    ],
+    "chef_name": "Auguste Dubois",
+    "is_premium": false,
+    "id": "68928c13ea4925811ffbdc2d",
+    "created_date": "2025-08-05T22:56:19.946000",
+    "updated_date": "2025-08-05T22:56:19.946000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "title": "The Science of Perfect Bread Dough",
+    "category": "baking",
+    "difficulty": "advanced",
+    "description": "Understand gluten development through proper kneading technique. The windowpane test reveals when dough is ready - stretch a small piece until translucent without tearing.",
+    "video_url": null,
+    "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=1000&auto=format&fit=crop",
+    "tags": [
+      "bread",
+      "gluten",
+      "kneading",
+      "dough"
+    ],
+    "chef_name": "Hans Mueller",
+    "is_premium": true,
+    "id": "68928c13ea4925811ffbdc30",
+    "created_date": "2025-08-05T22:56:19.946000",
+    "updated_date": "2025-08-05T22:56:19.946000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "title": "Emulsification Mastery: Perfect Sauces",
+    "category": "cooking_methods",
+    "difficulty": "advanced",
+    "description": "Create silky smooth emulsions by slowly whisking oil into egg yolks at room temperature. The key is adding fat drop by drop initially, then in a thin stream once the emulsion begins.",
+    "video_url": null,
+    "image_url": null,
+    "tags": [
+      "emulsion",
+      "sauces",
+      "mayonnaise",
+      "hollandaise"
+    ],
+    "chef_name": "Isabella Romano",
+    "is_premium": true,
+    "id": "68928c13ea4925811ffbdc2e",
+    "created_date": "2025-08-05T22:56:19.946000",
+    "updated_date": "2025-08-05T22:56:19.946000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "title": "Perfect Knife Grip for Precision Cuts",
+    "category": "knife_skills",
+    "difficulty": "beginner",
+    "description": "Master the pinch grip technique to improve your cutting accuracy and speed. Hold the knife handle with three fingers while pinching the blade with your thumb and index finger just above the bolster.",
+    "video_url": null,
+    "image_url": "https://images.unsplash.com/photo-1556908114-4d0d4b2e5e3e?q=80&w=1000&auto=format&fit=crop",
+    "tags": [
+      "knife skills",
+      "basics",
+      "safety",
+      "precision"
+    ],
+    "chef_name": "Marco Benedetti",
+    "is_premium": false,
+    "id": "68928c13ea4925811ffbdc2b",
+    "created_date": "2025-08-05T22:56:19.946000",
+    "updated_date": "2025-08-05T22:56:19.946000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  },
+  {
+    "title": "The Perfect Sear: High Heat Secrets",
+    "category": "cooking_methods",
+    "difficulty": "intermediate",
+    "description": "Achieve restaurant-quality sears by ensuring your pan is smoking hot before adding oil, then protein. Never move the food until a proper crust forms - patience is key.",
+    "video_url": null,
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=1000&auto=format&fit=crop",
+    "tags": [
+      "searing",
+      "meat",
+      "technique",
+      "high heat"
+    ],
+    "chef_name": "Sarah Chen",
+    "is_premium": false,
+    "id": "68928c13ea4925811ffbdc2c",
+    "created_date": "2025-08-05T22:56:19.946000",
+    "updated_date": "2025-08-05T22:56:19.946000",
+    "created_by_id": "688f2ccb192c06d06024420a",
+    "created_by": "zubair_zm@hotmail.com",
+    "is_sample": false
+  }
+]

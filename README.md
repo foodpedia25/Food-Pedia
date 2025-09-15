@@ -1,6 +1,6 @@
 # Food-Pedia Data Repository
 
-**Dernière synchronisation:** 2025-09-15T17:00:49.431Z
+**Dernière synchronisation:** 2025-09-15T17:07:49.095Z
 
 Ce repository contient les données et schémas pour l'application Food-Pedia.
 
@@ -15,8 +15,10 @@ Ce repository contient les données et schémas pour l'application Food-Pedia.
 | Entité | Nombre d'enregistrements |
 |--------|--------------------------|
 | Product | 1,278 |
+| Recipe | 0 |
 | Beverage | 16 |
 | CantonSpecialty | 87 |
+| CommunityRecipe | 0 |
 | CookingTip | 6 |
 | Country | 13 |
 | SeasonalCollection | 5 |

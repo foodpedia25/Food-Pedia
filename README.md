@@ -6,7 +6,7 @@
 
 ### 🇨🇭 Encyclopédie Culinaire Suisse & Mondiale
 
-**Dernière synchronisation:** lundi 15 septembre 2025 à 17:34
+**Dernière synchronisation:** lundi 15 septembre 2025 à 17:39
 
 [![Food-Pedia](https://img.shields.io/badge/🌍-food--pedia.ch-green)](https://food-pedia.ch)
 [![Données](https://img.shields.io/badge/📊-4 147 473_enregistrements-blue)](https://github.com/foodpedia25/Food-Pedia)
@@ -36,9 +36,6 @@
 │   └── 📝 Translation.json      (515 traductions)
 │
 ├── 🗃️ entities/
-│   ├── Product.json
-│   ├── Recipe.json
-│   ├── Beverage.json
 │   └── ... (schémas des entités)
 │
 └── 📄 README.md
@@ -51,44 +48,36 @@
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://cdn-icons-png.flaticon.com/64/2921/2921222.png" width="32"><br>
 <strong>1 278</strong><br>
 <sub>Produits</sub>
 </td>
 <td align="center">
-<img src="https://cdn-icons-png.flaticon.com/64/3643/3643327.png" width="32"><br>
 <strong>4 145 427</strong><br>
 <sub>Recettes</sub>
 </td>
 <td align="center">
-<img src="https://cdn-icons-png.flaticon.com/64/992/992700.png" width="32"><br>
 <strong>16</strong><br>
 <sub>Boissons</sub>
 </td>
 <td align="center">
-<img src="https://cdn-icons-png.flaticon.com/64/3082/3082031.png" width="32"><br>
 <strong>13</strong><br>
 <sub>Pays</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://cdn-icons-png.flaticon.com/64/1077/1077114.png" width="32"><br>
 <strong>6</strong><br>
 <sub>Utilisateurs</sub>
 </td>
 <td align="center">
-<img src="https://cdn-icons-png.flaticon.com/64/684/684262.png" width="32"><br>
 <strong>104</strong><br>
 <sub>Magasins</sub>
 </td>
 <td align="center">
-<img src="https://cdn-icons-png.flaticon.com/64/3002/3002543.png" width="32"><br>
 <strong>0</strong><br>
 <sub>Recettes Communautaires</sub>
 </td>
 <td align="center">
-<img src="https://cdn-icons-png.flaticon.com/64/2991/2991148.png" width="32"><br>
 <strong>515</strong><br>
 <sub>Traductions</sub>
 </td>
@@ -99,43 +88,24 @@
 
 ## 🎯 À Propos de Food-Pedia
 
-> **Food-Pedia** est la plus grande encyclopédie culinaire suisse et mondiale, offrant une base de données complète de produits, recettes, et traditions culinaires.
+Food-Pedia est la plus grande encyclopédie culinaire suisse et mondiale.
 
-### ✨ Fonctionnalités Principales
+### ✨ Fonctionnalités
 
-- 🔍 **Recherche Intelligente** - Moteur de recherche IA avancé
-- 🇨🇭 **Cuisine Suisse** - Spécialités cantonales authentiques  
-- 🌍 **Cuisines du Monde** - Recettes internationales
-- 🤖 **Assistant IA** - Chat culinaire intelligent
-- 👥 **Communauté** - Partage de recettes et expériences
-- 🏪 **Magasins Partenaires** - Localisation des produits
-- 📱 **Application PWA** - Installation sur mobile/desktop
-
-### 🔧 Architecture Technique
-
-- **Frontend:** React avec Shadcn/UI et Tailwind CSS
-- **Backend:** Deno Deploy Functions 
-- **Base de Données:** Base44 Platform
-- **IA:** Gemini Pro pour le chat et la génération de contenu
-- **APIs:** Google Search, Translation, Text-to-Speech
-- **Déploiement:** Base44 avec synchronisation GitHub
-
----
-
-## 📈 Historique des Synchronisations
-
-| Date | Enregistrements | Entités | Statut |
-|------|----------------|---------|---------|
-| 2025-09-15 | 4 147 473 | 0 | ✅ Succès |
+- 🔍 Recherche Intelligente
+- 🇨🇭 Cuisine Suisse  
+- 🌍 Cuisines du Monde
+- 🤖 Assistant IA
+- 👥 Communauté
+- 🏪 Magasins Partenaires
+- 📱 Application PWA
 
 ---
 
 ## 🚀 Liens Utiles
 
-- 🌐 **Site Web:** [food-pedia.ch](https://food-pedia.ch)
-- 📺 **YouTube:** [@Food-Pedia-ch](https://www.youtube.com/@Food-Pedia-ch)
-- 🔧 **Application:** [Base44 Platform](https://base44.app)
-- 📊 **Dashboard:** Accès administrateur uniquement
+- 🌐 [food-pedia.ch](https://food-pedia.ch)
+- 📺 [@Food-Pedia-ch](https://www.youtube.com/@Food-Pedia-ch)
 
 ---
 
@@ -143,6 +113,6 @@
 
 **🍽️ Bon Appétit ! 🇨🇭**
 
-<sub>Généré automatiquement par Food-Pedia • lundi 15 septembre 2025 à 17:34</sub>
+<sub>Généré automatiquement • lundi 15 septembre 2025 à 17:39</sub>
 
 </div>

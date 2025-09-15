@@ -6,10 +6,10 @@
 
 ### 🇨🇭 Encyclopédie Culinaire Suisse & Mondiale
 
-**Dernière synchronisation:** lundi 15 septembre 2025 à 18:31
+**Dernière synchronisation:** lundi 15 septembre 2025 à 18:32
 
 [![Food-Pedia](https://img.shields.io/badge/🌍-food--pedia.ch-green)](https://food-pedia.ch)
-[![Données](https://img.shields.io/badge/📊-0_enregistrements-blue)](https://github.com/foodpedia25/Food-Pedia)
+[![Données](https://img.shields.io/badge/📊-4 147 473_enregistrements-blue)](https://github.com/foodpedia25/Food-Pedia)
 [![Entités](https://img.shields.io/badge/🗃️-0_entités-purple)](https://github.com/foodpedia25/Food-Pedia)
 
 </div>
@@ -21,19 +21,19 @@
 ```
 🍔 Food-Pedia/
 ├── 📊 data/
-│   ├── 🥬 Product.json          (0 produits)
-│   ├── 📖 Recipe.json           (0 recettes)
-│   ├── 🍷 Beverage.json         (0 boissons)
-│   ├── 🏔️ CantonSpecialty.json  (0 spécialités)
+│   ├── 🥬 Product.json          (1278 produits)
+│   ├── 📖 Recipe.json           (4145427 recettes)
+│   ├── 🍷 Beverage.json         (16 boissons)
+│   ├── 🏔️ CantonSpecialty.json  (87 spécialités)
 │   ├── 👥 CommunityRecipe.json  (0 recettes communautaires)
-│   ├── 💡 CookingTip.json       (0 conseils)
-│   ├── 🌍 Country.json          (0 pays)
-│   ├── ❄️ SeasonalCollection.json (0 collections)
-│   ├── 🏪 Store.json            (0 magasins)
-│   ├── 🎓 University.json       (0 universités)
-│   ├── 👤 User.json             (0 utilisateurs)
-│   ├── 🌐 Language.json         (0 langues)
-│   └── 📝 Translation.json      (0 traductions)
+│   ├── 💡 CookingTip.json       (6 conseils)
+│   ├── 🌍 Country.json          (13 pays)
+│   ├── ❄️ SeasonalCollection.json (5 collections)
+│   ├── 🏪 Store.json            (104 magasins)
+│   ├── 🎓 University.json       (6 universités)
+│   ├── 👤 User.json             (6 utilisateurs)
+│   ├── 🌐 Language.json         (10 langues)
+│   └── 📝 Translation.json      (515 traductions)
 │
 ├── 🗃️ entities/
 │   └── ... (schémas des entités)
@@ -48,29 +48,29 @@
 <table align="center">
 <tr>
 <td align="center">
-<strong>0</strong><br>
+<strong>1 278</strong><br>
 <sub>Produits</sub>
 </td>
 <td align="center">
-<strong>0</strong><br>
+<strong>4 145 427</strong><br>
 <sub>Recettes</sub>
 </td>
 <td align="center">
-<strong>0</strong><br>
+<strong>16</strong><br>
 <sub>Boissons</sub>
 </td>
 <td align="center">
-<strong>0</strong><br>
+<strong>13</strong><br>
 <sub>Pays</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<strong>0</strong><br>
+<strong>6</strong><br>
 <sub>Utilisateurs</sub>
 </td>
 <td align="center">
-<strong>0</strong><br>
+<strong>104</strong><br>
 <sub>Magasins</sub>
 </td>
 <td align="center">
@@ -78,7 +78,7 @@
 <sub>Recettes Communautaires</sub>
 </td>
 <td align="center">
-<strong>0</strong><br>
+<strong>515</strong><br>
 <sub>Traductions</sub>
 </td>
 </tr>
@@ -113,6 +113,6 @@ Food-Pedia est la plus grande encyclopédie culinaire suisse et mondiale.
 
 **🍽️ Bon Appétit ! 🇨🇭**
 
-<sub>Généré automatiquement • lundi 15 septembre 2025 à 18:31</sub>
+<sub>Généré automatiquement • lundi 15 septembre 2025 à 18:32</sub>
 
 </div>
